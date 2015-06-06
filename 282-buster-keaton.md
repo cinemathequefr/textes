@@ -1,6 +1,6 @@
 Auteur : Jean-Philippe Tessé
 
-# L'extrême beauté de buster keaton
+# L'extrême beauté de Buster Keaton
 
 Buster Keaton est déjà venu à la Cinémathèque française. C'était en 1962, à la faveur d'une rétrospective conçue par Henri Langlois. Présent ce jour-là, Jean-André Fieschi avait par la suite raconté la scène à Jacques Tati&nbsp;: «&nbsp;Keaton avait traversé la salle de la rue d'Ulm, bourrée de monde, électrisée de ferveur et de reconnaissance, au milieu d'un tonnerre (véritable) d'applaudissements sans fin. Keaton était monté sur l'estrade, avait laissé tomber son manteau. Les applaudissements ne cessaient pas. Keaton pleurait doucement.&nbsp;» (Jean-André Fieschi, *La Voix de Jacques Tati*). Il faut imaginer Buster Keaton pleurer doucement&nbsp;: car si Buster fut «&nbsp;l'homme qui ne rit jamais&nbsp;», nul ne l'a jamais vu pleurer.
 
