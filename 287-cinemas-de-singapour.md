@@ -1,6 +1,6 @@
-# Un cinéma aux deux visages
+Auteur : Raphaël Millet
 
-Raphaël Millet
+# Un cinéma aux deux visages
 
 Du cinéma singapourien, que sait-on en France&nbsp;? Bien peu de choses en somme, car au-delà de quelques récentes projections festivalières, c'est un cinéma qui n'existe pas sur nos écrans, quasiment jamais distribué en salle ou en vidéo, et encore plus rarement diffusé à la télévision. Le nombre de films singapouriens que le cinéphile pourtant averti connaît éventuellement se comptent sur les doigts des deux mains, pas plus&nbsp;: quelques Eric Khoo (*12 Storeys*, *Be With Me*, ayant eu l'honneur d'une sélection cannoise en leur temps) et Royston Tan (le controversé *15*, le beaucoup plus sage *881*), et les –&nbsp;pour le moment&nbsp;– uniques longs métrages de Ho Tzu Nyen (*Here*, à la Quinzaine des réalisateurs en 2009), Boo Junfeng (*Sandcastle*, à la Semaine de la critique en 2010) et Anthony Chen (*Ilo Ilo*, Caméra d'Or à Cannes en 2013, première absolue pour Singapour).
 
