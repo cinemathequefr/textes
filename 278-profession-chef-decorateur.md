@@ -1,4 +1,4 @@
-# Autour de l'exposition chef décorateur
+# Autour de l'exposition Profession&nbsp;: chef décorateur
 
 Afin d'accompagner l'accrochage de la galerie des donateurs Profession&nbsp;: chef décorateur, la Cinémathèque française propose une programmation d'une vingtaine de films représentatifs à la fois du travail de grands chefs décorateurs et de forts tournants dans l'histoire du décor de l'après-guerre à nos jours. Ils illustrent l'art des décors spectaculaires construits de l'après-guerre jusqu'à la fin des années cinquante dans les studios, tels que la station Barbès entièrement reconstituée par Alexandre Trauner pour *Les Portes de la nuit* ou encore *Notre-Dame de Paris* dont le bas est bâti en «&nbsp;dur&nbsp;» par René Renoux sur les plateaux de Boulogne.
 
