@@ -1,0 +1,11 @@
+# Autour de l'exposition chef décorateur
+
+Afin d'accompagner l'accrochage de la galerie des donateurs Profession&nbsp;: chef décorateur, la Cinémathèque française propose une programmation d'une vingtaine de films représentatifs à la fois du travail de grands chefs décorateurs et de forts tournants dans l'histoire du décor de l'après-guerre à nos jours. Ils illustrent l'art des décors spectaculaires construits de l'après-guerre jusqu'à la fin des années cinquante dans les studios, tels que la station Barbès entièrement reconstituée par Alexandre Trauner pour *Les Portes de la nuit* ou encore *Notre-Dame de Paris* dont le bas est bâti en «&nbsp;dur&nbsp;» par René Renoux sur les plateaux de Boulogne.
+
+Au début des années cinquante, cette profession doit s'adapter aux nouveaux choix esthétiques des réalisateurs de la Nouvelle Vague, qui tournent en décors naturels. Pourtant nombre d'entre eux retournent très vite aux très bonnes conditions de tournage qu'offre le studio. Le décor du *Locataire* réalisé à Épinay par Pierre Guffroy, contribuera à maintes reprises à illustrer l'imaginaire de Roman Polanski. Jacques Saulnier créera l'univers d'Alain Resnais sur les plateaux d'Arpajon pour *Smoking, No Smoking*, *Cœurs* et *Les Herbes folles* --&nbsp;dont la projection sera suivie d'un making-of sur le travail de ce chef décorateur disparu récemment.
+
+Depuis les années quatre-vingt dix, les chefs décorateurs sont à nouveau confrontés à la disparition des studios, délocalisés dans les pays de l'Est, mais aussi à l'utilisation grandissante des «&nbsp;fonds verts&nbsp;». *Faubourg 36* en est un très bon exemple car les décors typiquement parisiens réalisés par Jean Rabasse sont construits dans la campagne de la banlieue de Prague, les «&nbsp;fonds verts&nbsp;» entièrement composés d'images numériques montrant Paris étant incrustés en post-production.
+
+Malgré tout, de nombreux réalisateurs sont encore aujourd'hui réticents aux tournages en studio. Par exemple, Bertolucci a tourné entièrement *Dreamers* en décors naturels. Son chef décorateur Jean Rabasse a dû monter les décors sur des roulettes pour laisser libre pendant la journée le lieu de tournage utilisé la nuit.
+
+Françoise Lémerige
