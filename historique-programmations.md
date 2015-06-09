@@ -42,7 +42,7 @@ Id|Titre|Du|Au
 253|(Expo) Le musée imaginaire d'Henri Langlois|2014-04-10|2014-05-28
 252|Centenaire de la Grande Guerre au cinéma|2014-03-26|2014-12-01
 251|Tsai Ming-liang|2014-03-10|2014-03-30
-250|(Expo) Amos Gitai|2014-02-26|2014-04-06
+250|(Expo) Amos Gitai, architecte de la mémoire|2014-02-26|2014-04-06
 249|Caroline Champetier|2014-02-05|2014-02-23
 248|Jean-Charles Fitoussi|2014-01-22|2014-02-02
 247|James B. Harris|2014-01-20|2014-01-30
@@ -201,7 +201,7 @@ Id|Titre|Du|Au
 94|De l'influence de l'opéra sur le cinéma chinois|2008-12-04|2008-12-11
 93|Juliette Binoche|2008-11-19|2008-12-05
 92|Pablo Trapero|2008-10-31|2008-11-02
-91|(Expo) Dennis Hopper|2008-10-15|2008-12-01
+91|(Expo) Dennis Hopper et le Nouvel Hollywood|2008-10-15|2008-12-01
 90|Rabah Ameur-Zaïmeche|2008-10-10|2008-10-10
 89|Pierre Lhomme|2008-10-01|2008-11-05
 88|Spike Lee|2008-09-03|2008-09-28
