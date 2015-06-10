@@ -20,7 +20,7 @@ Id|Titre|Du|Au
 275|Toute la mémoire du monde 2015|2015-01-28|2015-02-01
 274|François Reichenbach|2015-01-07|2015-02-23
 273|Claude Sautet|2014-12-10|2015-01-04
-272|Rétrospective John Ford|2014-12-03|2015-02-23
+272|John Ford|2014-12-03|2015-02-23
 271|Hommage à Georges Simenon|2014-12-03|2015-01-22
 270|Portraits de femmes dans le cinéma chinois|2014-11-19|2014-11-30
 269|(Expo) François Truffaut|2014-10-08|2014-12-29
