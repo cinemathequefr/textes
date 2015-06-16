@@ -1,7 +1,3 @@
-Auteurs&nbsp;: Bernard Payen, Gabriella Trujillo
-
-(Chapeau) Des films muets de Humberto Mauro au contemporain *Bruits de Recife* de Kleber Mendonça Filho, la Cinémathèque propose un large panorama d'une cinématographie riche, diverse mais trop méconnue.
-
 # Visions du cinéma brésilien
 
 On connaît mal la cinématographie du Brésil depuis plus d'un siècle, même si ce très vaste pays est l'un des plus grands producteurs de films en Amérique. La rétrospective proposée par la Cinémathèque française offre la possibilité de voir ou revoir les grands classiques, les films devenus culte, quelques perles rares, sans oublier quelques longs métrages récents importants.
@@ -30,3 +26,5 @@ Mais surtout, la qualité et la visibilité des films brésiliens contemporains 
 La profusion de courts métrages, sérieuse tradition brésilienne entamée dès 1986 (ce qu'on a appelé alors, et jusqu'en 1994, «&nbsp;le printemps du court métrage&nbsp;») se poursuit aujourd'hui, aidée par de nombreuses possibilités de financement, et permet l'émergence de cinéastes qui abordent enfin, parfois après de longues années, le long métrage, avec des envies et des thématiques très différentes. Le nouveau cinéma brésilien filme (entre autres) les incertitudes de l'adolescence (*Play a Song for Me*, 2009), les territoires cinématographiques traditionnels à la frontière du passé et du présent (*Tourbillon*, 2011 ou *Vents d'août*, 2014), la ville comme un personnage (*Obra*, 2014), investit le champ de l'intime (*Celui que nous laisserons*, 2012 ou *Permanência*, 2014), mêle fantastique et réalité (*Trabalhar cansa*, 2010), croise le récit initiatique et la réflexion sociale et politique (*Casa grande*, 2014), et conserve sa militance (les productions Alumbramento de Fortaleza).
 
 Très vivant, présent dans les festivals internationaux, il peine toutefois, mystérieusement, comme celui de ses aïeux, à se faire connaître. Exception à la règle, *Les Bruits de Recife* (2013), qui lie le portrait en coupe d'une société contemporaine inquiète à l'assurance d'une mise en scène rigoureuse. Son succès national et international laisse présager un regain de passion pour une cinématographie surprenante dont la centaine de séances de cette rétrospective témoignera.
+
+Bernard Payen, Gabriella Trujillo
