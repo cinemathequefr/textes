@@ -1,5 +1,3 @@
-Auteur : Murielle Joudet
-
 # Ingrid Bergman, histoire d'un visage
 
 Dissimulé sous les larges bords de sa capeline blanche dans *Casablanca*, ou les cheveux au vent sur l'île de *Stromboli*, le visage d'Ingrid Bergman s'est toujours défendu d'appartenir à une seule lumière. Elle fut pour cette raison même l'actrice pure parce que fondamentalement déracinée, ou plutôt&nbsp;: s'enracinant là où son désir de jouer l'emportait. Actrice mais aussi star par excellence, celle dont la vie privée brille du même éclat qu'une filmographie n'ayant d'ailleurs jamais cessé d'être le secret commentaire de cette première.
@@ -29,3 +27,5 @@ Les six films que Rossellini et Bergman tourneront ensemble sont autant de magni
 En dehors de ces exceptions, le corps d'Ingrid Bergman, après avoir plané sur les cimes d'un classicisme adamantin, traversera la vulgarité «&nbsp;cartoonesque&nbsp;» de la télévision et la déliquescence du cinéma américain des années 1960 où sa performance, bien que souvent passionnante, est cantonnée à des rôles de jeune femme débonnaire (*The Inn of Sixth Happiness* / *L'Auberge du sixième bonheur*, *Cactus Flower* / *Fleur de cactus*). Il manque dans ces films le regard de grands cinéastes pour modeler ce torrent de bonté, seul *A Matter of Time* (*Nina*) de Minnelli arrivant justement à se faire le commentaire de ce lent crépuscule hollywoodien.
 
 La filmographie d'Ingrid Bergman se concluera par un retour en Suède. En 1978, elle tourne *Höstsonaten* (*Sonate d'automne*) avec Ingmar Bergman, où elle incarne une grande pianiste qui revient en Suède après avoir fait passer sa carrière avant ses filles. *Sonate d'automne* peut être perçu comme la suite d'*Intermezzo*, film qu'elle tourna deux fois et qui fit la transition entre sa carrière suédoise et hollywoodienne. Ingrid Bergman succomba à un cancer en 1982 à l'âge de soixante-sept ans. Ce dernier grand film douloureux, où se devine le sadisme fasciné de son réalisateur démontra une dernière fois qu'à la politique de l'auteur devait toujours résister celle d'une grande actrice.
+
+Muriel Joudet
