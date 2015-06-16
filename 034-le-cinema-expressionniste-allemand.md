@@ -1,7 +1,7 @@
 # De l'autre côté de l'écran
 
 > «&nbsp;Que pensez-vous de l'expressionnisme, docteur&nbsp;?
-    –&nbsp;Un jeu&nbsp;! Mais pourquoi pas&nbsp;? Tout est jeu aujourd'hui&nbsp;!&nbsp;»
+>–&nbsp;Un jeu&nbsp;! Mais pourquoi pas&nbsp;? Tout est jeu aujourd'hui&nbsp;!&nbsp;»
 
 En 1922, le docteur Mabuse, dans sa première incarnation --&nbsp;celle d'un psychanalyste&nbsp;--, ironise sur ce courant à la mode, tout en reconnaissant qu'il est comme lui-même un reflet de l'époque. L'expressionnisme, antérieur à la guerre en peinture, musique et littérature, passe au cinéma après la défaite de 1918. Bientôt, *Le Cabinet du docteur Caligari* de Robert Wiene, comme l'écrit Henri Langlois en 1956, «&nbsp;délie le cinéma allemand de son passé et lie son sort à celui du théâtre et des arts d'avant-garde, affirmant ainsi la primauté de l'intellectuel sur le commercial&nbsp;». Le film va donner son nom, «&nbsp;caligarisme&nbsp;», à ce style, le révéler en France et ailleurs. Il en est le seul grand succès mondial.
 
