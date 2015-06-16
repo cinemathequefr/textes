@@ -1,7 +1,3 @@
-Auteur : François Thomas
-
-(Chapeau) Trente ans après la mort d'Orson Welles, ni lui ni son œuvre n'ont connu un mois de purgatoire. Welles est même devenu une figure de fiction&nbsp;: quantité de films, de pièces de théâtre, de romans, de bandes dessinées le comptent parmi leurs personnages. Il y est toujours plus grand que nature.
-
 # Orson Welles l'insaisissable
 
 ## L'énergie publique n°&nbsp;1
@@ -23,3 +19,5 @@ Welles a laissé derrière lui quantité de films inachevés, au sort parfois ro
 Nous connaissons aussi de mieux en mieux les versions multiples de ses films. Sur l'insistance de ses producteurs ou distributeurs, Welles a signé deux montages de *Macbeth*, d'*Othello* et d'*Une histoire immortelle* (1968), film tourné en français pour l'ORTF, en anglais pour les salles de cinéma. Et certains films ont circulé dans plusieurs moutures, telle la version montrée en projection test de *La Soif du mal* retrouvée dans les années 70. Les mauvais traitements que Welles a subis de son vivant ont comme encouragé une tendance à considérer son œuvre comme remontable à volonté après sa mort. Plusieurs tentatives de créer des versions «&nbsp;améliorées&nbsp;» ont été menées. Walter Murch, le monteur et concepteur son de *Conversation secrète* et d'*Apocalypse Now*, a ainsi appliqué une partie des recommandations que Welles avait rédigées en sortant de la projection d'une mouture de *La Soif du mal* remontée par les producteurs. Mais une erreur de lecture du mémo a conduit Murch à penser que Welles s'opposait à la partition de Henry Mancini sur le plan d'ouverture, et le marketing de cette «&nbsp;version inédite telle qu'Orson Welles l'a imaginée&nbsp;» a voulu faire croire qu'on monte un film en vingt-quatre heures. Les responsables de la seule version d'*Othello* à circuler aujourd'hui sur les écrans commerciaux ont jeté à la poubelle la musique et les bruitages de Welles et déformé électroniquement ses dialogues.
 
 Treize longs métrages achevés seulement&nbsp;? Oui, mais des dizaines d'heures de visionnement vous attendent. Dans cette rétrospective, le connaisseur découvrira de nombreux morceaux rares voire inédits en France. Quant au nouvel adepte, par où commencer&nbsp;? Quelle que soit l'entrée du labyrinthe, il est enthousiasmant de s'y perdre.
+
+François Thomas
