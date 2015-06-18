@@ -219,7 +219,7 @@ Id|Titre|Du|Au
 80|Teuvo Tulio|2008-04-29|2008-05-11
 79|L'illusion au cinéma|2008-04-28|2008-06-07
 78|(Expo) Georges Méliès|2008-04-16|2008-05-25
-77|Trésors en couleur des cinémathèque|2008-04-16|2008-04-27
+77|Trésors en couleur des cinémathèques|2008-04-16|2008-04-27
 76|Emile Cohl|2008-04-11|2008-04-13
 75|Mario Monicelli|2008-03-19|2008-05-19
 74|Johnny To|2008-03-05|2008-04-11
