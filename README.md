@@ -2,6 +2,8 @@
 
 Depuis novembre 2005.
 
+NB : 53 - Hommage à madame Kawakita a été remis à sa bonne place (2008 au lieu de 2007)
+
 ## Liste des cycles
 
 Id|Titre|Du|Au
@@ -215,6 +217,7 @@ Id|Titre|Du|Au
 84|Jess Franco|2008-06-18|2008-07-31
 83|47ème Semaine de la critique|2008-06-05|2008-06-08
 82|La sélection 1968 du Festival de Cannes|2008-05-29|2008-07-31
+53|Hommage à madame Kawakita|2008-05-28|2008-06-08
 81|Humbert Balsan|2008-05-07|2008-05-25
 80|Teuvo Tulio|2008-04-29|2008-05-11
 79|L'illusion au cinéma|2008-04-28|2008-06-07
@@ -243,7 +246,6 @@ Id|Titre|Du|Au
 56|46ème Semaine de la critique|2007-06-06|2007-06-10
 55|Les Productions Eclair|2007-06-06|2007-06-25
 54|Le cinéma de cape et d'épéee|2007-06-05|2007-07-28
-53|Hommage à madame Kawakita|2007-05-28|2007-06-08
 52|Hommage aux frères Hakim|2007-05-13|2007-05-27
 51|Alexandre Sokourov|2007-04-18|2007-06-04
 50|Rouben Mamoulian|2007-04-11|2007-05-04
