@@ -28,4 +28,4 @@ En dehors de ces exceptions, le corps d'Ingrid Bergman, après avoir plané sur 
 
 La filmographie d'Ingrid Bergman se concluera par un retour en Suède. En 1978, elle tourne *Höstsonaten* (*Sonate d'automne*) avec Ingmar Bergman, où elle incarne une grande pianiste qui revient en Suède après avoir fait passer sa carrière avant ses filles. *Sonate d'automne* peut être perçu comme la suite d'*Intermezzo*, film qu'elle tourna deux fois et qui fit la transition entre sa carrière suédoise et hollywoodienne. Ingrid Bergman succomba à un cancer en 1982 à l'âge de soixante-sept ans. Ce dernier grand film douloureux, où se devine le sadisme fasciné de son réalisateur démontra une dernière fois qu'à la politique de l'auteur devait toujours résister celle d'une grande actrice.
 
-Muriel Joudet
+Murielle Joudet
