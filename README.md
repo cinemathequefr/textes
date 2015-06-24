@@ -284,12 +284,12 @@ Id|Titre|Du|Au
 17|Dandysmes|2006-03-22|2006-04-09
 16|Giuseppe Rotunno|2006-03-22|2006-04-02
 15|Louis Feuillade|2006-03-01|2006-03-19
+4|Anthony Mann|2006-02-01|2006-03-28
 14|Roberto Rossellini|2006-01-18|2006-02-27
 13|Les courts métrages turcs de Maurice Pialat|2006-01-11|2006-01-11
 12|Robert Wise|2006-01-05|2006-02-02
 11|Les 110 ans de la Shochiku|2006-01-05|2006-01-15
 10|Isabelle Huppert|2006-01-04|2006-02-12
-4|Anthony Mann|2006-02-01|2006-03-28
 9|Le polar français|2006-01-02|2006-04-28
 8|Coup de chapeau à Walter Hill|2005-12-14|2005-12-24
 7|Louis Malle documentariste|2005-11-30|2005-12-11
