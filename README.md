@@ -2,7 +2,7 @@
 
 Depuis novembre 2005.
 
-NB : 53 - Hommage à madame Kawakita a été remis à sa bonne place (2008 au lieu de 2007)
+NB : Dates corrigée pour : 53 - Hommage à madame Kawakita, 4-Anthony Mann
 
 ## Liste des cycles
 
@@ -289,12 +289,12 @@ Id|Titre|Du|Au
 12|Robert Wise|2006-01-05|2006-02-02
 11|Les 110 ans de la Shochiku|2006-01-05|2006-01-15
 10|Isabelle Huppert|2006-01-04|2006-02-12
+4|Anthony Mann|2006-02-01|2006-03-28
 9|Le polar français|2006-01-02|2006-04-28
 8|Coup de chapeau à Walter Hill|2005-12-14|2005-12-24
 7|Louis Malle documentariste|2005-11-30|2005-12-11
 6|Douglas Sirk|2005-11-09|2005-12-30
 5|David Cronenberg|2005-11-02|2005-11-27
-4|Anthony Mann|2005-10-12|2005-03-26
 3|(Expo) Jean Renoir|2005-09-29|2005-12-30
 2|Michael Caine|2005-09-29|2005-10-30
 1|Les Géants de l'Ouest|2005-09-29|2005-12-30
