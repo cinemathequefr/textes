@@ -41,21 +41,21 @@ Id|Titre|Du|Au|PK Réal
 260|Le cinéma en 70 mm|2014-06-13|2014-06-30
 259|Panorama du cinéma vietnamien|2014-06-11|2014-06-22
 258|53ème Semaine de la critique|2014-06-04|2014-06-09
-257|Jean-Pierre et Luc Dardenne|2014-05-28|2014-06-12
-256|Charlie Chaplin|2014-05-10|2014-05-11
-255|Jean Epstein|2014-04-30|2014-05-26
-254|Yasujiro Ozu|2014-04-23|2014-05-26
+257|Jean-Pierre et Luc Dardenne|2014-05-28|2014-06-12|17073/17072
+256|Charlie Chaplin|2014-05-10|2014-05-11|8875
+255|Jean Epstein|2014-04-30|2014-05-26|13898
+254|Yasujiro Ozu|2014-04-23|2014-05-26|10572
 253|(Expo) Le musée imaginaire d'Henri Langlois|2014-04-10|2014-05-28
 252|Centenaire de la Grande Guerre au cinéma|2014-03-26|2014-12-01
-251|Tsai Ming-liang|2014-03-10|2014-03-30
-250|(Expo) Amos Gitai, architecte de la mémoire|2014-02-26|2014-04-06
-249|Caroline Champetier|2014-02-05|2014-02-23
-248|Jean-Charles Fitoussi|2014-01-22|2014-02-02
-247|James B. Harris|2014-01-20|2014-01-30
-246|Henry Hathaway|2014-01-08|2014-02-23
+251|Tsai Ming-liang|2014-03-10|2014-03-30|8156
+250|(Expo) Amos Gitai, architecte de la mémoire|2014-02-26|2014-04-06|8139
+249|Caroline Champetier|2014-02-05|2014-02-23|43632
+248|Jean-Charles Fitoussi|2014-01-22|2014-02-02|116976
+247|James B. Harris|2014-01-20|2014-01-30|9376
+246|Henry Hathaway|2014-01-08|2014-02-23|9170
 245|Panoptismes|2014-01-02|2014-01-19
 244|Hommage à Bernadette Lafont|2013-12-13|2013-12-15
-243|João César Monteiro|2013-12-11|2013-12-30
+243|João César Monteiro|2013-12-11|2013-12-30|7971
 242|Centenaire Universal|2013-12-05|2013-03-04
 241|Toute la mémoire du monde 2013|2013-12-03|2013-12-08
 240|Raymond Depardon|2013-11-14|2013-12-01
