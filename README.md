@@ -6,38 +6,38 @@ NB : Dates corrigée pour : 53 - Hommage à madame Kawakita, 4-Anthony Mann
 
 ## Liste des cycles
 
-Id|Titre|Du|Au
-:-:|---|:-:|:-:
-290|John Flynn|2015-07-15|2015-08-02
-289|Ingrid Bergman|2015-06-24|2015-08-02
-288|Orson Welles|2015-06-17|2015-08-02
+Id|Titre|Du|Au|PK Réal
+:-:|---|:-:|:-:|:-:
+290|John Flynn|2015-07-15|2015-08-02|9221
+289|Ingrid Bergman|2015-06-24|2015-08-02|
+288|Orson Welles|2015-06-17|2015-08-02|10460
 287|Cinémas de Singapour|2015-06-10|2015-07-06
-286|Frank Sinatra|2015-06-05|2015-06-17
-285|Arménie 2015, mémoire d'un peuple|2015-06-05|2015-06-08
-284|54ème Semaine de la critique|2015-06-03|2015-06-08
-283|Philippe de Broca|2015-05-06|2015-06-01
-282|Buster Keaton|2015-04-22|2015-06-01
-281|(Expo) Antonioni, aux origines du pop|2015-04-09|2015-05-31
-280|Brasil ! Une histoire du cinéma brésilien|2015-03-18|2015-05-18
-279|Nagisa Oshima|2015-03-04|2015-05-02
-278|(Expo) Profession : chef décorateur|2015-02-26|2015-05-29
-277|Ermanno Olmi|2015-02-25|2015-04-17
-276|Alexeï Guerman|2015-02-09|2015-02-22
-275|Toute la mémoire du monde 2015|2015-01-28|2015-02-01
-274|François Reichenbach|2015-01-07|2015-02-23
-273|Claude Sautet|2014-12-10|2015-01-04
-272|John Ford|2014-12-03|2015-02-23
-271|Hommage à Georges Simenon|2014-12-03|2015-01-22
-270|Portraits de femmes dans le cinéma chinois|2014-11-19|2014-11-30
-269|(Expo) François Truffaut|2014-10-08|2014-12-29
-268|Phil Karlson|2014-10-03|2014-11-22
-267|Guy Gilles|2014-09-24|2014-10-05
-266|John McTiernan|2014-09-10|2014-09-28
+286|Frank Sinatra|2015-06-05|2015-06-17|
+285|Arménie 2015, mémoire d'un peuple|2015-06-05|2015-06-08|
+284|54ème Semaine de la critique|2015-06-03|2015-06-08|
+283|Philippe de Broca|2015-05-06|2015-06-01|13308
+282|Buster Keaton|2015-04-22|2015-06-01|9268
+281|(Expo) Antonioni, aux origines du pop|2015-04-09|2015-05-31|8634
+280|Brasil ! Une histoire du cinéma brésilien|2015-03-18|2015-05-18|
+279|Nagisa Oshima|2015-03-04|2015-05-02|10081
+278|(Expo) Profession : chef décorateur|2015-02-26|2015-05-29|
+277|Ermanno Olmi|2015-02-25|2015-04-17|12885
+276|Alexeï Guerman|2015-02-09|2015-02-22|2969
+275|Toute la mémoire du monde 2015|2015-01-28|2015-02-01|
+274|François Reichenbach|2015-01-07|2015-02-23|14071
+273|Claude Sautet|2014-12-10|2015-01-04|14505
+272|John Ford|2014-12-03|2015-02-23|9181
+271|Hommage à Georges Simenon|2014-12-03|2015-01-22|
+270|Portraits de femmes dans le cinéma chinois|2014-11-19|2014-11-30|
+269|(Expo) François Truffaut|2014-10-08|2014-12-29|12833
+268|Phil Karlson|2014-10-03|2014-11-22|9335
+267|Guy Gilles|2014-09-24|2014-10-05|14034
+266|John McTiernan|2014-09-10|2014-09-28|8959
 265|Les Grands prix du Festival de Deauville|2014-09-03|2014-10-25
 264|40 ans de cinéma américain|2014-09-03|2014-10-25
-263|Sergio Leone|2014-09-03|2014-09-20
-262|Kinji Fukasaku|2014-07-02|2014-08-03
-261|Jean-Pierre Mocky|2014-06-25|2014-08-03
+263|Sergio Leone|2014-09-03|2014-09-20|12085
+262|Kinji Fukasaku|2014-07-02|2014-08-03|11392
+261|Jean-Pierre Mocky|2014-06-25|2014-08-03|5075
 260|Le cinéma en 70 mm|2014-06-13|2014-06-30
 259|Panorama du cinéma vietnamien|2014-06-11|2014-06-22
 258|53ème Semaine de la critique|2014-06-04|2014-06-09
