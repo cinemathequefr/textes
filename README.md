@@ -61,7 +61,6 @@ Idv3|_Id|Titre|Du|Au|PK Réal
 –|245|Panoptismes|2014-01-02|2014-01-19
 –|244|Hommage à Bernadette Lafont|2013-12-13|2013-12-15
 –|243|João César Monteiro|2013-12-11|2013-12-30|7971
-–|242|Centenaire Universal|2013-12-05|2013-03-04
 –|241|Toute la mémoire du monde 2013|2013-12-03|2013-12-08
 –|240|Raymond Depardon|2013-11-14|2013-12-01
 –|239|René Allio|2013-11-06|2013-12-01
@@ -89,7 +88,7 @@ Idv3|_Id|Titre|Du|Au|PK Réal
 –|217|Luigi Comencini|2013-01-09|2013-03-03
 –|216|Regard sur le cinéma croate|2012-12-19|2012-12-30
 –|215|Shinji Somai|2012-12-12|2013-01-06
-–|214|Clint Eastwood|2012-12-09|2012-01-12
+–|242|Centenaire Universal|2012-12-05|2013-03-04
 –|213|Toute la mémoire du monde 2012|2012-11-27|2012-12-02
 –|212|Pierre Perrault|2012-11-07|2012-11-25
 –|211|Marcel Ophuls|2012-11-03|2012-11-04
@@ -119,6 +118,7 @@ Idv3|_Id|Titre|Du|Au|PK Réal
 –|187|Robert Altman|2012-01-18|2012-03-11
 –|186|Steven Spielberg|2012-01-09|2012-02-14
 –|185|Images des Outre-mer|2011-12-14|2011-12-31
+–|214|Clint Eastwood|2011-12-09|2012-01-12
 –|184|Georges Méliès|2011-12-08|2011-12-08
 –|183|Centenaire de la Nikkatsu|2011-12-07|2012-01-20
 –|182|Centenaire du cinéma estonien|2011-11-23|2011-12-05
