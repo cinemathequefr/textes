@@ -6,6 +6,13 @@ Depuis novembre 2005.
 
 Idv3|_Id|Titre|Du|Au|PK Réal
 :-:|:-:|---|:-:|:-:|:-:
+179|303|Alexander Mackendrick|2016-02-15|2016-02-28|9608
+180|302|Luigi Zampa|2016-01-27|2016-02-28|12824
+178|300|Annett Wolf|2016-01-13|2016-01-29|412506
+175|301|Gérard Depardieu|2016-01-06|2016-02-27|
+182|-|Week-end Jean Douchet : Comiques ! Comiques ?|2015-12-12|2015-12-13
+183|304|Im Kwon-taek|2015-12-02|2016-02-29|13316
+177|299|Au loin s'en vont les nuages|2015-12-02|2016-01-22|
 89|298|Journées européennes du patrimoine 2015|2015-09-19|2015-09-20|
 91|297|Pierre Étaix|2015-11-07|2015-11-08|13937
 92|296|Miklós Jancsó|2015-10-28|2015-11-30|11777
