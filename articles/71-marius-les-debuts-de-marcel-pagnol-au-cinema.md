@@ -1,6 +1,12 @@
+---
+title: « Marius », les débuts de Marcel Pagnol au cinéma
+author: Hervé Pichard
+date: 2015-09-17
+---
+
 # « Marius », les débuts de Marcel Pagnol au cinéma
 
-Hervé Pichard - 17 septembre 2015 
+Hervé Pichard - 17 septembre 2015
 
 ---
 
