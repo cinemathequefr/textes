@@ -1,5 +1,8 @@
-
-#Jean-Pierre et Luc Dardenne
+---
+title: Jean-Pierre et Luc Dardenne
+author: Frédéric Bonnaud
+---
+# Jean-Pierre et Luc Dardenne
 
 À Seraing (Wallonie), ville anciennement prospère, aujourd'hui dévastée par la désindustrialisation et le chômage, un père et son fils se livrent à un juteux trafic d'êtres humains. Plus rien ne fonctionne que ce duo criminel et autarcique. Réduites à l'impuissance, les anciennes superstructures (l'Église catholique et ses multiples déclinaisons associatives&nbsp;:  syndicats, partis politiques) n'encadrent ni ne protègent plus personne. C'est une jungle urbaine, filmée comme telle, avec ses prédateurs et ses friches, où l'on survit en exploitant sans vergogne le malheur de celui qui est encore plus vulnérable que soi&nbsp;: le travailleur clandestin. «&nbsp;On se disait que les personnages étaient comme des animaux qui, dans la jungle, sentent ceux qu'ils vont manger ou ceux qui pourraient les manger –&nbsp;et la caméra devait être comme un autre animal qui guette. C'est un cinéma qui a un rapport avec le réel, mais ce qu'il faut, c'est que le réel apparaisse à travers les personnages et ce qu'ils font. Sinon, le réel les aurait écrasés et ils ne s'en seraient pas remis&nbsp;», expliquaient les frères aux *Inrockuptibles*, à l'automne 1996 quand sortait *La Promesse*.
 
