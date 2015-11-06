@@ -166,7 +166,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|148||Carte blanche imaginaire à Jean-André Fieschi|2010-10-20|2010-11-07
 –|147||David Lynch|2010-10-13|2010-10-31
 –|146||Larry Clark|2010-10-08|2010-10-10
-–|145||(Expo) Brune/Blonde|2010-10-06|2011-01-16
+–|145|☑|(Expo) Brune/Blonde|2010-10-06|2011-01-16
 –|144||Delphine Seyrig|2010-09-22|2010-10-11
 –|143||Catherine Breillat|2010-09-01|2010-09-20
 –|142|☑|Ernst Lubitsch|2010-08-25|2010-10-10
