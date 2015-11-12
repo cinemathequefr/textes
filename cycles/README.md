@@ -172,7 +172,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|142|☑|Ernst Lubitsch|2010-08-25|2010-10-10
 –|141||Riccardo Freda|2010-06-30|2010-08-01
 –|140||Akira Kurosawa|2010-06-23|2010-08-01
-–|139||Robert Mulligan|2010-06-09|2010-06-27
+–|139|☑|Robert Mulligan|2010-06-09|2010-06-27
 –|138||49ème Semaine de la critique|2010-06-03|2010-06-06
 –|137||Lee Man-Hee|2010-06-02|2010-06-21
 –|136||Marcel Hanoun|2010-04-28|2010-05-31
