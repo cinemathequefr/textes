@@ -190,11 +190,10 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|124||Le cinéma en 3D|2009-12-16|2010-01-03
 –|123||Laurel et Hardy|2009-12-09|2010-01-11
 –|122||Segundo de Chomón|2009-12-06|2010-02-07
-–|121||Georges Rouquier|2009-11-18|2009-11-30
+–|121|☑|Georges Rouquier|2009-11-18|2009-11-30
 –|120||(Expo) Lanternes magiques et films peints|2009-11-13|2009-11-27
 –|119||Federico Fellini|2009-10-21|2009-12-20
 –|118||Michael Haneke|2009-10-19|2009-11-21
-–|117||Fantômes|2009-10-14|2009-11-21
 –|116||Les 40 ans des Archives françaises du film|2009-10-07|2009-10-28
 –|115||La Nouvelle Vague, une génération d'acteurs|2009-09-23|2009-10-18
 –|114||Le cinéma photographié|2009-09-02|2009-09-19
@@ -311,3 +310,5 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|3||(Expo) Jean Renoir|2005-09-29|2005-12-30
 –|2||Michael Caine|2005-09-29|2005-10-30
 –|1||Les Géants de l'Ouest|2005-09-29|2005-12-30
+
+(Supprimé : 117 Fantômes = cycle JP)
