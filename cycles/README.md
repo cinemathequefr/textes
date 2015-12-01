@@ -250,7 +250,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|64||Un demi-siècle de cinéma français d'animation|2007-10-04|2007-10-17
 –|63||Shanghai, années 30 et 40|2007-09-20|2007-09-30
 –|62||Ida Lupino|2007-09-12|2007-09-19
-–|61||Sidney Lumet|2007-08-23|2007-09-12
+–|61|☑|Sidney Lumet|2007-08-23|2007-09-12
 –|60|☑|Yasuzo Masumura|2007-08-22|2007-10-14
 –|59||Preston Sturges|2007-07-04|2007-07-22
 –|58||Terence Fisher|2007-06-20|2007-07-29
