@@ -73,7 +73,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|240||Raymond Depardon|2013-11-14|2013-12-01
 –|239||René Allio|2013-11-06|2013-12-01
 –|238||(Expo) Pasolini Roma|2013-10-16|2014-01-06
-–|237||(Expo) Jean Cocteau et le cinématographe|2013-10-02|2013-11-22
+–|237|☑|(Expo) Jean Cocteau et le cinématographe|2013-10-02|2013-11-22
 –|236||Joel et Ethan Coen|2013-10-02|2013-10-27
 –|235||Métamorphoses|2013-09-22|2013-12-01
 –|234||Bernardo Bertolucci|2013-09-11|2013-10-13
