@@ -244,8 +244,8 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|70||Les 35 ans de Mad Movies|2007-12-21|2007-12-30
 –|69||Howard Hawks|2007-12-05|2008-02-04
 –|68||Pierre Schoendoerffer|2007-11-21|2007-12-02
-–|67||Humphrey Jennings|2007-11-07|2007-11-18
-–|66||Gus Vant Sant|2007-10-24|2007-11-05
+–|67|☑|Humphrey Jennings|2007-11-07|2007-11-18
+–|66||Gus Van Sant|2007-10-24|2007-11-05
 –|65||(Expo) Sacha Guitry|2007-10-17|2007-12-02
 –|64||Un demi-siècle de cinéma français d'animation|2007-10-04|2007-10-17
 –|63||Shanghai, années 30 et 40|2007-09-20|2007-09-30
