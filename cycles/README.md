@@ -235,7 +235,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|79||L'illusion au cinéma|2008-04-28|2008-06-07
 –|78||(Expo) Georges Méliès|2008-04-16|2008-05-25
 –|77||Trésors en couleur des cinémathèques|2008-04-16|2008-04-27
-–|76||Emile Cohl|2008-04-11|2008-04-13
+–|76|☑|Emile Cohl|2008-04-11|2008-04-13
 –|75||Mario Monicelli|2008-03-19|2008-05-19
 –|74||Johnny To|2008-03-05|2008-04-11
 –|73||Jeanne Moreau|2008-02-06|2008-03-03
@@ -308,7 +308,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|6||Douglas Sirk|2005-11-09|2005-12-30
 –|5||David Cronenberg|2005-11-02|2005-11-27
 –|3||(Expo) Jean Renoir|2005-09-29|2005-12-30
-–|2||Michael Caine|2005-09-29|2005-10-30
+–|2|☑|Michael Caine|2005-09-29|2005-10-30
 –|1||Les Géants de l'Ouest|2005-09-29|2005-12-30
 
 (Supprimé : 117 Fantômes = cycle JP)
