@@ -57,7 +57,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|257|☑|Jean-Pierre et Luc Dardenne|2014-05-28|2014-06-12|17073/17072
 –|256||Charlie Chaplin|2014-05-10|2014-05-11|8875
 –|255|☑|Jean Epstein|2014-04-30|2014-05-26|13898
-–|254||Yasujiro Ozu|2014-04-23|2014-05-26|10572
+–|254|☑|Yasujiro Ozu|2014-04-23|2014-05-26|10572
 –|253||(Expo) Le musée imaginaire d'Henri Langlois|2014-04-10|2014-05-28
 –|252||Centenaire de la Grande Guerre au cinéma|2014-03-26|2014-12-01
 –|251||Tsai Ming-liang|2014-03-10|2014-03-30|8156
