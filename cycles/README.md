@@ -9,7 +9,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|312||Michèle Rosier|2016-05-04|2016-05-15
 –|311||Salle d'attente : carte blanche à Jean-Michel Alberola|2016-04-06|2016-04-27
 –|310||Pierre Richard|2016-04-06|2016-04-27
-–|309||Raoul Ruiz|2016-03-30|2016-05-30
+–|309|☑|Raoul Ruiz|2016-03-30|2016-05-30
 –|308||Jean Gabin|2016-03-16|2016-05-30
 –|307||Hou Hsiao-hsien|2016-03-02|2016-03-31
 268|306|☑|Toute la mémoire du monde|2016-02-03|2016-02-07
