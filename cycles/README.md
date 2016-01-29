@@ -6,8 +6,8 @@ Depuis novembre 2005.
 
 Idv3|_Id||Titre|Du|Au|PK Réal
 :-:|:-:|:-:|---|:-:|:-:|:-:
-–|312||Michèle Rosier|2016-05-04|2016-05-15
-–|311||Salle d'attente : carte blanche à Jean-Michel Alberola|2016-04-06|2016-04-27
+–|312|☑|Michèle Rosier|2016-05-04|2016-05-15
+–|311|☑|Salle d'attente : carte blanche à Jean-Michel Alberola|2016-04-06|2016-04-27
 –|310|☑|Pierre Richard|2016-04-06|2016-04-27
 315|309|☑|Raoul Ruiz|2016-03-30|2016-05-30
 –|308|☑|Jean Gabin|2016-03-16|2016-05-30
