@@ -6,10 +6,10 @@ Depuis novembre 2005.
 
 Idv3|_Id||Titre|Du|Au|PK Réal
 :-:|:-:|:-:|---|:-:|:-:|:-:
-–|||Vilmos Zsigmond|2016-07-01|2016-07-04
-–|||Wes Craven|2016-06-29|2016-07-31
+–|321|☑|Vilmos Zsigmond|2016-07-01|2016-07-04
+–|320|☑|Wes Craven|2016-06-29|2016-07-31
 –|318|☑|Patrick Grandperret|2016-06-24|2016-07-03
-–|||Week-end Jean Douchet : Résistances|2016-06-18|2016-06-19
+–|319|☑|Week-end Jean Douchet : Résistances|2016-06-18|2016-06-19
 –|317|☑|Le mélodrame français|2016-06-15|2016-07-31
 339|316|☑|John Huston|2016-06-08|2016-07-31
 338|314|☑|Changements de têtes : de Méliès à David Lynch|2016-06-02|2016-06-30
