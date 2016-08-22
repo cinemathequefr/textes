@@ -6,21 +6,33 @@ Depuis novembre 2005.
 
 Idv3|_Id||Titre|Du|Au|PK Réal
 :-:|:-:|:-:|---|:-:|:-:|:-:
-–|321|☑|Vilmos Zsigmond|2016-07-01|2016-07-04
-–|320|☑|Wes Craven|2016-06-29|2016-07-31
-–|318|☑|Patrick Grandperret|2016-06-24|2016-07-03
-–|319|☑|Week-end Jean Douchet : Résistances|2016-06-18|2016-06-19
-–|317|☑|Le mélodrame français|2016-06-15|2016-07-31
+354|333|☑|American Fringe|2016-11-25|2016-11-27
+361|332|☑|Patrice Chéreau|2016-11-16|2016-11-28
+355|331|☑|Jean-François Laguionie|2016-11-12|2016-11-14
+352|330|☑|Lalo Schifrin|2016-11-09|2016-11-14
+350|329|☑|Satyajit Ray|2016-11-02|2016-11-27
+357|328|☑|Carl Theodor Dreyer|2016-10-12|2016-11-06
+356|327|☑|De Méliès à la 3D : La machine cinéma|2016-10-05|2017-01-29
+360|326|☑|Élections à l'Américaine|2016-09-29|2016-10-28
+351|325|☑|L'écran japonais|2016-09-14|2017-06-12
+358|324|☑|30 ans de Rivages/Noir|2016-09-07|2016-10-09
+359|323|☑|Michael Cimino|2016-08-31|2016-09-03
+353|322|☑|Josef Von Sternberg|2016-08-31|2016-10-02
+342|321|☑|Vilmos Zsigmond|2016-07-01|2016-07-04
+344|320|☑|Wes Craven|2016-06-29|2016-07-31
+341|318|☑|Patrick Grandperret|2016-06-24|2016-07-03
+343|319|☑|Week-end Jean Douchet : Résistances|2016-06-18|2016-06-19
+340|317|☑|Le mélodrame français|2016-06-15|2016-07-31
 339|316|☑|John Huston|2016-06-08|2016-07-31
 338|314|☑|Changements de têtes : de Méliès à David Lynch|2016-06-02|2016-06-30
 337||☑|55ème Semaine de la critique|2016-06-01|2016-06-06
-–|313|☑|Gus Van Sant|2016-04-13|2016-07-31
-–|312|☑|Michèle Rosier|2016-05-04|2016-05-15
-–|311|☑|Salle d'attente : carte blanche à Jean-Michel Alberola|2016-04-06|2016-04-27
-–|310|☑|Pierre Richard|2016-04-06|2016-04-27
+269|313|☑|Gus Van Sant|2016-04-13|2016-07-31
+317|312|☑|Michèle Rosier|2016-05-04|2016-05-15
+326|311|☑|Salle d'attente : carte blanche à Jean-Michel Alberola|2016-04-06|2016-04-27
+314|310|☑|Pierre Richard|2016-04-06|2016-04-27
 315|309|☑|Raoul Ruiz|2016-03-30|2016-05-30
-–|308|☑|Jean Gabin|2016-03-16|2016-05-30
-–|307|☑|Hou Hsiao-hsien|2016-03-02|2016-03-31
+313|308|☑|Jean Gabin|2016-03-16|2016-05-30
+316|307|☑|Hou Hsiao-hsien|2016-03-02|2016-03-31
 268|306|☑|Toute la mémoire du monde|2016-02-03|2016-02-07
 182|305|☑|Week-end Jean Douchet : Comiques ! Comiques ?|2015-12-12|2015-12-13
 183|304|☑|Im Kwon-taek|2015-12-02|2016-02-29|13316
