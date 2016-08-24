@@ -13,7 +13,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 350|329||Satyajit Ray|2016-11-02|2016-11-27
 357|328||Carl Theodor Dreyer|2016-10-12|2016-11-06
 356|327||De Méliès à la 3D : La machine cinéma|2016-10-05|2017-01-29
-360|326||Élections à l'Américaine|2016-09-29|2016-10-28
+360|326|☑|Élections à l'Américaine|2016-09-29|2016-10-28
 351|325|☑|L'écran japonais|2016-09-14|2017-06-12
 358|324|☑|30 ans de Rivages/Noir|2016-09-07|2016-10-09
 359|323|☑|Michael Cimino|2016-08-31|2016-09-03
