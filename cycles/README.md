@@ -10,7 +10,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 361|332||Patrice Chéreau|2016-11-16|2016-11-28
 355|331||Jean-François Laguionie|2016-11-12|2016-11-14
 352|330||Lalo Schifrin|2016-11-09|2016-11-14
-350|329||Satyajit Ray|2016-11-02|2016-11-27
+350|329|☑|Satyajit Ray|2016-11-02|2016-11-27
 357|328|☑|Carl Theodor Dreyer|2016-10-12|2016-11-06
 356|327|☑|De Méliès à la 3D : La machine cinéma|2016-10-05|2017-01-29
 360|326|☑|Élections à l'Américaine|2016-09-29|2016-10-28
