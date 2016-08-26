@@ -9,8 +9,8 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 354|333||American Fringe|2016-11-25|2016-11-27
 361|332||Patrice Chéreau|2016-11-16|2016-11-28
 355|331||Jean-François Laguionie|2016-11-12|2016-11-14
-352|330||Lalo Schifrin|2016-11-09|2016-11-14
-350|329|☑|Satyajit Ray|2016-11-02|2016-11-27
+352|330|☑|Lalo Schifrin|2016-11-09|2016-11-14
+350|329|☑|Satyajit Ray|2016-11-02|2016-11-28
 357|328|☑|Carl Theodor Dreyer|2016-10-12|2016-11-06
 356|327|☑|De Méliès à la 3D : La machine cinéma|2016-10-05|2017-01-29
 360|326|☑|Élections à l'Américaine|2016-09-29|2016-10-28
@@ -25,7 +25,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 340|317|☑|Le mélodrame français|2016-06-15|2016-07-31
 339|316|☑|John Huston|2016-06-08|2016-07-31
 338|314|☑|Changements de têtes : de Méliès à David Lynch|2016-06-02|2016-06-30
-337||☑|55ème Semaine de la critique|2016-06-01|2016-06-06
+337|315|☑|55ème Semaine de la critique|2016-06-01|2016-06-06
 269|313|☑|Gus Van Sant|2016-04-13|2016-07-31
 317|312|☑|Michèle Rosier|2016-05-04|2016-05-15
 326|311|☑|Salle d'attente : carte blanche à Jean-Michel Alberola|2016-04-06|2016-04-27
