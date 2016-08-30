@@ -6,18 +6,18 @@ Depuis novembre 2005.
 
 Idv3|_Id||Titre|Du|Au|PK Réal
 :-:|:-:|:-:|---|:-:|:-:|:-:
-354|333||American Fringe|2016-11-25|2016-11-27
-361|332||Patrice Chéreau|2016-11-16|2016-11-28
+354|333|☑|American Fringe|2016-11-25|2016-11-27
+361|332|☑|Patrice Chéreau|2016-11-16|2016-11-28
 355|331|☑|Jean-François Laguionie|2016-11-12|2016-11-14
 352|330|☑|Lalo Schifrin|2016-11-09|2016-11-14
 350|329|☑|Satyajit Ray|2016-11-02|2016-11-28
 357|328|☑|Carl Theodor Dreyer|2016-10-12|2016-11-06
 356|327|☑|De Méliès à la 3D : La machine cinéma|2016-10-05|2017-01-29
-360|326|☑|Élections à l'Américaine|2016-09-29|2016-10-28
+360|326|☑|Élections à l'Américaine|2016-09-29|2016-10-31
 351|325|☑|L'écran japonais|2016-09-14|2017-06-12
 358|324|☑|30 ans de Rivages/Noir|2016-09-07|2016-10-09
-359|323|☑|Michael Cimino|2016-08-31|2016-09-03
-353|322|☑|Josef Von Sternberg|2016-08-31|2016-10-02
+359|323|☑|Michael Cimino|2016-08-31|2016-09-05
+353|322|☑|Josef Von Sternberg|2016-08-31|2016-09-25
 342|321|☑|Vilmos Zsigmond|2016-07-01|2016-07-04
 344|320|☑|Wes Craven|2016-06-29|2016-07-31
 341|318|☑|Patrick Grandperret|2016-06-24|2016-07-03
