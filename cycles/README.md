@@ -6,6 +6,13 @@ Depuis novembre 2005.
 
 Idv3|_Id||Titre|Du|Au|PK Réal
 :-:|:-:|:-:|---|:-:|:-:|:-:
+–|340||Pierre Chavelier|2017-02-15|2017-02-28
+–|339||Jane Birkin|2017-01-25|2017-02-11
+–|338||Nouvelles voix du cinéma chinois|2017-01-11|2017-02-20
+–|337||Frank Capra|2017-01-04|2017-02-27
+–|336|☑|Hollywood décadent|2016-12-14|2017-01-25
+–|335||Kirk Douglas a 100 ans|2016-12-09|2016-12-09
+–|334|☑|Marco Bellocchio|2016-12-07|2017-01-09
 354|333|☑|American Fringe|2016-11-25|2016-11-27
 361|332|☑|Patrice Chéreau|2016-11-16|2016-11-28
 355|331|☑|Jean-François Laguionie|2016-11-12|2016-11-14
