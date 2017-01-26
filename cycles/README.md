@@ -6,6 +6,16 @@ Depuis novembre 2005.
 
 Idv3|_Id||Titre|Du|Au|PK Réal
 :-:|:-:|:-:|---|:-:|:-:|:-:
+383|350|☑|Marlen Khoutsiev|2017-05-10|2017-05-28
+379|349|☑|Jean Eustache|2017-05-03|2017-05-27
+382|348|☑|Festival de Cannes : scandales et controverses|2017-04-26|2017-05-28
+375|347|☑|Alain Jessua|2017-04-19|2017-04-29
+381|346|☑|Jacques Becker|2017-04-05|2017-04-29
+378|345|☑|Dorothy Arzner|2017-03-22|2017-04-09
+377|344|☑|Darius Khondji|2017-03-15|2017-04-07
+376|343|☑|Joe Dante|2017-03-01|2017-04-01
+380|342|☑|Mômes &amp; Cie|2017-03-29|2017-07-30
+–|341||Toute la mémoire du monde||
 373|340|☑|Pierre Chavelier|2017-02-15|2017-02-28
 367|339|☑|Jane Birkin|2017-01-25|2017-02-11
 366|338|☑|Nouvelles voix du cinéma chinois|2017-01-11|2017-02-20

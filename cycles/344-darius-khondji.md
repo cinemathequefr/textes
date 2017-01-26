@@ -1,0 +1,34 @@
+---
+title: Le vif-argentique
+author: Bernard Payen
+---
+
+# Le vif-argentique
+
+Amoureux de la photographie argentique et du cinémascope, brillant expérimentateur, Darius Khondji est l'un des plus grands chefs opérateurs actuels. Depuis *Le Trésor des îles Chiennes* et les premiers films de Caro et Jeunet ou de David Fincher, son parcours cinématographique est international, comme en témoignent ses derniers films tournés sous la direction de James Gray (*The Lost City of Z*, 2017), ou Bong Joon-ho (*Okja*, 2017).
+
+---
+
+Les chefs-opérateurs racontent souvent qu'ils espèrent que leur travail reste invisible, avec la volonté de rester au service du film et du metteur en scène. Plus que n'importe qui d'autre, Darius Khondji le modeste vous le rappellera. Pourtant, à perdre son regard dans sa filmographie riche d'une soixantaine de titres (films courts et longs), on ne peut que contrarier ce désir. La photographie de Darius Khondji nous marque, nous touche, nous hante, des noirs encre de chine du *Trésor des îles Chiennes* (F.J. Ossang, 1990) et de *Seven* (David Fincher) à la solarité de *Beauté volée* (Bertolucci) en passant par les clairs-obscurs mordorés de *The Immigrant* (James Gray). Le mariage des influences diverses de Darius Khondji engendre une image qui associerait la réalité documentaire d'un Robert Frank au cinéma expressionniste allemand en faisant un détour par la stylisation affirmée d'un Edward Hopper.
+
+D'origine iranienne, très tôt installé à Paris, il réalise, enfant, ses tous premiers courts métrages en Super 8, puis se forme, tout jeune homme, à la photographie et au cinéma aux États-Unis. D'abord à Los Angeles (UCLA) puis à la New York University, où il aura notamment pour professeur Haig Manoogian (professeur de Martin Scorsese), et influencé aussi par la photographie de Gregg Toland (chef-opérateur de *Citizen Kane*, célèbre pour son utilisation de la profondeur de champ). Plus tard, revenu en France, sa rencontre avec le chef-opérateur Bruno Nuytten sera aussi déterminante dans ses années d'apprentissage. Assistant opérateur, il commence aussi à réaliser l'image de publicités et de clips (*Tandem* de Vanessa Paradis, réalisé par Mondino, ou *K.O.K* réalisé par Decouflé, entre autres exemples). Puis arrive en 1989 le projet du *Trésor des îles Chiennes*, deuxième long métrage de F.&thinsp;J. Ossang. Huit longues semaines de tournage pendant lesquelles Darius Khondji fait la lumière et le cadre. Un véritable travail de direction artistique aux côtés du cinéaste indépendant. Le chef-opérateur tourne sur un négatif qu'il tire ensuite sur de la pellicule son. Une véritable première qui a pour effet «&nbsp;d'accentuer les contrastes en rendant des blancs fulgurants et des noirs d'encre. Quant au Scope, j'avais l'impression que c'était le plus format à cadrer&nbsp;: on rentre dans les visages, on fait des amorces. Ce film était mon rêve d'enfance.&nbsp;»[^1]
+
+## De «&nbsp;Delicatessen&nbsp;» aux projets internationaux
+
+Darius Khondji avait déjà abordé la couleur quelques années plus tôt avec les courts métrages de Régine Chopinot et Manuel Flèche. Des expérimentations qui impliquent un traitement sans blanchiment au développement de la pellicule pour augmenter le contraste et le grain. Les premiers résultats spectaculaires de cette technique aboutiront à l'image mémorable de *Delicatessen* (1991) et de *La Cité des enfants perdus* (1995) de Caro et Jeunet, qui perdurera avec des variations dans le travail du chef-opérateur jusqu'à *Evita* d'Alan Parker (1996). «&nbsp;Dans *Delicatessen*, on a beaucoup cherché sur la lumière dorée, le vert, l'association du vert à l'or. On a fait nombre d'essais sur les sources colorées, en colorant les projecteurs, en mettant plus de couleurs dans les costumes. Le traitement sans blanchiment enlevait de la couleur. Or parfois on ne voulait pas toujours désaturer. (...) Donc on rajoutait tout le temps de la couleur, de l'or, du rouge, des ocres.&nbsp;»[^2]
+
+Plus tard, avec *Seven* de David Fincher (1995), le traitement sans blanchiment sera encore plus radical, encore mieux maîtrisé. Le film ouvre alors la porte du cinéma international à Darius Khondji, qui enchaînera par des collaborations importantes avec Bernardo Bertolucci (*Beauté volée*, 1996), Roman Polanski (*La Neuvième porte*, 1999), Danny Boyle (*La Plage*, 2000), Wong Kar-wai (*My Blueberry Nights*, 2007) et bien sûr Woody Allen (quatre films dont *Midnight in Paris*, 2011) et retrouvera Jean-Pierre Jeunet (*Alien Resurrection*, 1997), David Fincher (*Panic Room*, 2002).
+
+## Des prises de risque
+
+Hormis *Amour* (Michael Haneke, 2012) et le tout dernier, *Okja* (2017), tournés en numérique, Darius Khondji a toujours privilégié l'argentique, le 35&bsp;mm, la photochimie. Sur la plupart de ses films, il fait en sorte de maîtriser le contraste des couleurs par une technique de flashage de la pellicule, une forme d'étalonnage au moment du tournage. Plus largement et plus intimement, pour évoquer la rencontre photographique entre lumière, noir et blanc, et couleur, Khondji cite en référence la photo de Pasqualino De Santis pour *Une journée particulière* de Scola&nbsp;: «&nbsp;Ce que j'ai vraiment appris de ce film, c'est le traitement de la couleur. Là où il y avait de la lumière, il y avait de la couleur. Tout le reste du décor était en noir et blanc. La lumière produisait la couleur. C'était une époque où il n'y avait pas d'étalonnage numérique.&nbsp;»[^3]
+
+L'expérimentation, la prise de risque, c'est ce qui caractérise la photographie de Darius Khondji, notamment par ses collaborations fructueuses avec Philippe Parreno&nbsp;: on se souvient de son *Zidane, un portrait du XXIe siècle* (2006), coréalisé avec Douglas Gordon, portrait captant au moyen de dix-sept caméras (16&nbsp;mm, 35&nbsp;mm, et HD) la star du foot&nbsp;: «&nbsp;L'idée première pour moi était techniquement d'avoir les zooms les plus puissants pour se retrouver au plus près de Zidane, autour de lui et comme si nous étions dans sa tête et dans son regard.&nbsp;» (*Lettre de l'AFC*, 2006). Il y aura aussi de nombreux courts métrages intégrant des installations de l'artiste, que la rétrospective Darius Khondji permettra de voir en salle de cinéma. Avec James Gray, l'audace et la singularité de l'image sont également de mise. Dans *The Immigrant*, la pellicule fine, moins piquée, les vieux objectifs filtrés et les choix de sous-exposition ont rendu inoubliable la photographie du film. Ils poursuivent depuis leur association&nbsp;: *The Lost City of Z* sort dans les salles en mars 2017 et le prochain film est déjà en préparation.
+
+Bernard Payen
+
+[^1]: *Cahiers du cinéma*, n°&nbsp;442 («&nbsp;"L'Homme à la caméra"&nbsp;: portrait de Darius Khondji&nbsp;» par Nicolas Saada).
+
+[^2]: *Positif*, n°&nbsp;641-42, juillet-août 2014 (entretien avec Darius Khondji par Hubert Niogret).
+
+[^3]: *Ibid.*
