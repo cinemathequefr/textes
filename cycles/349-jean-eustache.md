@@ -3,11 +3,13 @@ title: Funambule aux yeux bleus
 author: Gabriela Trujillo
 ---
 
-# Funambule aux yeux bleus
-
 En quelques films, courts ou longs métrages dont les mythiques *Le Père Noël a les yeux bleus*, *La Maman et la putain*, *Mes petites amoureuses*, Jean Eustache a élaboré l'une des œuvres les plus surprenantes de l'après-Nouvelle Vague. Un art de la cruauté et de la parole désirante, une précision du trait, un regard sans complaisance sur l'après-68 caractérisent son cinéma. 
 
-«&nbsp;Tu ne saurais être malheureux par la maladie, par la faim, par la prison, rien ne t'y contraignant, sois-le par ton art.&nbsp;» (Jean Genet, *Le Funambule*) 
+---
+
+# Funambule aux yeux bleus
+
+> «&nbsp;Tu ne saurais être malheureux par la maladie, par la faim, par la prison, rien ne t'y contraignant, sois-le par ton art.&nbsp;» (Jean Genet, *Le Funambule*) 
 
 «&nbsp;Vous bâtissez sur du pourri&nbsp;!&nbsp;» Tel est l'anathème que lance, dans *La Maman et la putain*, Alexandre à son «&nbsp;vieil amour merdique&nbsp;», Gilberte, lorsqu'elle lui annonce qu'elle fait le choix d'un mariage de raison. Tel est aussi l'avertissement que lance Jean Eustache, porteur d'un désenchantement dont il a été le plus flamboyant symptôme, à la société de son époque. Trente-cinq ans après sa mort, son œuvre offre encore un nuancier du désespoir contemporain, alliant l'humour, l'absurde et l'art de la conversation au regard d'un entomologiste qui se pencherait sur les misères affectives et matérielles de la fin des Trente Glorieuses. Eustache a dirigé douze films en moins de vingt ans, côtoyant la bande des *Cahiers du cinéma*, les cinéastes de la Nouvelle Vague, les dandys de la vie parisienne (Picq, Schuhl)&nbsp;; il a collaboré avec de grands techniciens (Almendros, Bonfanti, Lhomme), ainsi qu'avec les acteurs emblématiques de son époque (Caven, Lafont, Léaud, Lebrun, Lonsdale, Pialat, Weingarten).
 
