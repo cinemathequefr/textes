@@ -6,6 +6,16 @@ Depuis novembre 2005.
 
 Idv3|_Id||Titre|Du|Au|PK Réal
 :-:|:-:|:-:|---|:-:|:-:|:-:
+395|360||Plein les yeux !|2017-07-14|2017-07-30
+393|359|☑|Vittorio Cottafavi|2017-07-12|2017-07-30
+391|358|☑|Good Cop, Bad Cop|2017-07-05|2017-07-30
+388|357|☑|Andreï Tarkovski|2017-06-28|2017-07-12
+392|356|☑|Mauritz Stiller|2017-06-14|2017-07-05
+394|355||Voyage au cœur du cinéma français des années 1930|2017-06-07|2017-06-29
+396|354||56ème Semaine de la critique|2017-06-07|2017-06-14
+390|353|☑|John Boorman|2017-06-01|2017-06-25
+387|352|☑|7 jours avec Vincent Lindon|2017-05-31|2017-06-07
+389|351||Révisons nos classiques|2017-05-31|2017-07-29
 383|350|☑|Marlen Khoutsiev|2017-05-10|2017-05-28
 379|349|☑|Jean Eustache|2017-05-03|2017-05-27
 382|348|☑|Festival de Cannes : scandales et controverses|2017-04-26|2017-05-28
@@ -21,7 +31,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 366|338|☑|Nouvelles voix du cinéma chinois|2017-01-11|2017-02-20
 365|337|☑|Frank Capra|2017-01-04|2017-02-27
 372|336|☑|Hollywood décadent|2016-12-14|2017-01-25
-369|335||Kirk Douglas a 100 ans|2016-12-09|2016-12-09
+369|335|☑|Kirk Douglas a 100 ans|2016-12-09|2016-12-09
 370|334|☑|Marco Bellocchio|2016-12-07|2017-01-09
 354|333|☑|American Fringe|2016-11-25|2016-11-27
 361|332|☑|Patrice Chéreau|2016-11-16|2016-11-28
@@ -42,7 +52,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 340|317|☑|Le mélodrame français|2016-06-15|2016-07-31
 339|316|☑|John Huston|2016-06-08|2016-07-31
 338|314|☑|Changements de têtes : de Méliès à David Lynch|2016-06-02|2016-06-30
-337|315|☑|55ème Semaine de la critique|2016-06-01|2016-06-06
+337|315||55ème Semaine de la critique|2016-06-01|2016-06-06
 269|313|☑|Gus Van Sant|2016-04-13|2016-07-31
 317|312|☑|Michèle Rosier|2016-05-04|2016-05-15
 326|311|☑|Salle d'attente : carte blanche à Jean-Michel Alberola|2016-04-06|2016-04-27
