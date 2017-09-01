@@ -6,6 +6,19 @@ Depuis novembre 2005.
 
 Idv3|_Id||Titre|Du|Au|PK Réal
 :-:|:-:|:-:|---|:-:|:-:|:-:
+412|373||Jean Rouch : restaurations, raretés et inachevés|2017-11-22|2017-11-27
+413|372||American Fringe, saison 2|2017-11-17|2017-11-19
+408|371||Le mystère Clouzot|2017-11-08|2018-07-29
+411|370||Roman Polanski|2017-10-30|2017-12-03
+409|369||L'URSS des cinéastes|2017-10-18|2017-12-27
+406|368||Luchino Visconti|2017-10-11|2017-11-09
+407|367||Howard Shore|2017-10-09|2017-10-22
+402|366||Goscinny et le cinéma|2017-10-04|2018-03-04
+414|365|☑|Claire Denis|2017-09-25|2017-10-20
+410|364|☑|Hong Kong : 20 ans, 20 films|2017-09-20|2017-10-11
+405|363|☑|Jean Vigo|2017-09-02|2017-09-03
+403|362|☑|Milos Forman|2017-08-31|2017-09-20
+404|361|☑|Jacques Tourneur|2017-08-30|2017-10-08
 395|360|☑|Plein les yeux !|2017-07-14|2017-07-30
 393|359|☑|Vittorio Cottafavi|2017-07-12|2017-07-30
 391|358|☑|Good Cop, Bad Cop|2017-07-05|2017-07-30
@@ -20,7 +33,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 379|349|☑|Jean Eustache|2017-05-03|2017-05-27
 382|348|☑|Festival de Cannes : scandales et controverses|2017-04-26|2017-05-28
 375|347|☑|Alain Jessua|2017-04-19|2017-04-29
-381|346|☑|Jacques Becker|2017-04-05|2017-04-29
+381|346|☑|Jacques Becker|2017-04-05|2017-04-30
 378|345|☑|Dorothy Arzner|2017-03-22|2017-04-09
 377|344|☑|Darius Khondji|2017-03-15|2017-04-07
 376|343|☑|Joe Dante|2017-03-01|2017-04-01
@@ -53,9 +66,9 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 339|316|☑|John Huston|2016-06-08|2016-07-31
 338|314|☑|Changements de têtes : de Méliès à David Lynch|2016-06-02|2016-06-30
 337|315||55ème Semaine de la critique|2016-06-01|2016-06-06
+326|311|☑|Salle d'attente : carte blanche à Jean-Michel Alberola|2016-04-23|2016-04-24
 269|313|☑|Gus Van Sant|2016-04-13|2016-07-31
 317|312|☑|Michèle Rosier|2016-05-04|2016-05-15
-326|311|☑|Salle d'attente : carte blanche à Jean-Michel Alberola|2016-04-06|2016-04-27
 314|310|☑|Pierre Richard|2016-04-06|2016-04-27
 315|309|☑|Raoul Ruiz|2016-03-30|2016-05-30
 313|308|☑|Jean Gabin|2016-03-16|2016-05-30
@@ -106,7 +119,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|263|☑|Sergio Leone|2014-09-03|2014-09-20|12085
 –|262|☑|Kinji Fukasaku|2014-07-02|2014-08-03|11392
 –|261|☑|Jean-Pierre Mocky|2014-06-25|2014-08-03|5075
-–|260||Le cinéma en 70 mm|2014-06-13|2014-06-30
+–|260|☑|Le cinéma en 70 mm|2014-06-13|2014-06-30
 –|259|☑|Panorama du cinéma vietnamien|2014-06-11|2014-06-22
 –|258||53ème Semaine de la critique|2014-06-04|2014-06-09
 –|257|☑|Jean-Pierre et Luc Dardenne|2014-05-28|2014-06-12|17073/17072
@@ -115,7 +128,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|254|☑|Yasujiro Ozu|2014-04-23|2014-05-26|10572
 –|253||(Expo) Le musée imaginaire d'Henri Langlois|2014-04-10|2014-05-28
 –|252||Centenaire de la Grande Guerre au cinéma|2014-03-26|2014-12-01
-–|251||Tsai Ming-liang|2014-03-10|2014-03-30|8156
+–|251|☑|Tsai Ming-liang|2014-03-10|2014-03-30|8156
 –|250||(Expo) Amos Gitai, architecte de la mémoire|2014-02-26|2014-04-06|8139
 –|249||Caroline Champetier|2014-02-05|2014-02-23|43632
 –|248||Jean-Charles Fitoussi|2014-01-22|2014-02-02|116976

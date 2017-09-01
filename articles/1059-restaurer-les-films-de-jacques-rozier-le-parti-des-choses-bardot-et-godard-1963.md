@@ -1,0 +1,18 @@
+---
+title: Restaurer les films de Jacques Rozier : «  Le Parti des choses : Bardot et Godard » (1963)
+author: Hervé Pichard
+---
+
+# Restaurer les films de Jacques Rozier&nbsp;: «&nbsp; Le Parti des choses : Bardot et Godard&nbsp;» (1963)
+
+Lorsque Jacques Rozier filme le tournage du *Mépris* de Jean-Luc Godard en 1963, il réalise deux courts métrages complémentaires, *Paparazzi* et *Le Parti des choses&nbsp;: Bardot et Godard*. Dans le premier, il s'éloigne de l'équipe du film en pourchassant les paparazzi qui rodent dans les collines avoisinantes. Dans le second, au contraire, il filme le tournage du *Mépris*, se rapproche plus gravement de l'acte de création, dévoile les gestes quotidiens des techniciens, les déplacements des comédiens, les orientations du réalisateur et raconte l'organisation aléatoire guidée par le hasard des événements.
+
+Bardot et Piccoli&nbsp;–&nbsp;qui incarnent un couple sensible et fragile à la dérive&nbsp;–&nbsp;se positionnent, les régisseurs italiens s'affairent, les équipes image et son se coordonnent, le clap annonce l'action et Godard dirige respectueusement Fritz Lang, «&nbsp;le vieux chef indien&nbsp;», «&nbsp;le porte-parole des dieux&nbsp;», «&nbsp;celui qui regarde les hommes&nbsp;» dira la voix off qui semble être, tout au long du film, la pensée commune de Godard et de Rozier. Elle s'interroge sur la part du hasard&nbsp;: «&nbsp;L'idéal pour Godard est d'obtenir tout de suite ce qui doit aller, le tout de suite c'est le hasard et en même temps c'est le définitif. Ce qu'il veut c'est le définitif par hasard.&nbsp;» Cette histoire d'odyssée que conte *Le Mépris* et la présence de Fritz Lang auraient-elles une influence sur les deux cinéastes de la Nouvelle Vague&nbsp;? La voix dira aussi&nbsp;: «&nbsp;La caméra est d'abord un appareil de prise de vues, et mettre en scène c'est prendre modestement le parti des choses...&nbsp;» Jacques Rozier, visiblement fasciné par Fritz Lang et Brigitte Bardot, l'est aussi par son ami Jean-Luc Godard. Il le suit discrètement, le laisse travailler, avec ou sans la présence des dieux. Rozier, avec sa caméra, suit celle de Godard. Cette fois, il est le paparazzi qui chasse les appareils du cinéma. Grâce à la caméra Mitchell et à l'équipement Technicolor, Godard va sublimer Bardot. Le commentaire précisera que «&nbsp;depuis son premier film, *À bout de souffle*, chaque film de Jean-Luc Godard est un document vrai consacré à la femme moderne, illogique, désarmante, capricieuse, exaspérante, royale, mystérieuse...&nbsp;»
+
+Si une part de hasard accompagne le cinéma, en tout cas celui de Godard et assurément celui de Rozier, c'est parce que leurs films se nourrissent constamment d'une réflexion sur la modernité et la nécessité de penser autrement le monde et sa restitution. Jacques Rozier profite de l'occasion pour redéfinir le cinéma, grâce aux présences de Godard, Bardot et Fritz Lang, trois figures d'exception qui se retrouvent ensemble sur un plateau éclairé par le soleil méditerranéen. Ce court métrage, miroir malicieux de la pensée de Jacques Rozier, est comme sa description de la femme moderne&nbsp;: illogique, désarmant, mystérieux, royal...
+
+Hervé Pichard
+
+---
+
+La numérisation 4K et la restauration 2K du film ont été menées par Jacques Rozier et la Cinémathèque française, au laboratoire Hiventy, à partir du marron et du négatif son, avec le soutien du CNC, de la Cinémathèque suisse, des Archives audiovisuelles de Monaco et d'Extérieur Nuit.

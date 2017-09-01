@@ -1,0 +1,35 @@
+# Marlen Khoutsiev, mode d'emploi
+
+## «&nbsp;Le Printemps dans la rue Zaretchnaïa&nbsp;» (1956)
+
+La belle saison est à la mode dans le cinéma soviétique de 1956. Trois films sortent cette année-là avec le mot «&nbsp;printemps&nbsp;» dans leur titre, trois films parmi lesquels le premier long métrage de deux jeunes inconnus&nbsp;: Felix Mironer et Marlen Khoutsiev. Leur *Printemps dans la rue Zaretchnaïa*, mélodrame typique du dégel entamé sous Khrouchtchev, raconte l'arrivée d'une jeune enseignante dans une ville de province, où elle compte dispenser des cours du soir pour la classe ouvrière.
+
+Le film sort trois ans après la mort de Staline, dans un contexte où explose la soif du peuple pour un nouveau cinéma, moins solennel. Il attire plus de trente millions de spectateurs dans les salles, et vire au phénomène de société&nbsp;: plusieurs villes, dont Odessa, rebaptisent Zaretchnaïa une de leurs rues&nbsp;; et le titre *Quand arrive le printemps* devient un classique de la chanson populaire. L'acteur et critique Miron Chernenko se souvient d'une révolution&nbsp;: «&nbsp;Ce qui a immédiatement frappé la critique et le public, c'est le réalisme du film. La cité industrielle avec ses airs d'avant-guerre, d'avant la révolution immobilière. Les taudis sordides, les remblais et trottoirs défoncés, les bus dégoûtants, les ouvriers pauvres et monochromes promis à l'anonymat de masse. Les intérieurs tristes et nus. Tout ce continent d'indigence, dévoilé par Khoutsiev. Sa caméra est un scalpel qui dissèque, jusque dans les gros plans de ses acteurs, la dureté du quotidien.&nbsp;»
+
+Ce marasme est paradoxalement filmé avec une grâce et une légèreté qui font décoller le film de sa pesanteur réaliste. La caméra lyrique de Piotr Todorovski saisit le pays alors qu'il tourne la page du stalinisme pour des jours qu'il espère meilleurs. C'est un film de printemps&nbsp;: la fonte des neiges, et des cœurs, y est filmée avec une rare sensibilité.
+
+## «&nbsp;Les Deux Fedor&nbsp;» (1958)
+
+La guerre est finie. Un train traverse le pays, avec sur sa locomotive un simple mot&nbsp;: «&nbsp;Victoire&nbsp;». D'un groupe de soldats fêtant la fin du conflit émerge Fedor. Il prend sous son aile un jeune orphelin, qu'il décide d'adopter, et qui répond au même prénom que lui.
+
+C'est ainsi que commence le premier long métrage de Vladimir Khoutsiev en solo. Le ticket qu'il formait avec Felix Mironer n'a pas survécu aux dissensions artistiques&nbsp;: alors que son acolyte milite pour des scénarios rigoureusement échafaudés, Khoutsiev ambitionne un cinéma plus atmosphérique, libéré des traditionnelles contraintes narratives. D'une sobriété exemplaire&nbsp;–&nbsp;on n'est pas loin de l'ascèse d'un Boris Barnet ou du *Fils unique* de Yasujiro Ozu&nbsp;–&nbsp;Les Deux Fedor se teinte de délicates touches mélodramatiques avec le personnage de Natasha. Mais c'est la transition difficile de la guerre à la paix qui surtout intéresse le cinéaste. Description au quotidien de ce lent et difficile mouvement de reconstruction, le film raconte l'après-guerre avec un naturalisme qui sera reproché au réalisateur. Il est vrai que le pessimisme du cinéaste, magnifié par la lumière de Piotr Todorovksy, rappelle plus le néo-réalisme&nbsp;–&nbsp;dont les derniers feux s'éteignent doucement à l'Ouest&nbsp;–&nbsp;que les fresques héroïques auxquelles est habitué le public d'alors.
+
+Le film est le premier rôle principal de Vassili Choukchine, immense acteur et cinéaste, incarnation d'un nouveau cinéma soviétique qui s'annonce.
+
+## «&nbsp;La Porte d'Ilytch&nbsp;» (1962)
+
+«&nbsp;C'est un film éminemment personnel. J'ai même souvent dit que les trois personnages principaux, c'était moi. Le premier incarne les tourments et les doutes qui m'habitaient alors. Le second, ma situation familiale de l'époque. Et le troisième, la personne que je rêvais d'être.&nbsp;»
+
+*La Porte d'Ilytch* est sans conteste l'œuvre-phare du cinéma russe des années 60, une encyclopédie de la jeunesse moscovite, l'inventaire méticuleux de ses espoirs, de ses aspirations, et de ses désillusions. Plus âgé que ses personnages, Marlen Khoutsiev co-écrit le scénario avec Guennadi Chpalikov, un jeune étudiant en cinéma de vingt ans son cadet qui l'entraîne dans les bouillonnants courants politiques et artistiques de l'époque. De cette collaboration, le duo tire une photographie, saisissante, de la Russie de Khrouchtchev. C'est une manifestation fiévreuse de 1<sup>er</sup> mai. C'est une scène de fête, au cours de laquelle on croise Andreï Tarkovski et Andreï Kontchalovski. C'est une lecture de poésies dans un musée, avec tous les auteurs et écrivains du moment...
+
+Portrait universel d'une génération, le film bouleverse pourtant lors d'une scène profondément intime, la plus autobiographique de toute l'œuvre de Khoutsiev&nbsp;: les retrouvailles d'un des héros avec son père, mort au champ d'honneur. Cette conclusion déplaît tant au pouvoir que Nikita Khrouchtchev intervient personnellement pour censurer le film&nbsp;–&nbsp;«&nbsp;Comment peut-on concevoir que le père ne réponde pas à la question de son fils, et ne l'aide pas d'un conseil pour lui montrer le bon chemin à prendre dans la vie&nbsp;? Vous voulez créer la confusion dans la famille soviétique, qui réunit jeunes et vieux dans la lutte pour le communisme.&nbsp;» Malgré les coups de ciseaux, ce motif de la disparition paternelle&nbsp;–&nbsp;qui était déjà au cœur des *Deux Fedor*, son film précédent&nbsp;–&nbsp;continuera à hanter l'œuvre du cinéaste. Marlen Khoutsiev a perdu son père en 1937, victime des purges staliniennes.
+
+## «&nbsp;Pluie de juillet&nbsp;» (1966)
+
+Premier plan. Un long travelling en Cinémascope saisit le tumulte et la vie d'une rue d'été en Union soviétique. La musique vient en contrepoint d'une ouverture qui semble tout droit sortie d'un documentaire&nbsp;–&nbsp;certains passants jettent un œil à la caméra, sans que Khoutsiev ne s'en soucie. Et puis, soudain, une figure se détache de la foule anonyme, une belle jeune femme, Lena, l'héroïne de *Pluie de juillet*. Tout au long du film, la fiction va ainsi venir se frotter au documentaire. Un jeu de ping-pong poétique qui fait toute la force du film, balançant entre réel et imaginaire pour mieux saisir les tourments intimes de la génération Brejnev.
+
+À la fois symphonie urbaine et étude sociétale, le film capture un tournant de l'Histoire soviétique. L'espoir né du dégel est dans le rétroviseur des jeunes héros du film, dont les errances, le spleen et les doutes urbains ne sont pas sans rappeler certains motifs du cinéma occidental contemporain.
+
+---
+
+Remerciements tout particuliers à [Boris Nelepo](https://twitter.com/kinotedaily), dont [les textes pour le Harvard Film Archive](http://hcl.harvard.edu/hfa/films/2016sepnov/khutsiev.html) ont très largement inspiré ces notules
