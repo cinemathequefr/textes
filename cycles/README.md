@@ -13,7 +13,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 409|369||L'URSS des cinéastes|2017-10-18|2017-12-27
 406|368||Luchino Visconti|2017-10-11|2017-11-09
 407|367||Howard Shore|2017-10-09|2017-10-22
-402|366||Goscinny et le cinéma|2017-10-04|2018-03-04
+402|366|☑|Goscinny et le cinéma|2017-10-04|2018-03-04
 414|365|☑|Claire Denis|2017-09-25|2017-10-20
 410|364|☑|Hong Kong : 20 ans, 20 films|2017-09-20|2017-10-11
 405|363|☑|Jean Vigo|2017-09-02|2017-09-03
