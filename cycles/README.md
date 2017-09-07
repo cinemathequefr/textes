@@ -8,7 +8,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 :-:|:-:|:-:|---|:-:|:-:|:-:
 412|373||Jean Rouch : restaurations, raretés et inachevés|2017-11-22|2017-11-27
 413|372||American Fringe, saison 2|2017-11-17|2017-11-19
-408|371||Le mystère Clouzot|2017-11-08|2018-07-29
+408|371|☑|Le mystère Clouzot|2017-11-08|2018-07-29
 411|370|☑|Roman Polanski|2017-10-30|2017-12-03
 409|369|☑|L'URSS des cinéastes|2017-10-18|2017-12-27
 406|368|☑|Luchino Visconti|2017-10-11|2017-11-09
