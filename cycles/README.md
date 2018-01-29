@@ -5,7 +5,15 @@ Depuis novembre 2005.
 ## Liste des cycles
 
 Idv3|_Id||Titre|Du|Au|PK Réal
-:-:|:-:|:-:|---|:-:|:-:|:-: 
+:-:|:-:|:-:|---|:-:|:-:|:-:
+-|394||William Wyler|2018-04-25|2018-05-27
+-|393||Rainer Werner Fassbinder|2018-04-11|2018-05-13
+-|392|☑|Jean Paul Civeyrac|2018-04-04|2018-04-11
+-|391||L'édition 1969 de la Quinzaine des réalisateurs|2018-03-28|2018-05-03
+-|390||Les 30 ans de la Fondation Gan pour le cinéma|2018-03-24|2018-03-26
+-|389||F. J. Ossang|2018-03-17|2018-03-18
+-|388|☑|Kenji Mizoguchi|2018-03-15|2018-04-15
+-|387|☑|Louis Malle|2018-03-14|2018-04-01
 434|386|☑|Paulo Rocha|2018-01-10|2018-02-01
 431|385|☑|Vittorio Storaro|2018-02-28|2018-03-05
 428|384|☑|Tod Browning|2018-02-14|2018-03-04
@@ -16,7 +24,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 427|379|☑|Samuel Fuller|2018-01-03|2018-02-15
 432|378|☑|Hommage à Hervé Le Roux|2017-12-15|2017-12-17
 429|377|☑|George A. Romero|2017-12-13|2017-12-30
-425|376||ArteKino|2017-12-06|2017-12-10
+425|376|☑|ArteKino|2017-12-06|2017-12-10
 426|375|☑|Le cinéma colombien hier, aujourd'hui, demain|2017-11-30|2017-12-10
 422|374|☑|Max Ophuls|2017-11-29|2017-12-31
 412|373|☑|Jean Rouch : restaurations, raretés et inachevés|2017-11-22|2017-11-27
