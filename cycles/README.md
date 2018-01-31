@@ -6,14 +6,16 @@ Depuis novembre 2005.
 
 Idv3|_Id||Titre|Du|Au|PK Réal
 :-:|:-:|:-:|---|:-:|:-:|:-:
--|394||William Wyler|2018-04-25|2018-05-27
--|393||Rainer Werner Fassbinder|2018-04-11|2018-05-13
--|392|☑|Jean Paul Civeyrac|2018-04-04|2018-04-11
--|391||L'édition 1969 de la Quinzaine des réalisateurs|2018-03-28|2018-05-03
--|390||Les 30 ans de la Fondation Gan pour le cinéma|2018-03-24|2018-03-26
--|389||F. J. Ossang|2018-03-17|2018-03-18
--|388|☑|Kenji Mizoguchi|2018-03-15|2018-04-15
--|387|☑|Louis Malle|2018-03-14|2018-04-01
+-|396|☑|Chris Marker, les 7 vies d'un cinéaste|2018-05-03|2018-07-29
+-|395||William Wyler|2018-04-25|2018-05-27
+-|394||Rainer Werner Fassbinder|2018-04-11|2018-05-13
+-|393|☑|Jean Paul Civeyrac|2018-04-04|2018-04-11
+-|392||L'édition 1969 de la Quinzaine des réalisateurs|2018-03-28|2018-05-03
+-|391|☑|Fondation Gan pour le cinéma : 30e anniversaire|2018-03-24|2018-03-26
+-|390|☑|F. J. Ossang|2018-03-17|2018-03-18
+-|389|☑|Kenji Mizoguchi|2018-03-15|2018-04-15
+-|388|☑|Louis Malle|2018-03-14|2018-04-01
+-|387||Toute la mémoire du monde|2018-03-07|2018-03-11
 434|386|☑|Paulo Rocha|2018-01-10|2018-02-01
 431|385|☑|Vittorio Storaro|2018-02-28|2018-03-05
 428|384|☑|Tod Browning|2018-02-14|2018-03-04
