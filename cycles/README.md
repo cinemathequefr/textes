@@ -7,7 +7,7 @@ Depuis novembre 2005.
 Idv3|_Id||Titre|Du|Au|PK Réal
 :-:|:-:|:-:|---|:-:|:-:|:-:
 441|396|☑|Chris Marker, les 7 vies d'un cinéaste|2018-05-03|2018-07-29
-437|395||William Wyler|2018-04-25|2018-05-27
+437|395|☑|William Wyler|2018-04-25|2018-05-27
 439|394|☑|Rainer Werner Fassbinder|2018-04-11|2018-05-13
 445|393|☑|Jean Paul Civeyrac|2018-04-04|2018-04-11
 443|392|☑|L'édition 1969 de la Quinzaine des réalisateurs|2018-03-28|2018-05-03
