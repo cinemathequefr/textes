@@ -16,5 +16,5 @@ Le monde extérieur a pourtant investi ce cinéma sous sa forme la plus traumati
 
 Serge Chauvin
 
-[^1]: Dans *L'Écran français* du 13 avril 1948, repris dans *Chroniques du cinéma*, Cahiers du cinéma, 1986.
+[^1]: Dans *L'Écran français* du 13 avril 1948, repris dans *Chroniques du cinéma*, Cahiers du cinéma, 1986.  
 [^2]: «&nbsp;William Wyler ou le janséniste de la mise en scène&nbsp;», *La Revue du cinéma*, février 1948.

@@ -23,7 +23,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 424|382|☑|Chantal Akerman|2018-01-31|2018-03-05
 423|381|☑|Cinéma lituanien|2018-01-15|2018-01-28
 -|380|☑|Jean-Claude Brisseau||
-427|379|☑|Samuel Fuller|2018-01-03|2018-02-15
+427|379|☑|Samuel Fuller|2018-01-03|2018-02-18
 432|378|☑|Hommage à Hervé Le Roux|2017-12-15|2017-12-17
 429|377|☑|George A. Romero|2017-12-13|2017-12-30
 425|376|☑|ArteKino|2017-12-06|2017-12-10
@@ -397,7 +397,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|8||Coup de chapeau à Walter Hill|2005-12-14|2005-12-24
 –|7||Louis Malle documentariste|2005-11-30|2005-12-11
 –|6||Douglas Sirk|2005-11-09|2005-12-30
-–|5||David Cronenberg|2005-11-02|2005-11-27
+–|5|☑|David Cronenberg|2005-11-02|2005-11-27
 –|3||(Expo) Jean Renoir|2005-09-29|2005-12-30
 –|2|☑|Michael Caine|2005-09-29|2005-10-30
 –|1||Les Géants de l'Ouest|2005-09-29|2005-12-30
