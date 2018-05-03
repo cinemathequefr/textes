@@ -6,9 +6,18 @@ Depuis novembre 2005.
 
 Idv3|_Id||Titre|Du|Au|PK Réal
 :-:|:-:|:-:|---|:-:|:-:|:-:
+454|405||Plein les yeux ! Saison 2|2018-07-26|2018-07-29
+449|404||Sergio Corbucci|2018-07-09|2018-07-29
+447|403|☑|Robert Bresson|2018-07-04|2018-07-29
+452|402||Françoise Fabian|2018-07-02|2018-07-09
+448|401||Joël Séria|2018-06-27|2018-07-02
+451|400|☑|Malcolm McDowell|2018-06-20|2018-06-30
+450|399|☑|Dutch Sex Wave : cinéma néerlandais et révolution sexuelle|2018-06-06|2018-06-27
+455|398|☑|Brian De Palma|2018-05-31|2018-07-04
+456|397||57e Semaine de la critique|2018-05-30|2018-06-06
 441|396|☑|Chris Marker, les 7 vies d'un cinéaste|2018-05-03|2018-07-29
 437|395|☑|William Wyler|2018-04-25|2018-05-27
-439|394|☑|Rainer Werner Fassbinder|2018-04-11|2018-05-13
+439|394|☑|Rainer Werner Fassbinder|2018-04-11|2018-05-16
 445|393|☑|Jean Paul Civeyrac|2018-04-04|2018-04-11
 443|392|☑|L'édition 1969 de la Quinzaine des réalisateurs|2018-03-28|2018-05-03
 438|391|☑|Fondation Gan pour le cinéma : 30e anniversaire|2018-03-24|2018-03-26
