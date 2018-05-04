@@ -4,7 +4,7 @@ Comme pour les cinéastes, il suffit parfois d'une image originelle pour que se 
 
 C'est peut-être à cause de cette morgue sarcastique qu'Alex a tant marqué les esprits. Et par la capacité de l'acteur à nous faire aimer un personnage violent que d'aucuns auraient pu jouer de manière antipathique. Alex, pour McDowell, n'est pas mauvais&nbsp;: «&nbsp;Il est le produit de son environnement, de la manière dont il a été élevé, de l'absolue indifférence de ses parents à son égard.&nbsp;»[^1]
 
-Pour beaucoup, le rôle écrase encore aujourd'hui la filmographie du comédien. Costume blanc, protège-sexe saillant, immense cil sous l'œil droit et chapeau melon noir, la figure d'Alex, devenue mythologique, éclipse la grande majorité de ses rôles et suscite encore aujourd'hui de multiples interrogations dès que Malcolm McDowell rencontre le public. «&nbsp;Je dois avouer que pendant les dix ans qui ont suivi la sortie du film, j'en étais malade à sa simple évocation. Partout où j'allais, on me poursuivait avec ça. Mon nom était devenu Malcolm «&nbsp;Orange Mécanique&nbsp;» McDowell. Une horreur&nbsp;!&nbsp;» [^2]
+Pour beaucoup, le rôle écrase encore aujourd'hui la filmographie du comédien. Costume blanc, protège-sexe saillant, immense cil sous l'œil droit et chapeau melon noir, la figure d'Alex, devenue mythologique, éclipse la grande majorité de ses rôles et suscite encore aujourd'hui de multiples interrogations dès que Malcolm McDowell rencontre le public. «&nbsp;Je dois avouer que pendant les dix ans qui ont suivi la sortie du film, j'en étais malade à sa simple évocation. Partout où j'allais, on me poursuivait avec ça. Mon nom était devenu Malcolm "Orange mécanique" McDowell. Une horreur&nbsp;!&nbsp;» [^2]
 
 ## Les premiers rôles
 
