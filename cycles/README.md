@@ -6,10 +6,10 @@ Depuis novembre 2005.
 
 Idv3|_Id||Titre|Du|Au|PK Réal
 :-:|:-:|:-:|---|:-:|:-:|:-:
-454|405||Plein les yeux ! Saison 2|2018-07-26|2018-07-29
-449|404||Sergio Corbucci|2018-07-09|2018-07-29
+454|405|☑|Plein les yeux ! Saison 2|2018-07-25|2018-07-29
+449|404|☑|Sergio Corbucci|2018-07-09|2018-07-29
 447|403|☑|Robert Bresson|2018-07-04|2018-07-29
-452|402||Françoise Fabian|2018-07-02|2018-07-09
+452|402|☑|Françoise Fabian|2018-07-02|2018-07-09
 448|401|☑|Joël Séria|2018-06-27|2018-07-02
 451|400|☑|Malcolm McDowell|2018-06-20|2018-06-30
 450|399|☑|Dutch Sex Wave : cinéma néerlandais et révolution sexuelle|2018-06-06|2018-06-27
