@@ -255,7 +255,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|159||Renato Berta|2011-03-02|2011-03-21
 –|158||Jacques Baratier|2011-02-09|2011-02-28
 –|157||Une Nouvelle Vague italienne|2011-01-12|2011-02-07
-–|156||Alfred Hitchcock|2011-01-05|2011-03-14
+–|156|☑|Alfred Hitchcock|2011-01-05|2011-03-14
 –|155||Sergueï M. Eisenstein|2010-12-15|2010-12-30
 –|154||Edward Yang|2010-12-08|2010-12-20
 –|153||Masao Adachi|2010-12-03|2011-02-25
