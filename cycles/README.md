@@ -11,10 +11,10 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 474|416||Youssef Chahine|2018-11-14|2019-07-28
 467|415||Jean-Paul Rappeneau|2018-10-24|2018-11-03
 473|414||Jane Fonda|2018-10-22|2018-11-05
-462|413||Sergio Leone|2018-10-10|2019-01-28
-465|412||Valeria Sarmiento|2018-10-01|2018-10-07
-466|411||100 ans de cinéma japonais (1ère partie)|2018-09-26|2018-10-22
-460|410||Ingmar Bergman|2018-09-19|2018-11-11
+462|413|☑|Sergio Leone|2018-10-10|2019-01-28
+465|412|☑|Valeria Sarmiento|2018-10-01|2018-10-07
+466|411|☑|100 ans de cinéma japonais (1ère partie)|2018-09-26|2018-10-22
+460|410|☑|Ingmar Bergman|2018-09-19|2018-11-11
 470|409|☑|M. Night Shyamalan|2018-09-10|2018-09-16
 459|408|☑|Quand le musée va au cinéma|2018-09-05|2018-09-17
 469|407|☑|Leo McCarey|2018-08-29|2018-09-24
