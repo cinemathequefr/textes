@@ -9,8 +9,8 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 461|418||Ennio Morricone|2018-11-21|2018-11-26
 468|417||American Fringe, saison 2|2018-11-16|2018-11-18
 474|416||Youssef Chahine|2018-11-14|2019-07-28
-467|415||Jean-Paul Rappeneau|2018-10-24|2018-11-03
-473|414||Jane Fonda|2018-10-22|2018-11-05
+467|415|☑|Jean-Paul Rappeneau|2018-10-24|2018-11-03
+473|414|☑|Jane Fonda|2018-10-22|2018-11-05
 462|413|☑|Sergio Leone|2018-10-10|2019-01-28
 465|412|☑|Valeria Sarmiento|2018-10-01|2018-10-07
 466|411|☑|100 ans de cinéma japonais (1ère partie)|2018-09-26|2018-10-22
