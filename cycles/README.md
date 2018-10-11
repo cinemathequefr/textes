@@ -180,7 +180,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|248||Jean-Charles Fitoussi|2014-01-22|2014-02-02|116976
 –|247||James B. Harris|2014-01-20|2014-01-30|9376
 –|246||Henry Hathaway|2014-01-08|2014-02-23|9170
-–|245||Panoptismes|2014-01-02|2014-01-19
+93|245|☑|Panoptismes|2014-01-02|2014-01-19
 –|244||Hommage à Bernadette Lafont|2013-12-13|2013-12-15
 –|243||João César Monteiro|2013-12-11|2013-12-30|7971
 –|241||Toute la mémoire du monde 2013|2013-12-03|2013-12-08
@@ -309,7 +309,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|119||Federico Fellini|2009-10-21|2009-12-20
 –|118||Michael Haneke|2009-10-19|2009-11-21
 –|116||Les 40 ans des Archives françaises du film|2009-10-07|2009-10-28
-–|115||La Nouvelle Vague, une génération d'acteurs|2009-09-23|2009-10-18
+223|115|☑|La Nouvelle Vague, une génération d'acteurs|2009-09-23|2009-10-18
 –|114||Le cinéma photographié|2009-09-02|2009-09-19
 –|113||Robert Aldrich|2009-08-26|2009-10-05
 –|112||Michael Mann|2009-07-02|2009-07-26
