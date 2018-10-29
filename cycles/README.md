@@ -8,7 +8,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 :-:|:-:|:-:|---|:-:|:-:|:-:
 –|433||100 ans de cinéma japonais (3ème partie)|2019-02-14|2019-02-24
 –|432||Gérardmer à Paris 2019|2019-02-06|2019-06-10
-–|431||Alberto Lattuada|2019-01-30|2019-02-25
+–|431|☑|Alberto Lattuada|2019-01-30|2019-02-25
 –|430||100 ans de cinéma japonais (2ème partie)|2019-01-23|2019-02-25
 –|429||Valeria Bruni Tedeschi|2019-01-21|2019-02-03
 –|428||Quinze jours avec Agnès Varda|2019-01-16|2019-01-28
@@ -19,7 +19,7 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|423|☑|James Caan|2018-12-05|2018-12-17
 –|422|☑|La Nouvelle vague tchèque... et après|2018-11-29|2019-01-04
 –|421||L'histoire du cinéma vue par André Bazin|2018-11-28|2018-12-22
-–|420||Elia Kazan|2018-11-28|2019-01-03
+–|420|☑|Elia Kazan|2018-11-28|2019-01-03
 461|419|☑|Ennio Morricone|2018-11-22|2018-11-26
 468|418|☑|American Fringe, saison 3|2018-11-16|2018-11-18
 474|417|☑|Youssef Chahine|2018-11-14|2019-07-28
