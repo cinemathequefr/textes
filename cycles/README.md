@@ -12,11 +12,11 @@ Idv3|_Id||Titre|Du|Au|PK Réal
 –|430||100 ans de cinéma japonais (2ème partie)|2019-01-23|2019-02-25
 –|429||Valeria Bruni Tedeschi|2019-01-21|2019-02-03
 –|428||Quinze jours avec Agnès Varda|2019-01-16|2019-01-28
-–|427||Éric Rohmer|2019-01-09|2019-02-11
+–|427|☑|Éric Rohmer|2019-01-09|2019-02-11
 –|426||Billy Wilder|2019-01-03|2019-02-07
 –|425||Les comédies musicales|2018-12-12|2019-01-06
 –|424||Balzac dans le cinéma muet|2018-12-06|2018-12-09
-–|423||James Caan|2018-12-05|2018-12-17
+–|423|☑|James Caan|2018-12-05|2018-12-17
 –|422|☑|La Nouvelle vague tchèque... et après|2018-11-29|2019-01-04
 –|421||L'histoire du cinéma vue par André Bazin|2018-11-28|2018-12-22
 –|420||Elia Kazan|2018-11-28|2019-01-03
