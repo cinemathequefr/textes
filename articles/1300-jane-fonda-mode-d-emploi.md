@@ -62,7 +62,7 @@ Il s'agit aussi d'un retour à soi. Sally s'affranchit de sa condition d'épouse
 
 <iframe src="http://player.vimeo.com/video/294585765" width="730" height="411" frameborder="0"></iframe>
 
-1980. Après plus de quarante années d'une carrière au sommet, Henry Fonda n'a toujours pas remporté d'Oscar. Pour réparer cette erreur, sa fille Jane s'engage corps et âme dans la préparation d'un film qu'elle va interpréter avec lui, et même produire : « Je pensais que grâce au personnage de Norman Thayer, papa pourrait gagner l'Oscar qu'il n'avait jamais reçu. Et je voulais tout faire pour que cela arrive. »
+\1980. Après plus de quarante années d'une carrière au sommet, Henry Fonda n'a toujours pas remporté d'Oscar. Pour réparer cette erreur, sa fille Jane s'engage corps et âme dans la préparation d'un film qu'elle va interpréter avec lui, et même produire : « Je pensais que grâce au personnage de Norman Thayer, papa pourrait gagner l'Oscar qu'il n'avait jamais reçu. Et je voulais tout faire pour que cela arrive. »
 
 Été 1981. Le tournage de _La Maison du lac_ débute, avec, devant la caméra, deux monstres sacrés. Le couple de septuagénaires Katharine Hepburn / Henry Fonda se lance dans des joutes verbales à fleurets mouchetés, à coups de tendres _punchlines_ sur la vieillesse et la vie à deux, elle toujours alerte, lui incorrigible ours amer et grincheux. Pour Jane Fonda, les journées sont éprouvantes. Donner la réplique à son monument de père, qu'elle admire mais qui lui a toujours opposé froideur et distance, pas simple. Faire face à la grande dame inflexible qu'est Hepburn, s'octroyer sa confiance et son respect, guère plus évident. Mais elle y parvient.
 
