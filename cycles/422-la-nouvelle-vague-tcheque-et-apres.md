@@ -1,6 +1,6 @@
-# Un cinéma exorbité
-
 Entre 1963 et 1969, le cinéma tchèque, emmené par une jeune génération de cinéastes, connaît un jaillissement de vitalité sans précédent. Entre un réalisme fortement teinté d'ironie et le goût de la métaphore, cette Nouvelle Vague accompagne et aiguillonne les bouleversements alors en cours dans la société tchécoslovaque.
+
+# Un cinéma exorbité
 
 > «&nbsp;À ce moment-là, mon pays était comme une planète qui, par un étrange concours de circonstances, avait quitté son orbite et suivait sa propre trajectoire dans l'espoir incertain de rejoindre une autre orbite plus proche du soleil.&nbsp;» (Milan Šimečka)
 
