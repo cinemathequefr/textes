@@ -6,11 +6,11 @@ Depuis novembre 2005.
 
 Idv3|_Id||Titre|Du|Au|PK Réal
 :-:|:-:|:-:|---|:-:|:-:|:-:
-–|433||100 ans de cinéma japonais (3ème partie)|2019-02-14|2019-02-24
+494|433|☑|100 ans de cinéma japonais (3ème partie)|2019-02-14|2019-02-24
 –|432||Gérardmer à Paris 2019|2019-02-06|2019-06-10
 486|431|☑|Alberto Lattuada|2019-01-30|2019-02-25
-–|430||100 ans de cinéma japonais (2ème partie)|2019-01-23|2019-02-25
-–|429||Valeria Bruni Tedeschi|2019-01-21|2019-02-03
+493|430|☑|100 ans de cinéma japonais (2ème partie)|2019-01-23|2019-02-25
+492|429|☑|Valeria Bruni Tedeschi|2019-02-02|2019-02-03
 491|428|☑|Quinze jours avec Agnès Varda|2019-01-16|2019-01-28
 485|427|☑|Éric Rohmer|2019-01-09|2019-02-11
 490|426|☑|Billy Wilder|2019-01-03|2019-02-07
