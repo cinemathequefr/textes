@@ -15,7 +15,7 @@ Depuis novembre 2005.
 |  –   | 439  |     | Bruno Nuytten                                              | 2019-03-20 | 2019-03-31 |
 |  –   | 438  |  ☑  | Jerzy Skolimowski                                          | 2019-03-14 | 2019-03-31 |
 |  –   | 437  |     | Toute la mémoire du monde 2019                             | 2019-03-13 | 2019-03-17 |
-|  –   | 436  |     | Erich von Stroheim                                         | 2019-03-06 | 2019-03-10 |
+|  –   | 436  |  ☑  | Erich von Stroheim                                         | 2019-03-06 | 2019-03-10 |
 |  –   | 435  |     | Un week-end avec Jean-Max Causse                           | 2019-03-01 | 2019-03-03 |
 |  –   | 434  |     | 100 ans de cinéma japonais (4ème partie)                   | 2019-02-27 | 2019-03-18 |
 | 494  | 433  |  ☑  | 100 ans de cinéma japonais (3ème partie)                   | 2019-02-14 | 2019-02-24 |

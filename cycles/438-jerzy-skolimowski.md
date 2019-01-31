@@ -1,4 +1,4 @@
-# Le coup d'éclat permanent
+# Le Coup d'éclat permanent
 
 En 1964, _Rysopis_ a marqué l'irruption de Skolimowski dans la famille des rares cinéastes modernes qui ont fait l'unanimité (Oshima, Glauber Rocha et quelques autres). En 2008, _Quatre nuits avec Anna_ offrait le plus bouleversant retour d'un cinéaste après une éclipse de dix-sept ans. Ses films stylisés, portés par l'urgence de leur propos, ont donné lieu à moult commentaires inspirés, et cette intelligence critique n'a pourtant jamais diminué la saisissante immédiateté physique de l'œuvre. Ses familiers la reverront avec une ferveur inentamée. Les autres doivent y courir toutes affaires cessantes.
 
@@ -20,5 +20,5 @@ Damien Bertrand
 
 ---
 
-- 1. Jerzy Skolimowski dans le prologue de la version 1981 de _Haut les mains_.
-- 2. Propos recueillis pour _Contre la montre : Jerzy Skolimowski, peintre, poète, cinéaste_ (2003).
+- \1. Jerzy Skolimowski dans le prologue de la version 1981 de _Haut les mains_.
+- \2. Propos recueillis pour _Contre la montre : Jerzy Skolimowski, peintre, poète, cinéaste_ (2003).
