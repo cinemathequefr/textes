@@ -6,13 +6,14 @@ Depuis novembre 2005.
 
 | Idv3 | \_Id |     | Titre                                                      |     Du     |     Au     |   PK Réal   |
 | :--: | :--: | :-: | ---------------------------------------------------------- | :--------: | :--------: | :---------: |
-|  –   | 445  |     | Michel Deville                                             | 2019-05-09 | 2019-05-26 |
-|  –   | 444  |     | Joan Crawford                                              | 2019-05-02 | 2019-05-26 |
-| 503  | 443  |  ☑  | Le cinéma de (mauvais) genre taïwanais                     | 2019-04-17 | 2019-05-02 |
-|  –   | 442  |     | René Clair                                                 | 2019-04-10 | 2019-04-28 |
-|  –   | 441  |     | Quand Fellini rêvait de Picasso                            | 2019-04-03 | 2019-07-28 |
-|  –   | 440  |     | Centenaire des studios de la Victorine                     | 2019-03-25 | 2019-04-07 |
-|  –   | 439  |     | Bruno Nuytten                                              | 2019-03-20 | 2019-03-31 |
+|  –   | 446  |     | Michel Deville                                             | 2019-05-09 | 2019-05-26 |
+|  –   | 445  |     | Joan Crawford                                              | 2019-05-02 | 2019-05-26 |
+| 503  | 444  |  ☑  | Le cinéma de (mauvais) genre taïwanais                     | 2019-04-17 | 2019-05-02 |
+|  –   | 443  |  ☑  | René Clair                                                 | 2019-04-10 | 2019-04-28 |
+|  –   | 442  |  ☑  | Quand Fellini rêvait de Picasso                            | 2019-04-03 | 2019-07-28 |
+|  –   | 441  |  ☑  | Le nouveau cinéma roumain                                  | 2019-03-27 | 2019-04-04 |
+|  –   | 440  |  ☑  | Centenaire des studios de la Victorine                     | 2019-03-25 | 2019-04-07 |
+|  –   | 439  |  ☑  | Bruno Nuytten                                              | 2019-03-20 | 2019-03-31 |
 |  –   | 438  |  ☑  | Jerzy Skolimowski                                          | 2019-03-14 | 2019-03-31 |
 |  –   | 437  |     | Toute la mémoire du monde 2019                             | 2019-03-13 | 2019-03-17 |
 |  –   | 436  |  ☑  | Erich von Stroheim                                         | 2019-03-06 | 2019-03-10 |
