@@ -6,6 +6,15 @@ Depuis novembre 2005.
 
 | Idv3 | \_Id |     | Titre                                                      |     Du     |     Au     |   PK Réal   |
 | :--: | :--: | :-: | ---------------------------------------------------------- | :--------: | :--------: | :---------: |
+| 521  | 455  |  ☑  | Plein les yeux ! Saison 3                                  | 2019-07-17 | 2019-07-28 |
+| 519  | 454  |  ☑  | Mario Bava                                                 | 2019-07-03 | 2019-07-28 |
+| 514  | 453  |  ☑  | Edgardo Cozarinsky                                         | 2019-06-26 | 2019-07-07 |
+| 515  | 452  |  ☑  | Joseph L. Mankiewicz                                       | 2019-06-20 | 2019-07-07 |
+| 518  | 451  |  ☑  | Révoltes sexuelles, révolutions visuelles                  | 2019-06-19 | 2019-07-11 |
+| 517  | 450  |  ☑  | Semaine du cinéma chilien                                  | 2019-06-12 | 2019-06-16 |
+| 522  | 449  |  ☑  | 58e Semaine de la critique                                 | 2019-06-05 | 2019-06-12 |
+| 516  | 448  |  ☑  | John Cassavetes                                            | 2019-05-30 | 2019-06-21 |
+| 513  | 447  |  ☑  | Otar Iosseliani                                            | 2019-05-29 | 2019-06-12 |
 | 500  | 446  |  ☑  | Michel Deville                                             | 2019-05-09 | 2019-05-26 |
 | 501  | 445  |  ☑  | Joan Crawford                                              | 2019-05-02 | 2019-05-26 |
 | 503  | 444  |  ☑  | Le cinéma de (mauvais) genre taïwanais                     | 2019-04-17 | 2019-05-02 |

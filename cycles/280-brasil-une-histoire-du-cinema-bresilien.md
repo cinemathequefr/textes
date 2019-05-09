@@ -27,4 +27,4 @@ La profusion de courts métrages, sérieuse tradition brésilienne entamée dès
 
 Très vivant, présent dans les festivals internationaux, il peine toutefois, mystérieusement, comme celui de ses aïeux, à se faire connaître. Exception à la règle, *Les Bruits de Recife* (2013), qui lie le portrait en coupe d'une société contemporaine inquiète à l'assurance d'une mise en scène rigoureuse. Son succès national et international laisse présager un regain de passion pour une cinématographie surprenante dont la centaine de séances de cette rétrospective témoignera.
 
-Bernard Payen, Gabriella Trujillo
+Bernard Payen, Gabriela Trujillo
