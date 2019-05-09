@@ -10,7 +10,7 @@ Depuis novembre 2005.
 | 519  | 454  |  ☑  | Mario Bava                                                 | 2019-07-03 | 2019-07-28 |
 | 514  | 453  |  ☑  | Edgardo Cozarinsky                                         | 2019-06-26 | 2019-07-07 |
 | 515  | 452  |  ☑  | Joseph L. Mankiewicz                                       | 2019-06-20 | 2019-07-07 |
-| 518  | 451  |  ☑  | Révoltes sexuelles, révolutions visuelles                  | 2019-06-19 | 2019-07-11 |
+| 518  | 451  |  ☑  | Libérations sexuelles, révolutions visuelles               | 2019-06-19 | 2019-07-11 |
 | 517  | 450  |  ☑  | Semaine du cinéma chilien                                  | 2019-06-12 | 2019-06-16 |
 | 522  | 449  |  ☑  | 58e Semaine de la critique                                 | 2019-06-05 | 2019-06-12 |
 | 516  | 448  |  ☑  | John Cassavetes                                            | 2019-05-30 | 2019-06-21 |
