@@ -1,4 +1,4 @@
-# Textes de présentation des cycles de la Cinémathèque française
+d# Textes de présentation des cycles de la Cinémathèque française
 
 Depuis novembre 2005.
 
@@ -6,6 +6,19 @@ Depuis novembre 2005.
 
 | Idv3 | \_Id |     | Titre                                                      |     Du     |     Au     |   PK Réal   |
 | :--: | :--: | :-: | ---------------------------------------------------------- | :--------: | :--------: | :---------: |
+| 533  | 468  |  ☑  | Robert Kramer                                              | 2019-11-06 | 2019-11-24 |
+| 535  | 467  |  ☑  | Mauro Bolognini                                            | 2019-10-31 | 2019-11-25 |
+| 530  | 466  |  ☑  | Georg Wilhelm Pabst                                        | 2019-10-30 | 2019-11-25 |
+| 528  | 465  |  ☑  | Sterling Hayden                                            | 2019-10-23 | 2019-11-04 |
+| 531  | 464  |  ☑  | Guy Debord                                                 | 2019-10-19 | 2019-10-20 |
+| 529  | 463  |  ☑  | James Gray                                                 | 2019-10-16 | 2019-10-19 |
+| 527  | 462  |  ☑  | Vampires                                                   | 2019-10-09 | 2020-01-19 |
+| 538  | 461  |  ☑  | Alejandro Jodorowsky                                       | 2019-09-30 | 2019-10-09 |
+| 537  | 460  |  ☑  | Kira Mouratova                                             | 2019-09-25 | 2019-10-20 |
+| 536  | 459  |  ☑  | Philippe Garrel                                            | 2019-09-18 | 2019-10-20 |
+| 539  | 458  |  ☑  | Jean-Pierre Kalfon                                         | 2019-09-11 | 2019-09-15 |
+| 526  | 457  |  ☑  | Nicholas Ray                                               | 2019-08-29 | 2019-09-28 |
+| 532  | 456  |  ☑  | Arnaud Desplechin                                          | 2019-08-28 | 2019-09-19 |
 | 521  | 455  |  ☑  | Plein les yeux ! Saison 3                                  | 2019-07-17 | 2019-07-28 |
 | 519  | 454  |  ☑  | Mario Bava                                                 | 2019-07-03 | 2019-07-28 |
 | 514  | 453  |  ☑  | Edgardo Cozarinsky                                         | 2019-06-26 | 2019-07-07 |
