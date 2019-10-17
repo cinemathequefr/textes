@@ -1,6 +1,6 @@
-# Chahine dans tous ses états
-
 **_Gare centrale_, _Le Moineau_, _L'Émigré_, _Le Destin_... Né à Alexandrie, Youssef Chahine a signé une œuvre généreuse, courageuse, combative, inventive, sans cesse inspirée par sa vie de cinéaste et de citoyen, nourrie du souvenir des films hollywoodiens de son enfance, en particulier les comédies musicales, ne reculant ni devant une reconstitution historique (_Saladin_, _Adieu Bonaparte_) ni devant l'évocation autobiographique (_Alexandrie pourquoi ?_, _La Mémoire_, _Alexandrie encore et toujours_).**
+
+# Chahine dans tous ses états
 
 Pour tous les amoureux de cinéma, égyptien en particulier, Youssef Chahine est une figure incontournable, un nom indélébile, une voix qui s'élève et qu'on associe presque inconsciemment à l'Orient, au monde arabe, au tiers-monde. Il incarne un cinéma engagé, qui mêle divertissement et combat, et qui porte les nuances d'un caractère complexe, souvent mal compris, parfois mal aimé. Chahine dénonce l'impérialisme tout en aimant l'Occident, s'attaque à l'islamisme tout en défendant le monde musulman, s'oppose aux nationalisations de Nasser tout en tirant à boulet rouge sur l'Égypte oligarchique de Moubarak. Chahine est tout cela à la fois car il est, avant tout autre chose, un esprit libre.
 
