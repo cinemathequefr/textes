@@ -8,7 +8,7 @@
 
 Comment accepter les honneurs d'un monde où le cinéma équivaut à l'industrie du luxe dans la société du spectacle, elle-même province de la falsification dans la société de contrôle ? Les honneurs, pointe avancée de tout ce que Jean-Luc Godard récuse, dès lors, occasions de ses flèches parmi les plus acérées et pénétrantes. Ainsi, en 1968, ce télégramme au National Film Theater : « Si je ne suis pas là, prenez une personne dans la rue, la plus pauvre si possible, donnez-lui 100 livres et parlez avec elle d'image et de son, et d'elle vous apprendrez beaucoup plus que de moi car c'est le pauvre peuple qui invente vraiment la langue – votre anonymous godard. » Ainsi, en 2015, ce refus auprès du Conseil fédéral suisse : « Alors je rentre à la maison / avec _Les Cendres de Gramsci_ / un poème de Pasolini / ça parle de l'humble corruption » (Remerciements de Jean-Luc Godard à son Prix d'honneur du cinéma suisse).
 
-## À – quoi bon ?
+## À (quoi bon ?)
 
 Quelles images, alors, et à quoi bon ? En premier lieu, des images au combat, à l'offensive, qu'elles choisissent le noir du suspense critique (_passim_), le rouge de Gérard Fromanger (_Film-Tract n° 1968_), le blanc du silence : « Une minute de silence-image pour toutes les images absentes, images censurées, images prostituées, images critiquées, images dévoyées, images enculées, images matraquées par tous les gouvernements de toutes les télévisions et tous les cinémas occidentalisés, qui font rimer information et répression, ordure et culture. » (_Le Gai savoir_, 1968)
 
