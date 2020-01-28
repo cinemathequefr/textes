@@ -1,4 +1,4 @@
-# Inventer la liberté
+﻿# Inventer la liberté
 
 > « Emparez-vous de toute forme de hors-champ, détournez la norme, mettez-vous à la marge, observez le monde, non d'en être au cœur, libres d'être corseté de ses préjugés, mais dans un survol au grand-angle. Emparez-vous de la liberté d'inventer pour inventer la liberté. » (Marcel Hanoun)[^1]
 
@@ -26,11 +26,11 @@ Bernard Benoliel, Nicole Brenez
 
 ---
 
-[^1]: Marcel Hanoun, _Lettre à de jeunes cinéastes_, rédigée pour les États généreux des élèves de la Fémis, 2009.
-[^2]: Marcel Hanoun, _Cinéma cinéaste_, Yellow Now, 2001.
-[^3]: Marcel Hanoun, « Regard du film sur le spectateur », _L'Avant-scène cinéma_, n° 242, février 1980.
-[^4]: Marcel Hanoun, « À la recherche de l'imprévisible contre-chant », _Trafic_, hiver 2002.
-[^5]: Marcel Hanoun, _Cinéma cinéaste_, op. cit.
-[^6]: Marcel Hanoun, « À la recherche de l'imprévisible contre-chant », _Trafic_, hiver 2002.
-[^7]: Marcem Hanoun, [www.ma-cinematheque.com](http://www.ma-cinematheque.com)
-[^8]: Marcem Hanoun, _Cinéma cinéaste_, op. cit.
+[^1]: Marcel Hanoun, _Lettre à de jeunes cinéastes_, rédigée pour les États généreux des élèves de la Fémis, 2009.  
+[^2]: Marcel Hanoun, _Cinéma cinéaste_, Yellow Now, 2001.  
+[^3]: Marcel Hanoun, « Regard du film sur le spectateur », _L'Avant-scène cinéma_, n° 242, février 1980.  
+[^4]: Marcel Hanoun, « À la recherche de l'imprévisible contre-chant », _Trafic_, hiver 2002.  
+[^5]: Marcel Hanoun, _Cinéma cinéaste_, op. cit.  
+[^6]: Marcel Hanoun, « À la recherche de l'imprévisible contre-chant », _Trafic_, hiver 2002.  
+[^7]: Marcem Hanoun, [www.ma-cinematheque.com](http://www.ma-cinematheque.com)  
+[^8]: Marcem Hanoun, _Cinéma cinéaste_, op. cit.  
