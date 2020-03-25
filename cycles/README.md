@@ -373,7 +373,7 @@ Depuis novembre 2005.
 |  –   | 113  |     | Robert Aldrich                                             | 2009-08-26 | 2009-10-05 |
 |  –   | 112  |     | Michael Mann                                               | 2009-07-02 | 2009-07-26 |
 |  –   | 111  |  ☑  | William Castle                                             | 2009-06-19 | 2009-08-02 |
-|  –   | 110  |     | Luis Buñuel                                                | 2009-06-10 | 2009-08-02 |
+|  –   | 110  |  ☑  | Luis Buñuel                                                | 2009-06-10 | 2009-08-02 |
 |  –   | 109  |     | 48ème Semaine de la critique                               | 2009-06-04 | 2009-06-07 |
 |  –   | 108  |     | Alain Sarde                                                | 2009-05-06 | 2009-06-01 |
 |  –   | 107  |     | (Expo) Jacques Tati, deux temps, trois mouvements          | 2009-04-09 | 2009-08-02 |
