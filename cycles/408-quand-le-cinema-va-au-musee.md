@@ -1,4 +1,4 @@
-**Quand le cinéma va au musée... il lui arrive de ne pas bien se tenir, de faire tout autre chose que de regarder sagement les œuvres, bien au contraire... Florilège de films transgressifs ou régressifs, des films en tout genre qui interrogent en passant le rapport du cinéma à l'Art, avec un grand « A »...**
+> Quand le cinéma va au musée... il lui arrive de ne pas bien se tenir, de faire tout autre chose que de regarder sagement les œuvres, bien au contraire... Florilège de films transgressifs ou régressifs, des films en tout genre qui interrogent en passant le rapport du cinéma à l'Art, avec un grand « A »...
 
 # Bandes à part
 

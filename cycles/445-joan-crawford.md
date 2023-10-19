@@ -2,11 +2,11 @@
 
 > « If you want the girl next door, go next door. » (Joan Crawford)
 
-## « Nommez-la et gagnez \$1 000 ! »
+## « Nommez-la et gagnez $1 000 ! »
 
 Mars 1925, le magazine _Movie Weekly_ lance un concours national auprès de ses lecteurs : rebaptiser la nouvelle vedette de dix-huit ans de la Metro-Goldwyn-Mayer, Lucille Fay LeSueur. Son futur nom doit être « facile à prononcer et à épeler, et aussi facile à se remémorer ». Un nom qui colle avec la personnalité de cette « parfaite petite Américaine d'aujourd'hui », sportive, énergique et ambitieuse. Étalé sur plusieurs mois, le concours est finalement remporté par une vieille dame d'Albany : la jeune star s'appellera Joan Crawford.
 
-Repérée lors d'un concours de danse par un responsable de la firme au lion, Miss LeSueur est une danseuse qui enchaîne les revues et les concours sans avoir jamais pensé à devenir actrice. Elle ne pense qu'à danser et ce, dit-elle, pour trois raisons : devenir riche, célèbre et parce qu'elle aime ça. Engagée par le studio, Joan Crawford tourne beaucoup, souvent dans des petits rôles de danseuse de revue. Conscient de son potentiel, le directeur de la publicité de la MGM s'occupe de son image et bombarde les magazines de photos et de potins sur la moindre de ses sorties. Elle devient, à cette époque et selon les propres mots de Francis Scott Fitzgerald, l'incarnation idéale de la _flapper_, « la fille que vous croisez dans des night-clubs branchés, habillée avec la plus grande sophistication, jouant avec son verre avec une expression distante et légèrement amère, dansant merveilleusement, riant beaucoup, avec des yeux larges et blessants. De petites choses avec un talent pour la vie. »<sup>1</sup> _Our Dancing Daughters_ de Harry Beaumont (1928), qui suit les affres d'une jeunesse électrique, et _Our Modern Maidens_ de Jack Conway (1929) consacrent ce personnage aux yeux du public.
+Repérée lors d'un concours de danse par un responsable de la firme au lion, Miss LeSueur est une danseuse qui enchaîne les revues et les concours sans avoir jamais pensé à devenir actrice. Elle ne pense qu'à danser et ce, dit-elle, pour trois raisons : devenir riche, célèbre et parce qu'elle aime ça. Engagée par le studio, Joan Crawford tourne beaucoup, souvent dans des petits rôles de danseuse de revue. Conscient de son potentiel, le directeur de la publicité de la MGM s'occupe de son image et bombarde les magazines de photos et de potins sur la moindre de ses sorties. Elle devient, à cette époque et selon les propres mots de Francis Scott Fitzgerald, l'incarnation idéale de la _flapper_, « la fille que vous croisez dans des night-clubs branchés, habillée avec la plus grande sophistication, jouant avec son verre avec une expression distante et légèrement amère, dansant merveilleusement, riant beaucoup, avec des yeux larges et blessants. De petites choses avec un talent pour la vie. »[^1] _Our Dancing Daughters_ de Harry Beaumont (1928), qui suit les affres d'une jeunesse électrique, et _Our Modern Maidens_ de Jack Conway (1929) consacrent ce personnage aux yeux du public.
 
 ## « Woman's picture » et Grande Dépression
 
@@ -26,6 +26,4 @@ _Mildred Pierce_ (1945) de Michael Curtiz inaugure les années Warner jusqu'en 1
 
 Murielle Joudet
 
----
-
-\1. Joan Crawford, <em>A Portrait of Joan: The Autobiography of Joan Crawford</em>, Doubleday, 1962.
+[^1]: Joan Crawford, _A Portrait of Joan: The Autobiography of Joan Crawford_, Doubleday, 1962.

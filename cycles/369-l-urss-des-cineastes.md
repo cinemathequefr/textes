@@ -3,7 +3,7 @@ title: Révolutions
 author: Bernard Eisenschitz
 ---
 
-**Le centenaire de la révolution d'Octobre donne l'occasion d'une grande traversée de l'histoire du cinéma soviétique, à rebours de la perception habituelle d'un art monolithique. Les réalisateurs ont su saisir certains aspects de la réalité invisible du pays, se souvenant d'une révolution qui avait promis un bouleversement de l'existence même.**
+> Le centenaire de la révolution d'Octobre donne l'occasion d'une grande traversée de l'histoire du cinéma soviétique, à rebours de la perception habituelle d'un art monolithique. Les réalisateurs ont su saisir certains aspects de la réalité invisible du pays, se souvenant d'une révolution qui avait promis un bouleversement de l'existence même.
 
 # Révolutions
 

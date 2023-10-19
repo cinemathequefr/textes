@@ -1,4 +1,4 @@
-**« Jean Rouch, c'est le moteur de tout le cinéma depuis 1955, bien que peu de gens le sachent... C'est le premier en France à avoir fait coïncider la vérité brute, la vie quotidienne prise, captée à vif, et l'invention cinématographique. » (Jacques Rivette, _Cahiers du cinéma_, septembre 1968)**
+> « Jean Rouch, c'est le moteur de tout le cinéma depuis 1955, bien que peu de gens le sachent... C'est le premier en France à avoir fait coïncider la vérité brute, la vie quotidienne prise, captée à vif, et l'invention cinématographique. » (Jacques Rivette, _Cahiers du cinéma_, septembre 1968)
 
 # Jean Rouch : restaurations, raretés et inachevés
 

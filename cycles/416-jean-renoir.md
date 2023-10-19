@@ -1,4 +1,4 @@
-**Jean Renoir (1894-1979) a réalisé des films considérés aujourd'hui comme des classiques du cinéma français : _La Grande illusion_, _La Règle du jeu_, _Une partie de campagne_, _French Cancan_... Il a aussi tourné aux États-Unis, en Italie et en Inde, et partout où il se trouvait a su retrouver son impression du monde comme réalité vivante et vibrante, presque une zone érogène, lui qui se qualifiait aussi de « panthéiste méditerranéen ».**
+> Jean Renoir (1894-1979) a réalisé des films considérés aujourd'hui comme des classiques du cinéma français : _La Grande illusion_, _La Règle du jeu_, _Une partie de campagne_, _French Cancan_... Il a aussi tourné aux États-Unis, en Italie et en Inde, et partout où il se trouvait a su retrouver son impression du monde comme réalité vivante et vibrante, presque une zone érogène, lui qui se qualifiait aussi de « panthéiste méditerranéen ».
 
 # Grand bonheur
 

@@ -1,4 +1,4 @@
-**Longtemps, Tod Browning (1880-1962) fut associé à _Dracula_ (1931), dont le succès initia l'âge d'or du cinéma fantastique américain. Cette célébrité possédait un revers ambigu : l'avoir longtemps figé en cinéaste théâtral et empesé, à l'inverse de la modernité et de l'ironie de son rival James Whale. C'est la redécouverte de _Freaks_ et des films muets tournés avec Lon Chaney qui révéla un cinéma sauvage, archaïque et cruel.**
+> Longtemps, Tod Browning (1880-1962) fut associé à _Dracula_ (1931), dont le succès initia l'âge d'or du cinéma fantastique américain. Cette célébrité possédait un revers ambigu : l'avoir longtemps figé en cinéaste théâtral et empesé, à l'inverse de la modernité et de l'ironie de son rival James Whale. C'est la redécouverte de _Freaks_ et des films muets tournés avec Lon Chaney qui révéla un cinéma sauvage, archaïque et cruel.
 
 # Non réconcilié
 

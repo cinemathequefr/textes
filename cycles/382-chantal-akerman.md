@@ -1,4 +1,4 @@
-**De Bruxelles à Tel-Aviv, de New York à Paris ou Moscou, l'œuvre protéiforme de Chantal Akerman se déploie, inquiète et souveraine, aux frontières de l'essai et de la fiction de soi, autant de récits de solitude et de documentaires à la recherche de l'autre, de comédies à l'humour triste, de somptueuses adaptations littéraires et d'enquêtes généalogiques sans fin. Akerman a été une cinéaste hantée par toutes les histoires d'hier et d'aujourd'hui.**
+> De Bruxelles à Tel-Aviv, de New York à Paris ou Moscou, l'œuvre protéiforme de Chantal Akerman se déploie, inquiète et souveraine, aux frontières de l'essai et de la fiction de soi, autant de récits de solitude et de documentaires à la recherche de l'autre, de comédies à l'humour triste, de somptueuses adaptations littéraires et d'enquêtes généalogiques sans fin. Akerman a été une cinéaste hantée par toutes les histoires d'hier et d'aujourd'hui.
 
 # La joie, impermanente
 

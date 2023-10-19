@@ -1,4 +1,4 @@
-**À l'occasion de l'avant-première à la Cinémathèque et de la sortie en salles de _Burning_, présenté en compétition officielle au Festival de Cannes 2018, découverte de l'œuvre encore courte mais déjà intense du réalisateur coréen Lee Chang-dong. Des films âpres, une plongée dans la violence sociale qui trouve ses racines dans le passé dictatorial de la Corée, une noirceur et un désespoir qui permettent néanmoins aux personnages d'accéder à une vérité du réel.**
+> À l'occasion de l'avant-première à la Cinémathèque et de la sortie en salles de _Burning_, présenté en compétition officielle au Festival de Cannes 2018, découverte de l'œuvre encore courte mais déjà intense du réalisateur coréen Lee Chang-dong. Des films âpres, une plongée dans la violence sociale qui trouve ses racines dans le passé dictatorial de la Corée, une noirceur et un désespoir qui permettent néanmoins aux personnages d'accéder à une vérité du réel.
 
 # La vérité de l'invisible
 

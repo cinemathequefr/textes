@@ -3,7 +3,7 @@ title: Howard Shore, l'essentiel
 author: Stéphane Lerouge
 ---
 
-**Célèbre pour ses musiques des films de David Cronenberg et du _Seigneur des anneaux_, le compositeur Howard Shore est l'auteur d'une œuvre en équilibre entre grands ouvrages symphoniques et compositions expérimentales.**
+> Célèbre pour ses musiques des films de David Cronenberg et du _Seigneur des anneaux_, le compositeur Howard Shore est l'auteur d'une œuvre en équilibre entre grands ouvrages symphoniques et compositions expérimentales.\*\*
 
 # Howard Shore, l'essentiel
 

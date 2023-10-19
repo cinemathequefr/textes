@@ -1,4 +1,4 @@
-Entre 1963 et 1969, le cinéma tchèque, emmené par une jeune génération de cinéastes, connaît un jaillissement de vitalité sans précédent. Entre un réalisme fortement teinté d'ironie et le goût de la métaphore, cette Nouvelle Vague accompagne et aiguillonne les bouleversements alors en cours dans la société tchécoslovaque.
+> Entre 1963 et 1969, le cinéma tchèque, emmené par une jeune génération de cinéastes, connaît un jaillissement de vitalité sans précédent. Entre un réalisme fortement teinté d'ironie et le goût de la métaphore, cette Nouvelle Vague accompagne et aiguillonne les bouleversements alors en cours dans la société tchécoslovaque.
 
 # Un cinéma exorbité
 

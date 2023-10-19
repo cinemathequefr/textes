@@ -3,7 +3,7 @@ title: Goscinny et le cinéma : exposer une idée fixe
 author: Frédéric Bonnaud, Jean-Pierre Mercier, Aymar du Chatenet
 ---
 
-**Passionné par le septième art dès son enfance, Goscinny s’est inspiré dans ses bandes dessinées des plus grands chefs-d’oeuvre du cinéma, du péplum au western en passant par la comédie musicale. Ludique et interactive, ponctuée de costumes et décors, l’exposition met en regard planches originales et extraits de films pour révéler l’importance du cinéma dans le travail de ce scénariste de génie. Au cœur du parcours, la reconstitution des studios Idéfix, qu’il a créés, se rêvant en Walt Disney, dévoilera toutes les étapes de création d’un dessin animé. 40 ans après la mort de leur créateur, Astérix, Lucky Luke, les Dalton, Iznogoud et le Petit Nicolas sont devenus des personnages de cinéma à part entière. Pari réussi pour « Walt Goscinny » !**
+> Passionné par le septième art dès son enfance, Goscinny s’est inspiré dans ses bandes dessinées des plus grands chefs-d’oeuvre du cinéma, du péplum au western en passant par la comédie musicale. Ludique et interactive, ponctuée de costumes et décors, l’exposition met en regard planches originales et extraits de films pour révéler l’importance du cinéma dans le travail de ce scénariste de génie. Au cœur du parcours, la reconstitution des studios Idéfix, qu’il a créés, se rêvant en Walt Disney, dévoilera toutes les étapes de création d’un dessin animé. 40 ans après la mort de leur créateur, Astérix, Lucky Luke, les Dalton, Iznogoud et le Petit Nicolas sont devenus des personnages de cinéma à part entière. Pari réussi pour « Walt Goscinny » !
 
 # Goscinny et le cinéma : exposer une idée fixe
 
@@ -27,8 +27,8 @@ Mais Astérix deviendra vite une star de cinéma, des premiers balbutiements té
 
 Pour Goscinny, les westerns de Ford, et en particulier sa « trilogie de la cavalerie » (_Fort Apache_ / _Charge héroïque_ / _Rio Grande_), sont une source d'inspiration constante en même temps qu'une somme d'épineux problèmes à résoudre. Comment, en effet, transformer le pathétique fordien, fondé d'abord sur une tragédie de l'appartenance, en un amusant album de bande dessinée, avec son héros asexué, sans faille et désinvolte, soit l'exact inverse du héros fordien, souvent névrosé, plein de remords, se sachant coupable et archi-faillible ? Mission impossible pour quiconque, personne d'ailleurs n'ayant songé à parodier Ford (à l'imiter, oui), sauf pour Goscinny, dont le génie réside justement en sa capacité à adapter l'inadaptable, à transformer les larmes en rires, la tragédie en comédie. De la reconstitution d'une salle de cinéma de Buenos Aires à un dernier montage des innombrables adaptations posthumes (_Goscinny for ever!_), en passant par le péplum, le western et le fort goût goscinnien du démontage de toutes les conventions cinématographiques, notre exposition est conçue comme une promenade à travers le plus populaire des arts, le cinéma, revu et encore magnifié par le plus doué et le plus amoureux de ses captifs, René Goscinny.
 
-Frédéric Bonnaud (Directeur général de la Cinémathèque française et commissaire associé de l'exposition)
-Jean-Pierre Mercier (commissaire général de l'exposition)
+Frédéric Bonnaud (Directeur général de la Cinémathèque française et commissaire associé de l'exposition)  
+Jean-Pierre Mercier (commissaire général de l'exposition)  
 Aymar du Chatenet (commissaire associé de l'exposition)
 
 ---

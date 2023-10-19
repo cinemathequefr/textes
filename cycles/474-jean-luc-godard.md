@@ -1,6 +1,6 @@
-# Honneur à votre ego, M. Godard
+> Riche de deux centaines de films, à bras le corps avec les injustices de l'histoire collective, en dialogue avec l'ensemble des autres arts, l'œuvre de Jean-Luc Godard n'a cessé d'interroger les puissances de l'image et de réinventer le cinéma.
 
-**Riche de deux centaines de films, à bras le corps avec les injustices de l'histoire collective, en dialogue avec l'ensemble des autres arts, l'œuvre de Jean-Luc Godard n'a cessé d'interroger les puissances de l'image et de réinventer le cinéma.**
+# Honneur à votre ego, M. Godard
 
 « Honneur à votre ego » : la formule remplace « bonjour » dans le monde d'_Anticipation_ (1967), un monde radioactif, sous contrôle, informatisé, divisé en corps exploités et clients prédateurs, où le langage s'est appauvri jusqu'à ne plus pouvoir s'articuler, où les images ne servent plus qu'à cataloguer des biens de consommation, d'où la grâce s'est volatilisée en raison de la spécialisation fonctionnelle des êtres humains — quelle différence avec le nôtre, un demi-siècle plus tard, qui cultive le narcissisme comme meilleur instrument de réification ?
 

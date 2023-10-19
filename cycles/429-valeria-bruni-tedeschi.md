@@ -1,4 +1,4 @@
-À l'occasion de la sortie de son dernier film en date, _Les Estivants_, retour sur la carrière de réalisatrice de Valeria Bruni Tedeschi : trois longs métrages éclatants et uniques, un téléfilm rappelant ses premières amours théâtrales (_Les Trois sœurs_, d'après Tchekhov), ainsi que le documentaire _Une jeune fille de 90 ans_, qu'elle codirige avec Yann Coridian, une bouleversante ode à la vie.
+> À l'occasion de la sortie de son dernier film en date, _Les Estivants_, retour sur la carrière de réalisatrice de Valeria Bruni Tedeschi : trois longs métrages éclatants et uniques, un téléfilm rappelant ses premières amours théâtrales (_Les Trois sœurs_, d'après Tchekhov), ainsi que le documentaire _Une jeune fille de 90 ans_, qu'elle codirige avec Yann Coridian, une bouleversante ode à la vie.
 
 # Impudica ma non troppo (Valeria Bruni Tedeschi, réalisatrice)
 

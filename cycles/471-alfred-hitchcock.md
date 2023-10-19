@@ -1,6 +1,6 @@
-# Une vie à l'œuvre
+> _Chantage_, _Les 39 marches_, _L'Inconnu du Nord-Express_, _Vertigo_, _Psychose_, _Les Oiseaux_... Des premiers films anglais du jeune réalisateur aux chefs-d'œuvre américains, sans oublier les titres pour la télévision, Alfred Hitchcock, cinéaste prolifique et inventif, a fait preuve d'un style unique et a, tout au long de sa carrière, joué avec les plus intimes émotions de ses spectateurs.
 
-**_Chantage_, _Les 39 marches_, _L'Inconnu du Nord-Express_, _Vertigo_, _Psychose_, _Les Oiseaux_... Des premiers films anglais du jeune réalisateur aux chefs-d'œuvre américains, sans oublier les titres pour la télévision, Alfred Hitchcock, cinéaste prolifique et inventif, a fait preuve d'un style unique et a, tout au long de sa carrière, joué avec les plus intimes émotions de ses spectateurs.**
+# Une vie à l'œuvre
 
 Plus qu'aucun autre cinéaste, Alfred Hitchcock a été la victime consentante d'un succès qui s'est avéré mondial, prisonnier de son immense réputation et de l'attente renouvelée d'un public qu'il a lui-même créé. C'est la voix off de Jean-Luc Godard, dans ses _Histoire(s) du cinéma_, qui a le mieux dit à quel point ce génial artiste avait su s'emparer de l'imaginaire des foules au XX<sup>e</sup> siècle : « Alfred Hitchcock réussit là où échouèrent Alexandre, Jules César, Napoléon : prendre le contrôle de l'univers. » C'est qu'Hitchcock accomplit avec ses films haletants, ses figures et motifs entêtants, un rêve totalitaire du cinéma : s'adresser au monde entier (il fallait pour cela la puissance de frappe de l'industrie cinématographique hollywoodienne) en y parvenant mieux que les grands cinéastes soviétiques qui, eux, rêvaient de parler aux masses plutôt qu'à cette addition d'individus qu'on appelle le grand public.
 

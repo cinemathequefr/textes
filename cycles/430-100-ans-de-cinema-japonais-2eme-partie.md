@@ -1,4 +1,4 @@
-Une histoire insolite du cinéma japonais, suite... Plus d'une trentaine de titres rares de l'immense production nippone (du cinéma de studio aux productions indépendantes), de la fin des années 1940 jusqu'aux années 2000.
+> Une histoire insolite du cinéma japonais, suite... Plus d'une trentaine de titres rares de l'immense production nippone (du cinéma de studio aux productions indépendantes), de la fin des années 1940 jusqu'aux années 2000.
 
 # Perles rares du Japon
 

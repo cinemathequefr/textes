@@ -2,19 +2,20 @@
 title: Brune/Blonde
 author: Alain Bergala, Anne Marquez, Matthieu Orléan
 ---
+
 # Brune/Blonde
 
-Extraits de films, archives télévisuelles, photographies, tableaux, et courts métrages inédits réalisés par de grands réalisateurs internationaux&nbsp;: l'exposition Brune/Blonde met à l'honneur le thème de la chevelure féminine pendant trois mois à la Cinémathèque.
+Extraits de films, archives télévisuelles, photographies, tableaux, et courts métrages inédits réalisés par de grands réalisateurs internationaux : l'exposition Brune/Blonde met à l'honneur le thème de la chevelure féminine pendant trois mois à la Cinémathèque.
 
-Rythmée par de nombreuses projections d'extraits de films, l'exposition Brune/Blonde, conçue par Alain Bergala, a pour centre de gravité le cinéma et ses actrices mythiques&nbsp;: brunes et blondes, sans oublier les rousses&nbsp;; cheveux courts ou cheveux longs&nbsp;; voilées ou sensuelles. Le cinéma et ses cinéastes engagés dans la recherche d'une forme où le corps s'expose. Le cinéma et la représentation de la chevelure, car celle-ci est inextricablement liée à la sphère du désir, le lieu du vertige amoureux. Avec pour emblème le chignon en spirale de Kim Novak dans *Vertigo* (Alfred Hitchcock), revisité trente ans après par David Lynch dans *Lost Highway*.
+Rythmée par de nombreuses projections d'extraits de films, l'exposition Brune/Blonde, conçue par Alain Bergala, a pour centre de gravité le cinéma et ses actrices mythiques : brunes et blondes, sans oublier les rousses ; cheveux courts ou cheveux longs ; voilées ou sensuelles. Le cinéma et ses cinéastes engagés dans la recherche d'une forme où le corps s'expose. Le cinéma et la représentation de la chevelure, car celle-ci est inextricablement liée à la sphère du désir, le lieu du vertige amoureux. Avec pour emblème le chignon en spirale de Kim Novak dans _Vertigo_ (Alfred Hitchcock), revisité trente ans après par David Lynch dans _Lost Highway_.
 
-Suivant des axes aussi bien esthétiques que thématiques, l'exposition se divise en cinq parties intitulées&nbsp;:
+Suivant des axes aussi bien esthétiques que thématiques, l'exposition se divise en cinq parties intitulées :
 
-* Le mythe
-* Histoire & géographie de la chevelure
-* Les gestes de la chevelure
-* La chevelure au cœur de la fiction (rivales, métamorphose, travestissement, relique)
-* Vers l'abstraction (cheveu-matière)
+- Le mythe
+- Histoire & géographie de la chevelure
+- Les gestes de la chevelure
+- La chevelure au cœur de la fiction (rivales, métamorphose, travestissement, relique)
+- Vers l'abstraction (cheveu-matière)
 
 À chaque instant de son parcours, l'exposition mettra en regard le cinéma classique et le cinéma de la marge, le cinéma d'Occident et le cinéma d'Orient, le cinéma d'hier (Buñuel, Hawks, Antonioni, Fuller, Bergman, ...) et le cinéma d'aujourd'hui (Wong Kar-wai, Kiarostami, Godard, ...). Des rapprochements stimulants, des collusions même, qui n'empêchent pas l'exposition de se soucier aussi de la chronologie et de permettre au visiteur d'acquérir des repères historiques.
 
@@ -32,6 +33,6 @@ Avec un coup de projecteur tout particulier sur l'attrait des arts du XXe siècl
 
 ## Des courts métrages inédits
 
-L'exposition permettra enfin au visiteur de découvrir, en exclusivité dans une petite salle de cinéma conçue pour l'occasion, des courts métrages inédits réalisés sur le thème Brune/Blonde, par six cinéastes contemporains, qui nous livrent leur vision de la chevelure féminine&nbsp;: Abbas Kiarostami, Isild Le Besco, Pablo Trapero, Yousry Nasrallah, Nobuhiro Suwa, Abderrahmane Sissako.
+L'exposition permettra enfin au visiteur de découvrir, en exclusivité dans une petite salle de cinéma conçue pour l'occasion, des courts métrages inédits réalisés sur le thème Brune/Blonde, par six cinéastes contemporains, qui nous livrent leur vision de la chevelure féminine : Abbas Kiarostami, Isild Le Besco, Pablo Trapero, Yousry Nasrallah, Nobuhiro Suwa, Abderrahmane Sissako.
 
 Alain Bergala, Anne Marquez, Matthieu Orléan

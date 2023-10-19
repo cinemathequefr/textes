@@ -1,4 +1,4 @@
-**Révélé en 1968 par un film d'horreur à petit budget, _La Nuit des morts-vivants_, qui bouleversa les règles du genre, George A. Romero est l'auteur d'une œuvre très personnelle, essentielle dans l'histoire du cinéma américain moderne. Avec ses figures de zombies, déclinées dans plusieurs titres tout au long de sa carrière et devenues des silhouettes familières de la pop culture contemporaine, il a énoncé une critique politique radicale de la société américaine, de son goût pour la violence et de son aliénation.**
+> Révélé en 1968 par un film d'horreur à petit budget, _La Nuit des morts-vivants_, qui bouleversa les règles du genre, George A. Romero est l'auteur d'une œuvre très personnelle, essentielle dans l'histoire du cinéma américain moderne. Avec ses figures de zombies, déclinées dans plusieurs titres tout au long de sa carrière et devenues des silhouettes familières de la pop culture contemporaine, il a énoncé une critique politique radicale de la société américaine, de son goût pour la violence et de son aliénation.\*\*
 
 # Terreurs expérimentales
 

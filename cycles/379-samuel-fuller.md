@@ -3,7 +3,7 @@ title: Puissance du paradoxe
 author: Jean-François Rauger
 ---
 
-**L'œuvre de Samuel Fuller (1912-1997), enrichie de ses propres expériences biographiques (journalisme, militaire durant la Deuxième Guerre mondiale), fait exploser toutes les catégories existantes, qu'elles relèvent du western (_I Shot Jesse James_, _Le Jugement des flèches_), du film de guerre (_J'ai vécu l'enfer de Corée_, _Les Maraudeurs attaquent_, _Au-delà de la gloire_) ou du film noir (_Le Port de la drogue_, _Les Bas-fonds new-yorkais_), en se mettant aussi au service d'histoires paradoxales (_Shock Corridor_, _Naked Kiss_) gorgées de violence et d'émotion.**
+> L'œuvre de Samuel Fuller (1912-1997), enrichie de ses propres expériences biographiques (journalisme, militaire durant la Deuxième Guerre mondiale), fait exploser toutes les catégories existantes, qu'elles relèvent du western (_I Shot Jesse James_, _Le Jugement des flèches_), du film de guerre (_J'ai vécu l'enfer de Corée_, _Les Maraudeurs attaquent_, _Au-delà de la gloire_) ou du film noir (_Le Port de la drogue_, _Les Bas-fonds new-yorkais_), en se mettant aussi au service d'histoires paradoxales (_Shock Corridor_, _Naked Kiss_) gorgées de violence et d'émotion.
 
 # Puissance du paradoxe
 

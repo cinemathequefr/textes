@@ -1,4 +1,4 @@
-**Projection de l'œuvre en cours de Jean Paul Civeyrac, neuf longs métrages et quelques courts qui sont autant de poèmes en prose sensibles, jusqu'à la douleur ou l'extase, aux élans du cœur. Rétrospective donc, tandis que sort en salles le dernier film en date du cinéaste, _Mes provinciales_, présenté en ouverture et en avant-première à la Cinémathèque.**
+> Projection de l'œuvre en cours de Jean Paul Civeyrac, neuf longs métrages et quelques courts qui sont autant de poèmes en prose sensibles, jusqu'à la douleur ou l'extase, aux élans du cœur. Rétrospective donc, tandis que sort en salles le dernier film en date du cinéaste, _Mes provinciales_, présenté en ouverture et en avant-première à la Cinémathèque.
 
 # Contes d'amour pour aujourd'hui
 

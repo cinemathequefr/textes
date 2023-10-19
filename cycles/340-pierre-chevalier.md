@@ -3,7 +3,7 @@ title: Pierre Chevalier, l'homme des possibles
 author: Jean-Marc Lalanne
 ---
 
-**Directeur de l'unité fiction d'Arte pendant les années 1990, producteur entre autres de la série _Tous les garçons et les filles de leur âge_, Pierre Chevalier a ouvert la télévision à des réalisateurs confirmés ou naissants : Olivier Assayas, Claire Denis, Cédric Kahn, Pascale Ferran... Mais c'est tout le cinéma hexagonal, et au-delà, qui a su profiter de cet appel d'air. Pierre Chevalier ou l'avènement d'une génération de cinéastes.**
+> Directeur de l'unité fiction d'Arte pendant les années 1990, producteur entre autres de la série _Tous les garçons et les filles de leur âge_, Pierre Chevalier a ouvert la télévision à des réalisateurs confirmés ou naissants : Olivier Assayas, Claire Denis, Cédric Kahn, Pascale Ferran... Mais c'est tout le cinéma hexagonal, et au-delà, qui a su profiter de cet appel d'air. Pierre Chevalier ou l'avènement d'une génération de cinéastes.>
 
 # Pierre Chevalier, l'homme des possibles
 

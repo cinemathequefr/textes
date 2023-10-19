@@ -1,4 +1,4 @@
-**À la fois au cœur de Hollywood et contre un système hollywoodien qui a cherché à contrôler son image, star et antistar en même temps, Jane Fonda n'a cessé de s'affranchir. Elle est assurément, hier comme aujourd'hui, une icône politique et cinématographique.**
+> À la fois au cœur de Hollywood et contre un système hollywoodien qui a cherché à contrôler son image, star et antistar en même temps, Jane Fonda n'a cessé de s'affranchir. Elle est assurément, hier comme aujourd'hui, une icône politique et cinématographique.
 
 # L'icône iconoclaste
 
@@ -12,7 +12,7 @@ Cette transformation physique a été précédée d'une prise de conscience : é
 
 ## L'art du phœnix
 
-Elle soutient le peuple vietnamien, la cause des Noirs et des Indiens, devient ouvertement féministe, se met à dos l'opinion américaine. L'engagement intellectuel s'accompagne d'un engagement physique : la production des vidéos de fitness sert à financer la campagne politique de son mari. Elle n'est plus seulement actrice, mais productrice de films tels que _Le Retour_, sur les vétérans de la guerre du Vietnam, ou le très prophétique _Syndrome chinois_ sur les dangers nucléaires. _Le Retour_ met en abyme sa transformation : une épouse fardée au cheveux crêpés soumise à son <em>marine</em> de mari, sexuellement insatisfaite, se révèle et se libère dans tous les sens du terme en tombant amoureuse d'un soldat revenu handicapé du front.
+Elle soutient le peuple vietnamien, la cause des Noirs et des Indiens, devient ouvertement féministe, se met à dos l'opinion américaine. L'engagement intellectuel s'accompagne d'un engagement physique : la production des vidéos de fitness sert à financer la campagne politique de son mari. Elle n'est plus seulement actrice, mais productrice de films tels que _Le Retour_, sur les vétérans de la guerre du Vietnam, ou le très prophétique _Syndrome chinois_ sur les dangers nucléaires. _Le Retour_ met en abyme sa transformation : une épouse fardée au cheveux crêpés soumise à son _marine_ de mari, sexuellement insatisfaite, se révèle et se libère dans tous les sens du terme en tombant amoureuse d'un soldat revenu handicapé du front.
 
 Après une pause dans les années 1990, Jane Fonda revient à l'écran et au mannequinat dans les années 2000. Mais là encore, l'actrice n'en finit pas d'échapper à son image de papier glacé, soit en jouant de l'autodérision, soit par ses déclarations toujours très franches sur la sexualité et son énergie toujours intacte au service des causes qui lui tiennent à cœur. Jane Fonda ou l'art du phœnix.
 

@@ -3,7 +3,7 @@ title: À la grâce de Jane
 author: Bernard Payen
 ---
 
-**Apparition fugace dans le _Blow Up_ d'Antonioni tourné en Angleterre, Jane Birkin entre dans le cinéma français à la toute fin des années 60. Son parcours mêle avec aisance comédies populaires et cinéma d'auteur. Égérie de Serge Gainsbourg, elle fut aussi la muse de Jacques Doillon et Jacques Rivette, mêlant humour et gravité dans ses plus beaux rôles.**
+> Apparition fugace dans le _Blow Up_ d'Antonioni tourné en Angleterre, Jane Birkin entre dans le cinéma français à la toute fin des années 60. Son parcours mêle avec aisance comédies populaires et cinéma d'auteur. Égérie de Serge Gainsbourg, elle fut aussi la muse de Jacques Doillon et Jacques Rivette, mêlant humour et gravité dans ses plus beaux rôles.
 
 # À la grâce de Jane
 

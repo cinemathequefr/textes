@@ -1,4 +1,4 @@
-Si l'on considère que le cinéma est peut-être le dernier art narratif du XIX<sup>e</sup> siècle, on ne devrait pas s'étonner du nombre d'adaptations de romans d'Honoré de Balzac qui furent tournées depuis ses origines. Programmation d'une série de titres, venus de tous les pays, qui témoignent de la façon dont les œuvres de l'auteur de « La Comédie humaine » ont inspiré cinéastes et scénaristes durant la période muette.
+> Si l'on considère que le cinéma est peut-être le dernier art narratif du XIX<sup>e</sup> siècle, on ne devrait pas s'étonner du nombre d'adaptations de romans d'Honoré de Balzac qui furent tournées depuis ses origines. Programmation d'une série de titres, venus de tous les pays, qui témoignent de la façon dont les œuvres de l'auteur de « La Comédie humaine » ont inspiré cinéastes et scénaristes durant la période muette.
 
 # Balzac, scénariste
 

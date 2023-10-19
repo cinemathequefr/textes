@@ -1,6 +1,6 @@
-# Merchant-Ivory, tendresse et cruauté
+> Derrière le nom Merchant-Ivory se cache un trio créatif qui rassemble, outre James Ivory et Ismail Merchant, l'écrivaine-scénariste Ruth Prawer Jhabvala. De cette collaboration est née, sur plus de quatre décennies, une œuvre transcontinentale (Asie, Europe, Amérique), glissant du passé au présent, traversée par la littérature et la musique.
 
-**Derrière le nom Merchant-Ivory se cache un trio créatif qui rassemble, outre James Ivory et Ismail Merchant, l'écrivaine-scénariste Ruth Prawer Jhabvala. De cette collaboration est née, sur plus de quatre décennies, une œuvre transcontinentale (Asie, Europe, Amérique), glissant du passé au présent, traversée par la littérature et la musique.**
+# Merchant-Ivory, tendresse et cruauté
 
 Ce qui frappe d'abord, c'est la fascination qu'exercent ces films : sous des dehors classiques, ils sont traversés d'une force subversive souterraine, à l'instar de _Maurice_ (1987), un des premiers films gay _mainstream_ avec une fin heureuse. En second lieu, leur fidélité. À leurs auteurs fétiches (Henry James, E. M. Forster, Kazuo Ishiguro...) ou à leurs collaborateurs. À leurs acteurs et actrices que souvent ils révèlent : Shashi Kapoor, Maggie Smith, Helena Bonham Carter, Emma Thompson, Anthony Hopkins, James Wilby, Hugh Grant...
 

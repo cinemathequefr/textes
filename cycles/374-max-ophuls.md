@@ -3,7 +3,7 @@ title: Grand style
 author: Jacques Bontemps
 ---
 
-**Né en Allemagne, auteur de plusieurs mélodrames stylés en Allemagne, en Italie et en France dans les années 1930 (_Liebelei_, _La Signora di tutti_, _De Mayerling à Sarajevo_), Max Ophuls tourne ensuite aux États-Unis des films qui tranchent par leur secrète inspiration « mitteleuropa » avec la tradition hollywoodienne (_Lettre d'une inconnue_). Il rentre en France et signe coup sur coup _La Ronde_, _Le Plaisir_, _Madame de..._ et _Lola Montès_.**
+> Né en Allemagne, auteur de plusieurs mélodrames stylés en Allemagne, en Italie et en France dans les années 1930 (_Liebelei_, _La Signora di tutti_, _De Mayerling à Sarajevo_), Max Ophuls tourne ensuite aux États-Unis des films qui tranchent par leur secrète inspiration « mitteleuropa » avec la tradition hollywoodienne (_Lettre d'une inconnue_). Il rentre en France et signe coup sur coup _La Ronde_, _Le Plaisir_, _Madame de..._ et _Lola Montès_.
 
 # Grand style
 

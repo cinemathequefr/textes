@@ -1,4 +1,4 @@
-**Pour sa deuxième édition, American Fringe propose un échantillon représentatif de ce champ passionnant et méconnu du cinéma américain contemporain. Au cours d'un week-end, neuf programmes de travaux récents seront projetés, souvent en présence des réalisateurs. Ces œuvres personnelles, simples et puissantes, démontrent la vivacité de la production américaine contemporaine.**
+> Pour sa deuxième édition, American Fringe propose un échantillon représentatif de ce champ passionnant et méconnu du cinéma américain contemporain. Au cours d'un week-end, neuf programmes de travaux récents seront projetés, souvent en présence des réalisateurs. Ces œuvres personnelles, simples et puissantes, démontrent la vivacité de la production américaine contemporaine.
 
 # Un nouveau regard sur le cinéma indépendant américain
 

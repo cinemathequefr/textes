@@ -3,7 +3,7 @@ title: Mathieu Macheret
 author: Le goût de l'aventure
 ---
 
-**Auteur d'une œuvre de près de cinquante films dont seule une quinzaine a survécu, resté célèbre pour avoir été l'« inventeur » de Greta Garbo, il fut aussi au début des années 1920 l'un des chefs de file et fondateurs, avec Victor Sjöström, de ce que l'on a appelé « l'école suédoise », qui contribua par son inventivité à l'avènement du langage cinématographique dans des œuvres exaltant le combat de l'homme et de la nature.**
+> Auteur d'une œuvre de près de cinquante films dont seule une quinzaine a survécu, resté célèbre pour avoir été l'« inventeur » de Greta Garbo, il fut aussi au début des années 1920 l'un des chefs de file et fondateurs, avec Victor Sjöström, de ce que l'on a appelé « l'école suédoise », qui contribua par son inventivité à l'avènement du langage cinématographique dans des œuvres exaltant le combat de l'homme et de la nature.
 
 # Le goût de l'aventure
 

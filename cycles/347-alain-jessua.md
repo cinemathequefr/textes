@@ -3,7 +3,7 @@ title: Une réalité fantastique
 author: Bernard Payen
 ---
 
-**L'œuvre méconnue d'Alain Jessua (dix films en soixante ans) a anticipé la réalité de nos sociétés modernes par le biais de discrets décalages fantastiques.**
+> L'œuvre méconnue d'Alain Jessua (dix films en soixante ans) a anticipé la réalité de nos sociétés modernes par le biais de discrets décalages fantastiques.
 
 # Une réalité fantastique
 

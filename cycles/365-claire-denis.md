@@ -3,7 +3,7 @@ title: La fragilité des liens
 author: Bernard Payen
 ---
 
-**En trente ans, Claire Denis a réalisé une œuvre ouverte sur le monde, où les liens (filiaux, amoureux) entre les êtres humains ne sont jamais acquis, où les corps imposent leur présence avec sensualité, dans des territoires lointains ou proches. Rétrospective à l'occasion de la sortie de son nouveau film, _Un beau soleil intérieur_.**
+> En trente ans, Claire Denis a réalisé une œuvre ouverte sur le monde, où les liens (filiaux, amoureux) entre les êtres humains ne sont jamais acquis, où les corps imposent leur présence avec sensualité, dans des territoires lointains ou proches. Rétrospective à l'occasion de la sortie de son nouveau film, _Un beau soleil intérieur_.
 
 # La fragilité des liens
 

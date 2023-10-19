@@ -3,7 +3,7 @@ title: Du mélo au péplum
 author: Jean-François Rauger
 ---
 
-**Méprisé en son temps par la critique transalpine, Vittorio Cottafavi, cinéaste raffiné et érudit, fut longtemps apprécié par une frange de la cinéphilie française pour l’intelligence de ses mélodrames, subtils portraits de femmes, ou de ses récits d’aventures historiques, réussissant même à transformer le péplum en allégorie politique. Il réalisera également un grand nombre d’adaptations littéraires pour la télévision. Révélation d’un grand cinéaste italien.**
+> Méprisé en son temps par la critique transalpine, Vittorio Cottafavi, cinéaste raffiné et érudit, fut longtemps apprécié par une frange de la cinéphilie française pour l’intelligence de ses mélodrames, subtils portraits de femmes, ou de ses récits d’aventures historiques, réussissant même à transformer le péplum en allégorie politique. Il réalisera également un grand nombre d’adaptations littéraires pour la télévision. Révélation d’un grand cinéaste italien.
 
 # Du mélo au péplum
 

@@ -3,7 +3,7 @@ title: Sur le sentier de la mémoire
 author: Guillaume Orignac
 ---
 
-**Cinéaste phare de la modernité européenne, Andreï Tarkovski aura laissé, en seulement sept longs métrages, une empreinte considérable dans l'histoire du cinéma. Considérable au risque de figer l'œuvre derrière l'image d'un artiste devenu icône culturelle. Car, au-delà des qualificatifs usuellement associés à sa filmographie (spiritualiste, formaliste et russe), chaque film aura autant creusé que déplacé les motifs du précédent, comme si la quête du cinéaste prenait la même forme que celle de ses personnages : une marche méditative, inquiète et perpétuellement inachevée.**
+> Cinéaste phare de la modernité européenne, Andreï Tarkovski aura laissé, en seulement sept longs métrages, une empreinte considérable dans l'histoire du cinéma. Considérable au risque de figer l'œuvre derrière l'image d'un artiste devenu icône culturelle. Car, au-delà des qualificatifs usuellement associés à sa filmographie (spiritualiste, formaliste et russe), chaque film aura autant creusé que déplacé les motifs du précédent, comme si la quête du cinéaste prenait la même forme que celle de ses personnages : une marche méditative, inquiète et perpétuellement inachevée.
 
 # Sur le sentier de la mémoire
 

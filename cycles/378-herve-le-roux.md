@@ -1,4 +1,4 @@
-**Hervé Le Roux a disparu en juillet 2017. Personnalité et cinéaste d'exception, il a réalisé des films qui se jouent de la répartition fiction/documentaire comme de la durée habituelle d'une projection. Trois jours pour voir et revoir _Grand bonheur, Reprise, Sortis d'usine, On appelle ça... le printemps_, et pour découvrir en avant-première son dernier film, invitation à une rêverie : _À quoi pense madame Manet sur son canapé bleu_ ?**
+> Hervé Le Roux a disparu en juillet 2017. Personnalité et cinéaste d'exception, il a réalisé des films qui se jouent de la répartition fiction/documentaire comme de la durée habituelle d'une projection. Trois jours pour voir et revoir _Grand bonheur, Reprise, Sortis d'usine, On appelle ça... le printemps_, et pour découvrir en avant-première son dernier film, invitation à une rêverie : _À quoi pense madame Manet sur son canapé bleu_ ?
 
 # Juste avant et juste au bord...
 

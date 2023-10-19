@@ -1,4 +1,4 @@
-**Venu du théâtre, auteur d'une imposante œuvre cinématographique et télévisuelle interrompue par sa mort prématurée, Fassbinder a été l'une des plus puissantes figures du nouveau cinéma allemand. Ses films dénoncent un certain état de la société allemande, sa violence de classes et le refoulé de son passé nazi.**
+> Venu du théâtre, auteur d'une imposante œuvre cinématographique et télévisuelle interrompue par sa mort prématurée, Fassbinder a été l'une des plus puissantes figures du nouveau cinéma allemand. Ses films dénoncent un certain état de la société allemande, sa violence de classes et le refoulé de son passé nazi.
 
 # Le monde comme volonté et représentation
 

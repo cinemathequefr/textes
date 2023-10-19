@@ -3,7 +3,7 @@ title: Les deux mondes
 author: Jean-François Rauger
 ---
 
-**Jacques Tourneur, considéré comme l'un des maîtres du fantastique avec des œuvres comme _La Féline_, _Vaudou_, _L'Homme-Léopard_ ou _Rendez-vous avec la peur_, est un cinéaste des mondes invisibles. Il a mis son art subtil de la suggestion au service de récits angoissants mais aussi de remarquables et oppressants films noirs (_La Griffe du passé_, _Nightfall_), de colorées bandes d'aventures (_La Flèche et le Flambeau_, _La Flibustière des Antilles_) et de westerns particulièrement originaux (_Canyon Passage_, _Un jeu risqué_).**
+> Jacques Tourneur, considéré comme l'un des maîtres du fantastique avec des œuvres comme _La Féline_, _Vaudou_, _L'Homme-Léopard_ ou _Rendez-vous avec la peur_, est un cinéaste des mondes invisibles. Il a mis son art subtil de la suggestion au service de récits angoissants mais aussi de remarquables et oppressants films noirs (_La Griffe du passé_, _Nightfall_), de colorées bandes d'aventures (_La Flèche et le Flambeau_, _La Flibustière des Antilles_) et de westerns particulièrement originaux (_Canyon Passage_, _Un jeu risqué_).
 
 # Les deux mondes
 

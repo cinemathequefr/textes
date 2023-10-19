@@ -4,7 +4,7 @@ Depuis une décennie, la création cinématographique chilienne vit un renouveau
 
 ## La division sociale
 
-Dans le cinéma chilien d'aujourd'hui, il est rare de voir deux personnages discuter d'égal à égal. Cela n'arrive que s'ils appartiennent à la même élite – le groupe de politiciens de _No_ de Pablo Larraín –, ou s'ils portent le poids des mêmes péchés – les prêtres d'_El Club_, du même Larraín. Plus souvent, on y trouvera un personnage en position de pouvoir envers un autre. Il peut tenir ce pouvoir de sa classe sociale, de son argent, ou l'avoir accumulé illicitement sous la dictature de Pinochet (1973-1990) et continuer d'en jouir en toute impunité.
+Le cinéma chilien d'aujourd'hui montre rarement deux personnages discuter d'égal à égal. Cela n'arrive que s'ils appartiennent à la même élite – le groupe de politiciens de _No_ de Pablo Larraín –, ou s'ils portent le poids des mêmes péchés – les prêtres d'_El Club_, du même Larraín. Plus souvent, on y trouvera un personnage en position de pouvoir envers un autre. Il peut tenir ce pouvoir de sa classe sociale, de son argent, ou l'avoir accumulé illicitement sous la dictature de Pinochet (1973-1990) et continuer d'en jouir en toute impunité.
 
 Dans _La Nana_ de Sebastián Silva, la hiérarchie sociale est implicite dans le rôle d'employée de maison de Raquel, l'héroïne. Elle parvient toutefois à s'accaparer elle aussi une part de pouvoir en soumettant les autres domestiques à son autoritarisme névrotique. Lorsque les employées s'absentent de la maison, elle verrouille les portes pour les laisser à l'extérieur. Le bannissement comme stratégie de domination.
 

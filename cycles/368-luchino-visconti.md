@@ -3,7 +3,7 @@ title: Un siècle de faste et de putrescence
 author: Gabriela Trujillo
 ---
 
-**Hanté par l'Histoire et son mouvement, Luchino Visconti a traversé et imprégné plus de trente ans de vie cinématographique italienne. Son œuvre raffinée s'est imposée comme une grande méditation sur le temps et l'inévitable corruption de toute chose.**
+> Hanté par l'Histoire et son mouvement, Luchino Visconti a traversé et imprégné plus de trente ans de vie cinématographique italienne. Son œuvre raffinée s'est imposée comme une grande méditation sur le temps et l'inévitable corruption de toute chose.
 
 # Un siècle de faste et de putrescence
 

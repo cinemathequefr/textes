@@ -1,4 +1,4 @@
-**William Wyler ou une définition possible du cinéma hollywoodien classique, y compris dans sa démesure (_Ben-Hur_). Après des débuts au temps du muet, il se fait remarquer pour ses subtils portraits de femmes (_La Vipère_, _L'Insoumise_, _L'Héritière_) et le style de sa mise en scène. Il signe encore l'une des œuvres les plus importantes de l'immédiat après-guerre (_Les Plus belles années de notre vie_) et, à la fin de sa carrière, expérimente encore (_L'Obsédé_, 1965).**
+> William Wyler ou une définition possible du cinéma hollywoodien classique, y compris dans sa démesure (_Ben-Hur_). Après des débuts au temps du muet, il se fait remarquer pour ses subtils portraits de femmes (_La Vipère_, _L'Insoumise_, _L'Héritière_) et le style de sa mise en scène. Il signe encore l'une des œuvres les plus importantes de l'immédiat après-guerre (_Les Plus belles années de notre vie_) et, à la fin de sa carrière, expérimente encore (_L'Obsédé_, 1965).
 
 # Des cadres et des corps
 

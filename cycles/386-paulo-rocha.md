@@ -12,6 +12,4 @@ Paulo Rocha fut assistant de Jean Renoir, puis de Manoel de Oliveira, avant de r
 
 Paulo Rocha
 
----
-
 Citations extraites d'entretiens avec Paulo Rocha parus dans « Une certaine idée du cinéma / Cineluso » (1998), _Cahiers du cinéma_ (janvier et novembre 1999) et _Les Inrockuptibles_ (janvier 1999).

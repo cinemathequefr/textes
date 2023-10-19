@@ -1,4 +1,4 @@
-**Voyage au long cours (40 ans de cinéma entre 1955 et 1995) dans l'œuvre de Louis Malle, fictions et documentaires. Un voyage à travers lequel se dessine le portrait d'un homme inquiet, à la fois travaillé par l'enfance et son milieu social d'origine, et constamment ouvert sur le monde.**
+> Voyage au long cours (40 ans de cinéma entre 1955 et 1995) dans l'œuvre de Louis Malle, fictions et documentaires. Un voyage à travers lequel se dessine le portrait d'un homme inquiet, à la fois travaillé par l'enfance et son milieu social d'origine, et constamment ouvert sur le monde.
 
 # L'Aventurier désenchanté
 

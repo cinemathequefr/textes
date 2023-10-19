@@ -8,9 +8,9 @@ Loin des légendes de l'improvisation nées de sa virtuosité stylistique, l'œu
 
 1957-1959. Pendant deux ans, Jonas Mekas travaille à défendre _Shadows_ (1957) : grâce à lui, le film reçoit la First Independent Film Award de _Film Culture_ et John Cassavetes devient l'emblème du cinéma indépendant américain. Mais Cassavetes tourne de nouvelles scènes et remonte le film : c'est la version seconde de _Shadows_, celle que nous connaissons depuis – la première étant retrouvée mais pour l'heure sous séquestre.
 
-1968. _Faces_ est projeté à Beverly Hills, Toronto puis Montréal où, raconte le fidèle producteur, directeur de la photographie, monteur et acteur Al Ruban, le public, « à six heures du matin, applaudissait encore »[^1]. Mais cela ne satisfait en rien Cassavetes, qui rentre à Los Angeles pour remonter le film.
+\1968. _Faces_ est projeté à Beverly Hills, Toronto puis Montréal où, raconte le fidèle producteur, directeur de la photographie, monteur et acteur Al Ruban, le public, « à six heures du matin, applaudissait encore »[^1]. Mais cela ne satisfait en rien Cassavetes, qui rentre à Los Angeles pour remonter le film.
 
-1969. Peter Falk révèle l'existence de quatre versions pour _Husbands_ : les trois premières privilégient l'un des protagonistes, la dernière les rassemble comme groupe[^2]. « C'était magnifique, non ? », lui dit Cassavetes à propos d'une version que chacun croyait finale. « Souviens-t'en bien, parce que tu ne la reverras jamais plus. »
+\1969. Peter Falk révèle l'existence de quatre versions pour _Husbands_ : les trois premières privilégient l'un des protagonistes, la dernière les rassemble comme groupe[^2]. « C'était magnifique, non ? », lui dit Cassavetes à propos d'une version que chacun croyait finale. « Souviens-t'en bien, parce que tu ne la reverras jamais plus. »
 
 1976-1978. Lorsque ses premiers spectateurs lui font remarquer que _The Killing of a Chinese Bookie_ manque de clarté, John Cassavetes à nouveau part en remontage : mais c'est pour rendre le film encore plus obscur, conflictuel et théorique.
 

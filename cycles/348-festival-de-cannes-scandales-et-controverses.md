@@ -3,7 +3,7 @@ title: Festival de Cannes : scandales et controverses
 author: Thierry Frémaux
 ---
 
-**Depuis 70 ans, l'histoire du festival de Cannes est riche en scandales et controverses. Films chahutés, récompenses contestées, incidents diplomatiques, blasphèmes organisés, la liste est longue de titres auxquels la sélection officielle a assuré un destin houleux. Un voyage à travers ces œuvres sulfureuses en 26 titres.**
+> Depuis 70 ans, l'histoire du festival de Cannes est riche en scandales et controverses. Films chahutés, récompenses contestées, incidents diplomatiques, blasphèmes organisés, la liste est longue de titres auxquels la sélection officielle a assuré un destin houleux. Un voyage à travers ces œuvres sulfureuses en 26 titres.
 
 # Festival de Cannes : scandales et controverses
 

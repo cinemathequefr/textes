@@ -1,6 +1,6 @@
-# Anne-Marie Miéville, ou la puissance de la douceur
+> Monteuse, scénariste et actrice, Anne-Marie Miéville réalise une dizaine de films courts, dont certains en collaboration avec son compagnon, Jean-Luc Godard. Bien trop rares, les quatre longs métrages qu'elle signe comme réalisatrice allient l'élégance de la mise en scène aux impératifs d'un art amoureux de la conversation.
 
-**Monteuse, scénariste et actrice, Anne-Marie Miéville réalise une dizaine de films courts, dont certains en collaboration avec son compagnon, Jean-Luc Godard. Bien trop rares, les quatre longs métrages qu'elle signe comme réalisatrice allient l'élégance de la mise en scène aux impératifs d'un art amoureux de la conversation.**
+# Anne-Marie Miéville, ou la puissance de la douceur
 
 Une femme dit à son compagnon : « J'aime l'homme que tu es mais je ne te supporte pas toujours ». Elle, c'est Aurore Clément, que l'on a vu répéter, en compagnie de Bernadette Lafont, l'un des plus célèbres dialogues platoniciens, le _Gorgias,_ devant une table de repassage, un repas, un salon cossu. L'homme, c'est Godard, qui récitait, dans un théâtre vide, un texte d'Hannah Arendt. Ils sont les protagonistes de l'avant-dernier long métrage d'Anne-Marie Miéville, _Nous sommes tous encore ici_ (1997), le drôle de périple d'un couple qui réinvente le dialogue amoureux – clé de voûte de l'œuvre – comme fondement et partage, comme dynamique pour continuer de vivre ensemble en toute liberté.
 

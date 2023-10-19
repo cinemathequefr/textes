@@ -1,4 +1,4 @@
-**F. J. Ossang est poète, musicien et cinéaste. Héritier du cinéma muet, du situationnisme et de la culture punk, son cinéma revisite, avec une exigence plastique rare, nombre de genres (film noir, road movie, science-fiction). Les films sont traversés par la hantise de la destruction d'un monde déréalisé où l'échec est aussi imminent que flamboyant. Rétrospective à l'occasion de la sortie en salles de _9 doigts_, son cinquième long métrage, présenté en avant-première à la Cinémathèque.**
+> F. J. Ossang est poète, musicien et cinéaste. Héritier du cinéma muet, du situationnisme et de la culture punk, son cinéma revisite, avec une exigence plastique rare, nombre de genres (film noir, road movie, science-fiction). Les films sont traversés par la hantise de la destruction d'un monde déréalisé où l'échec est aussi imminent que flamboyant. Rétrospective à l'occasion de la sortie en salles de _9 doigts_, son cinquième long métrage, présenté en avant-première à la Cinémathèque.
 
 # Hurlements à l'agonie de la lumière : le cinéma de F. J. Ossang
 

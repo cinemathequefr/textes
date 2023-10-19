@@ -1,4 +1,4 @@
-**Un des plus grands musiciens de cinéma. Son art, à la fois élégiaque et avant-gardiste, populaire et sophistiqué, la manière dont il use d'instruments originaux ou anachroniques et de la voix humaine, ont contribué à inscrire le cinéma italien (Leone, Bertolucci, Petri, Argento, ...) puis international (Scorsese, De Palma, Joffé, ...) dans une tradition opératique.**
+> Un des plus grands musiciens de cinéma. Son art, à la fois élégiaque et avant-gardiste, populaire et sophistiqué, la manière dont il use d'instruments originaux ou anachroniques et de la voix humaine, ont contribué à inscrire le cinéma italien (Leone, Bertolucci, Petri, Argento, ...) puis international (Scorsese, De Palma, Joffé, ...) dans une tradition opératique.\*\*
 
 # Le regard de la musique
 

@@ -3,7 +3,7 @@ title: Créatures infernales
 author: Jean-François Rauger
 ---
 
-**Venu de la série B et des productions Roger Corman, Joe Dante a incarné une mutation du cinéma américain à partir des années 1980. Épouvante et créatures imaginaires, mondes enfantins et contes cauchemardesques, humour et frayeur caractérisent une filmographie dont les grands titres (_Gremlins_, _Explorers_, _Small Soldiers_) témoignent aussi d'un regard politique caustique sur l'Amérique contemporaine.**
+> Venu de la série B et des productions Roger Corman, Joe Dante a incarné une mutation du cinéma américain à partir des années 1980. Épouvante et créatures imaginaires, mondes enfantins et contes cauchemardesques, humour et frayeur caractérisent une filmographie dont les grands titres (_Gremlins_, _Explorers_, _Small Soldiers_) témoignent aussi d'un regard politique caustique sur l'Amérique contemporaine.>
 
 # Créatures infernales
 

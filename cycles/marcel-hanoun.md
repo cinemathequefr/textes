@@ -1,8 +1,8 @@
-﻿# Inventer la liberté
+﻿> Depuis plus de cinquante ans, Marcel Hanoun accomplit sans relâche une œuvre intense et qui témoigne, entre autres beautés, d'un respect presque perdu pour cet homme de l'ombre et des lumières : le spectateur de cinéma.
+
+# Inventer la liberté
 
 > « Emparez-vous de toute forme de hors-champ, détournez la norme, mettez-vous à la marge, observez le monde, non d'en être au cœur, libres d'être corseté de ses préjugés, mais dans un survol au grand-angle. Emparez-vous de la liberté d'inventer pour inventer la liberté. » (Marcel Hanoun)[^1]
-
-**Depuis plus de cinquante ans, Marcel Hanoun accomplit sans relâche une œuvre intense et qui témoigne, entre autres beautés, d'un respect presque perdu pour cet homme de l'ombre et des lumières : le spectateur de cinéma.**
 
 La filmographie de Marcel Hanoun constitue la preuve qu'une œuvre magistrale peut advenir entièrement hors des circuits commerciaux, avec une inventivité logistique et formelle jamais démentie et sans rien abandonner de sa cohérence. Le prix à payer ? Une visibilité différée. Le résultat ? Un corpus de films décisifs, ancrés dans le présent de l'histoire collective, montrant à quel point le cinéma est capable de penser et approfondir son immédiateté. Le parcours de Marcel Hanoun réfute en acte tout discours sur l'assujettissement des cinéastes aux obligations industrielles et congédie les prétextes qui déroberaient le cinéma à ses capacités de réfléchir son temps. Comme si cela ne suffisait pas, Marcel Hanoun accompagne ses films de traités littéraires où rien de ce qui concerne le cinéma n'échappe au questionnement critique : fondation des revues _Cinéthique_ en 1969 et _Changer le cinéma_ en 1976, publication de l'article « L'Acte cinématographique (pour un nouveau cinéma) » en 1981, _L'Insoutenable regard de la caméra_ en 1985, _Cinéma Cinéaste : Notes sur l'image écrite_ en 2001. Rédacteur de l'un des projets présentés aux États généraux de 1968, resté très attentif à tout ce qui concerne la production des images notamment dans son rapport au service public, il écrit par exemple dans son manifeste _L'Acte audio-visuel_ : « Public est un concept réducteur, infantilisé de celui de Peuple. »
 
@@ -16,7 +16,7 @@ En 1956, Marcel Hanoun réalise pour la télévision et en 16 mm _Des hommes qui
 
 Sans doute Marcel Hanoun s'est-il d'emblée écarté du « droit » chemin, et son pas de côté a fait naître toute l'œuvre cinématographique, de 1956 jusqu'à aujourd'hui (et demain). Sans doute a t-il dévié en prenant son beau rêve pour la réalité de tous, induit en erreur à l'origine – on imagine – par un père qui filmait en amateur et le filmait lui, enfant, dans les rues de sa ville natale, Tunis, entre soleil et ombre. Sans doute le geste a-t-il paru simple et prometteur au petit Hanoun, mystérieux aussi, se jurant secrètement de le prolonger et de l'élucider, et en grandissant de mêler au geste instinctif de l'amateur (celui qui aime) la lucidité du théoricien. Ainsi dans l'éblouissante série des documentaires réalisés en Espagne entre 1960 et 1964 (_Feria_, _La Mort du taureau_...), on assiste à l'émergence de modalités descriptives qui confient aux seuls pouvoirs de l'image et du montage, à l'exclusion donc du verbe, la possibilité d'un rendu des phénomènes redevable d'une double et conjointe exigence : à la fois totalement sensuel, charnel, organique (veine profondément érotique du cinéma de Marcel Hanoun, souvent mobilisé par des portraits de femmes : par exemple, _Tiziana_, 1968), et totalement réflexif, questionnant, ouvert (veine critique de l'œuvre, déconstructive, analytique : par exemple, _Octobre à Madrid_, 1964). En 1976, un essai d'une grande richesse, produit par une compagnie de films pornographiques, _Le Regard_, livrera la théorie en image de ces deux libidos : le désir de voir et la pulsion de savoir.
 
-L'une des dynamiques qui permet un tel accès critique aux phénomènes consiste à s'affranchir « du corporatisme, de la pesanteur économique du cinéma, des règles de faisabilité du film »[^5], à jouer et à se jouer des codes, genres et syntaxes ordinaires, à se placer dans les angles réputés morts de l'écriture admise ou majoritaire, à filmer – pour le dire comme lui – autrement que dans la position du « missionnaire »[^6]. Bref, à faire du cinéma le lieu d'une expérimentation permanente. Hanoun cinéaste a plus d'une fois occupé les postes généralement séparés et hiérarchisés par l'industrie du film, se rapprochant de fait d'un idéal de peintre et d'écrivain : scénariste, producteur, opérateur, acteur, monteur, « diffuseur » même depuis qu'il a pris l'initiative de mettre plusieurs de ses films en ligne pour contourner l'oubli[^7], parfois spectateur trop esseulé de ses images et de ses sons qu'il destine pourtant à d'autres que lui, au plus vaste du monde, même si l'indifférenciation du substantif « public » l'avertit toujours d'un faux ami, d'un mot alibi au service d'une idéologie du profit et du contrôle : « Le film se crée et se regarde de l'unique regard de chacun ».[^8]
+L'une des dynamiques qui permet un tel accès critique aux phénomènes consiste à s'affranchir « du corporatisme, de la pesanteur économique du cinéma, des règles de faisabilité du film »[^5], à jouer et à se jouer des codes, genres et syntaxes ordinaires, à se placer dans les angles réputés morts de l'écriture admise ou majoritaire, à filmer – pour le dire comme lui – autrement que dans la position du « missionnaire »[^6]. Bref, à faire du cinéma le lieu d'une expérimentation permanente. Hanoun cinéaste a plus d'une fois occupé les postes généralement séparés et hiérarchisés par l'industrie du film, se rapprochant de fait d'un idéal de peintre et d'écrivain : scénariste, producteur, opérateur, acteur, monteur, « diffuseur » même depuis qu'il a pris l'initiative de mettre plusieurs de ses films en ligne pour contourner l'oubli[^7], parfois spectateur trop esseulé de ses images et de ses sons qu'il destine pourtant à d'autres que lui, au plus vaste du monde, même si l'indifférenciation du substantif « public » l'avertit toujours d'un faux ami, d'un mot alibi au service d'une idéologie du profit et du contrôle : « Le film se crée et se regarde de l'unique regard de chacun. »[^8]
 
 ## « Le réel de l'image est dans ce qu'elle ne montre pas »[^8]
 
@@ -26,11 +26,11 @@ Bernard Benoliel, Nicole Brenez
 
 ---
 
-[^1]: Marcel Hanoun, _Lettre à de jeunes cinéastes_, rédigée pour les États généreux des élèves de la Fémis, 2009.  
-[^2]: Marcel Hanoun, _Cinéma cinéaste_, Yellow Now, 2001.  
-[^3]: Marcel Hanoun, « Regard du film sur le spectateur », _L'Avant-scène cinéma_, n° 242, février 1980.  
-[^4]: Marcel Hanoun, « À la recherche de l'imprévisible contre-chant », _Trafic_, hiver 2002.  
-[^5]: Marcel Hanoun, _Cinéma cinéaste_, op. cit.  
-[^6]: Marcel Hanoun, « À la recherche de l'imprévisible contre-chant », _Trafic_, hiver 2002.  
-[^7]: Marcem Hanoun, [www.ma-cinematheque.com](http://www.ma-cinematheque.com)  
-[^8]: Marcem Hanoun, _Cinéma cinéaste_, op. cit.  
+[^1]: Marcel Hanoun, _Lettre à de jeunes cinéastes_, rédigée pour les États généreux des élèves de la Fémis, 2009.
+[^2]: Marcel Hanoun, _Cinéma cinéaste_, Yellow Now, 2001.
+[^3]: Marcel Hanoun, « Regard du film sur le spectateur », _L'Avant-scène cinéma_, n° 242, février 1980.
+[^4]: Marcel Hanoun, « À la recherche de l'imprévisible contre-chant », _Trafic_, hiver 2002.
+[^5]: Marcel Hanoun, _Cinéma cinéaste_, op. cit.
+[^6]: Marcel Hanoun, « À la recherche de l'imprévisible contre-chant », _Trafic_, hiver 2002.
+[^7]: Marcem Hanoun, www.ma-cinematheque.com
+[^8]: Marcem Hanoun, _Cinéma cinéaste_, op. cit.

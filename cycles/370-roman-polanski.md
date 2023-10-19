@@ -1,4 +1,4 @@
-**Malgré son apparente versatilité, l’œuvre de Roman Polanski possède une unité paradoxale et profonde, combinant grand spectacle et vision personnelle, intérêt pour les innovations techniques et explorations psychiques, dérives fantastiques et sens du détail vériste.**
+> Malgré son apparente versatilité, l’œuvre de Roman Polanski possède une unité paradoxale et profonde, combinant grand spectacle et vision personnelle, intérêt pour les innovations techniques et explorations psychiques, dérives fantastiques et sens du détail vériste.
 
 # Un art visionnaire
 

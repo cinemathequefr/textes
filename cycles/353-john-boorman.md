@@ -3,7 +3,7 @@ title: Un romantique sceptique
 author: Michel Ciment
 ---
 
-**Venu de l'école anglaise du documentaire, John Boorman a rompu avec cette tradition pour s'attaquer à tous les genres cinématographiques, qu'il a l'ambition de renouveler de fond en comble. Mais chez lui, le désir d'aventure et d'un ailleurs idyllique peut se révéler illusoire.**
+> Venu de l'école anglaise du documentaire, John Boorman a rompu avec cette tradition pour s'attaquer à tous les genres cinématographiques, qu'il a l'ambition de renouveler de fond en comble. Mais chez lui, le désir d'aventure et d'un ailleurs idyllique peut se révéler illusoire.
 
 # Un romantique sceptique
 

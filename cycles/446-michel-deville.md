@@ -1,12 +1,12 @@
 # Le jeu de l'amour et du cinéma
 
-_Le lundi treize avril mille neuf cent trente et un_  
-_Souriant je suis né_    
-_Ce n'est pas vraiment_  
-_Un événement_
-_Extraordinaire_  
-_Pourtant j'étais fier_  
-_De commencer ma vie par un alexandrin_
+> _Le lundi treize avril mille neuf cent trente et un_  
+> _Souriant je suis né_  
+> _Ce n'est pas vraiment_  
+> _Un événement_
+> _Extraordinaire_  
+> _Pourtant j'étais fier_  
+> _De commencer ma vie par un alexandrin_
 
 C'est dans _Vous désirez ?_, un de la douzaine de recueils de poèmes publiés par Michel Deville, que l'on trouve ce faire-part de naissance dont le caractère ludique reflète un des aspects de son art.
 

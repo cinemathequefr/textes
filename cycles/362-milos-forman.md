@@ -3,7 +3,7 @@ title: Les chemins de la liberté
 author: Bernard Benoliel
 ---
 
-**Cinéaste tchèque contemporain à ses débuts des nouvelles vagues européennes des années 1960, devenu américain en 1968 après l'entrée dans Prague des chars soviétiques, Milos Forman a su garder son cap en n'étant jamais dupe de n'importe quel pouvoir : celui qui pèse sur les êtres pour les contraindre et les priver de toute dimension. C'est cette dimension retrouvée que ses films et ses personnages, à leurs risques et périls, manifestent et exaltent sans cesse.**
+> Cinéaste tchèque contemporain à ses débuts des nouvelles vagues européennes des années 1960, devenu américain en 1968 après l'entrée dans Prague des chars soviétiques, Milos Forman a su garder son cap en n'étant jamais dupe de n'importe quel pouvoir : celui qui pèse sur les êtres pour les contraindre et les priver de toute dimension. C'est cette dimension retrouvée que ses films et ses personnages, à leurs risques et périls, manifestent et exaltent sans cesse.
 
 # Les chemins de la liberté
 

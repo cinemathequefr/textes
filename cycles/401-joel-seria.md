@@ -1,4 +1,4 @@
-**Iconoclaste et impertinent, Joël Séria, connu pour ses fameuses _Galettes de Pont-Aven_ et le tandem inoubliable mené avec son acteur fétiche Jean-Pierre Marielle, signe en huit longs métrages de cinéma (sans parler des films de télévision) une œuvre aux confluents du pamphlet, de la truculence et de la mélancolie.**
+> Iconoclaste et impertinent, Joël Séria, connu pour ses fameuses _Galettes de Pont-Aven_ et le tandem inoubliable mené avec son acteur fétiche Jean-Pierre Marielle, signe en huit longs métrages de cinéma (sans parler des films de télévision) une œuvre aux confluents du pamphlet, de la truculence et de la mélancolie.
 
 # Joël Séria, l'irrévérencieux
 

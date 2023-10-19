@@ -1,4 +1,4 @@
-**Hommage à la « Quinzaine », cette sélection parallèle du Festival de Cannes créée en 1969, année politique. Une bonne partie du meilleur du jeune cinéma dans le monde entier, dont beaucoup de réalisateurs allaient se révéler de grands cinéastes, s'y précipita alors et depuis. Cette programmation tente un « fac-similé » de cette folle édition 69 de la Quinzaine.**
+> Hommage à la « Quinzaine », cette sélection parallèle du Festival de Cannes créée en 1969, année politique. Une bonne partie du meilleur du jeune cinéma dans le monde entier, dont beaucoup de réalisateurs allaient se révéler de grands cinéastes, s'y précipita alors et depuis. Cette programmation tente un « fac-similé » de cette folle édition 69 de la Quinzaine.
 
 # C'était un temps déraisonnable
 

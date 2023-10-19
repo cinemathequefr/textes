@@ -1,6 +1,6 @@
-# Léonide Moguy, cinéaste engagé
+> Baptisé par les chroniqueurs de son temps « le cinéaste de la bonté » ou « le missionnaire du cinéma », le metteur en scène d'origine ukrainienne Léonide Moguy (1896-1978) considérait le septième art non comme un simple divertissement, mais comme un vecteur pour éveiller les consciences et véhiculer des idées humanistes.
 
-**Baptisé par les chroniqueurs de son temps « le cinéaste de la bonté » ou « le missionnaire du cinéma », le metteur en scène d'origine ukrainienne Léonide Moguy (1896-1978) considérait le septième art non comme un simple divertissement, mais comme un vecteur pour éveiller les consciences et véhiculer des idées humanistes.**
+# Léonide Moguy, cinéaste engagé
 
 Attentif aux évolutions de la société et aux dangers planétaires, cet artiste d'une grande conviction n'a pas craint, tout le long de sa carrière, d'aborder des sujets brûlants au risque de subir la censure des ministères. Par le truchement de sa caméra, il traita tour à tour de thèmes aussi délicats que la délinquance juvénile, les maisons de correction, la prostitution, les mères célibataires, l'éducation sexuelle, ou encore les dangers du nucléaire, au risque d'irriter les plus conservateurs ou d'agacer les esprits sceptiques le soupçonnant d'aborder des sujets racoleurs pour attirer les spectateurs. Sensible et passionné, le metteur en scène s'érigea en spécialiste du mélodrame : les conflits cornéliens, les situations les plus extrêmes devenaient de vrais révélateurs de personnalités, des prétextes destinés à mieux étayer ses thèses.
 

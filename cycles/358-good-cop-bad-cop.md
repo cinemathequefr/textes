@@ -3,7 +3,7 @@ title: Figures du policier dans le cinéma américain des années 1960-1970
 author: Philippe Garnier
 ---
 
-**Dans le cinéma américain de la fin des années 60 et des années 70, la figure du policier s'enrichit et s'assombrit à la fois. Figure ambiguë, parfois tragique ou maléfique, ce personnage évolue pour devenir plus trouble, plus immoral parfois, plus dangereux et plus humain aussi, un changement qui exprime de surcroît une mutation formelle et culturelle de Hollywood. Une programmation en plus de 30 films qui fera se côtoyer des titres devenus des classiques (_Bullitt_, _L'Inspecteur Harry_, _French Connection_) et des raretés (_Report to the Commissioner_, _Les Anges gardiens_, _Le Flic ricanant_).**
+> Dans le cinéma américain de la fin des années 60 et des années 70, la figure du policier s'enrichit et s'assombrit à la fois. Figure ambiguë, parfois tragique ou maléfique, ce personnage évolue pour devenir plus trouble, plus immoral parfois, plus dangereux et plus humain aussi, un changement qui exprime de surcroît une mutation formelle et culturelle de Hollywood. Une programmation en plus de 30 films qui fera se côtoyer des titres devenus des classiques (_Bullitt_, _L'Inspecteur Harry_, _French Connection_) et des raretés (_Report to the Commissioner_, _Les Anges gardiens_, _Le Flic ricanant_).
 
 # Figures du policier dans le cinéma américain des années 1960-1970
 
@@ -19,7 +19,7 @@ _Le Détective_ (Gordon Douglas, 1968) ou _Police sur la ville_ (Don Siegel, 196
 
 Comme me l'a récemment dit ce dernier, qui continuera la recette avec _The French Connection_ et son propre _The Seven-Ups_ : « Le film que j'envisageais était tout différent. Mais j'avais un deal chez Warner, et la compagnie de McQueen était intéressée par ce que j'avais développé à partir d'un polar de Robert L. Fish, intitulé _Mute Witness_. Pour vous donner une idée, le flic était prêt à partir en retraite, et je voulais engager Spencer Tracy ! » Mais quand on prend McQueen, on travaille pour McQueen. Il a mis son scénariste dessus (Alan Trustman), et le film est devenu ce qu'il est devenu. D'Antoni par contre est celui qui a insisté pour avoir une poursuite de voitures ; trois ans plus tard, il marquera l'histoire du cinéma en lâchant William Friedkin dans les rues de New York et en faisant doubler Gene Hackman au volant par le même cascadeur, Bill Hickman.
 
-##De plus en plus noir
+## De plus en plus noir
 
 En cinq ans, le genre a perfusé nombre de films en autant de concoctions aussi corrosives qu'explosives, tant dans la forme que dans le contenu : de la comédie (_Les Anges gardiens_, Richard Rush) au drame réaliste en passant par la satire. Le premier épisode de _Police Story_, la série créée par Joseph Wambaugh, recycle sans tiquer une réplique que Frank Bullitt disait au politicien : « Bossez de votre côté de la rue, je bosserai du mien. » Sauf qu'avec Wambaugh, c'est devenu un flic véreux reconverti en indic qui parle à un capitaine des Mœurs. La guerre des services a commencé.
 

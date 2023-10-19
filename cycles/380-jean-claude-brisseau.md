@@ -1,4 +1,4 @@
-**Un des cinéastes français les plus singuliers d'aujourd'hui. Jean-Claude Brisseau a montré, dès ses premiers films son intérêt à la fois pour la peinture du monde social (_La vie comme ça_, _De Bruit et de Fureur_ évoquent l'univers des banlieues) mais aussi pour une certaine dimension métaphysique et fantastique (_Céline_). L'érotisme et la nature du plaisir féminin seront au cœur des films des dernières années (_Choses secrètes_, _Les Anges exterminateurs_, _À l'aventure_).**
+> Un des cinéastes français les plus singuliers d'aujourd'hui. Jean-Claude Brisseau a montré, dès ses premiers films son intérêt à la fois pour la peinture du monde social (_La vie comme ça_, _De Bruit et de Fureur_ évoquent l'univers des banlieues) mais aussi pour une certaine dimension métaphysique et fantastique (_Céline_). L'érotisme et la nature du plaisir féminin seront au cœur des films des dernières années (_Choses secrètes_, _Les Anges exterminateurs_, _À l'aventure_).\*\*
 
 # Mystique d'un écorché
 

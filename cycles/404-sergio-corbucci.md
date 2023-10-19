@@ -1,4 +1,4 @@
-**Sergio Corbucci (1927-1990) est l'un des inventeurs du western italien qu'il enrichit d'idées baroques (_Django_, 1966 ; _Le Grand silence_, 1968) quand il n'en fait pas le vecteur d'un discours anti-impérialiste (sa série « révolutionnaire » : _Le Mercenaire_, _Compañeros_). Le cinéaste a pourtant débuté dès les années 1950, servant jusqu'aux années 1960 les genres à la mode comme la comédie (_Les Deux Maréchaux_, avec Totò) ou le péplum (_Romulus et Rémus_, _Le Fils de Spartacus_). Il fut l'un des piliers d'un grand cinéma populaire italien aujourd'hui disparu.**
+> Sergio Corbucci (1927-1990) est l'un des inventeurs du western italien qu'il enrichit d'idées baroques (_Django_, 1966 ; _Le Grand silence_, 1968) quand il n'en fait pas le vecteur d'un discours anti-impérialiste (sa série « révolutionnaire » : _Le Mercenaire_, _Compañeros_). Le cinéaste a pourtant débuté dès les années 1950, servant jusqu'aux années 1960 les genres à la mode comme la comédie (_Les Deux Maréchaux_, avec Totò) ou le péplum (_Romulus et Rémus_, _Le Fils de Spartacus_). Il fut l'un des piliers d'un grand cinéma populaire italien aujourd'hui disparu.
 
 # Le carnaval des âmes
 

@@ -3,7 +3,7 @@ title: En compagnie de Vincent Lindon
 author: Serge Kaganski
 ---
 
-**Acteur populaire qui a su conquérir la liberté de faire des choix et des expériences, récent prix d'interprétation au Festival de Cannes, Vincent Lindon nourrit aussi son jeu d'une cinéphilie constante. Une semaine à la Cinémathèque en compagnie d'un homme engagé dans le plein exercice de son art.**
+> Acteur populaire qui a su conquérir la liberté de faire des choix et des expériences, récent prix d'interprétation au Festival de Cannes, Vincent Lindon nourrit aussi son jeu d'une cinéphilie constante. Une semaine à la Cinémathèque en compagnie d'un homme engagé dans le plein exercice de son art.
 
 # En compagnie de Vincent Lindon
 

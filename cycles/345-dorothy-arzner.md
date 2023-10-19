@@ -1,4 +1,4 @@
-**Elle fut une des rares femmes réalisatrices à avoir mené une carrière au cœur même du système des studios à Hollywood. D'abord monteuse et scénariste, elle signera la mise en scène d'une vingtaine de films entre 1927 et 1943, essentiellement pour la Paramount. Elle fera tourner quelques grandes vedettes du moment (Fredric March, Katharine Hepburn, Joan Crawford). On lui doit une œuvre très personnelle, remarquable notamment par l'originalité de ses personnages féminins.**
+> Elle fut une des rares femmes réalisatrices à avoir mené une carrière au cœur même du système des studios à Hollywood. D'abord monteuse et scénariste, elle signera la mise en scène d'une vingtaine de films entre 1927 et 1943, essentiellement pour la Paramount. Elle fera tourner quelques grandes vedettes du moment (Fredric March, Katharine Hepburn, Joan Crawford). On lui doit une œuvre très personnelle, remarquable notamment par l'originalité de ses personnages féminins.
 
 # Dorothy Arzner : une femme dans un monde d'hommes
 

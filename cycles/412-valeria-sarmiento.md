@@ -1,4 +1,4 @@
-**De l'essai documentaire à la fiction, de la radiographie de la violence de genre au film en costumes, l'œuvre si rare de Valeria Sarmiento expose et retourne avec élégance et humour les stéréotypes féminins au tournant du XXI<sup>e</sup> siècle. Amour, folie, dévoration : la réalisatrice déploie en une quinzaine de films les codes du mélodrame pour exalter la délicieuse truculence du rapport entre les sexes. Rétrospective à l'occasion de la sortie de son dernier film en date, _Le Cahier noir_.**
+> De l'essai documentaire à la fiction, de la radiographie de la violence de genre au film en costumes, l'œuvre si rare de Valeria Sarmiento expose et retourne avec élégance et humour les stéréotypes féminins au tournant du XXI<sup>e</sup> siècle. Amour, folie, dévoration : la réalisatrice déploie en une quinzaine de films les codes du mélodrame pour exalter la délicieuse truculence du rapport entre les sexes. Rétrospective à l'occasion de la sortie de son dernier film en date, _Le Cahier noir_.
 
 # L'hémisphère femme
 

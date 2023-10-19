@@ -1,4 +1,4 @@
-**Scénariste remarqué, devenu réalisateur au milieu des années 1960, Jean-Paul Rappeneau a depuis mis en scène huit longs métrages, comédies d'aventures, historiques, adaptations littéraires, autant de films épiques et élégants, rythmés et précis, peuplés de stars, où domine le sentiment d'une enfance jamais disparue.**
+> Scénariste remarqué, devenu réalisateur au milieu des années 1960, Jean-Paul Rappeneau a depuis mis en scène huit longs métrages, comédies d'aventures, historiques, adaptations littéraires, autant de films épiques et élégants, rythmés et précis, peuplés de stars, où domine le sentiment d'une enfance jamais disparue.
 
 # Souvenirs d'enfance
 

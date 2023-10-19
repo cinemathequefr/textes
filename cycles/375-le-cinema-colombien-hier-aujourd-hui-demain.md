@@ -1,4 +1,4 @@
-**La Cinémathèque française présente un concentré de cinéma colombien à travers 17 séances de courts et long métrages dans le cadre de l'Année France-Colombie 2017.**
+> La Cinémathèque française présente un concentré de cinéma colombien à travers 17 séances de courts et long métrages dans le cadre de l'Année France-Colombie 2017.
 
 # Le cinéma colombien hier, aujourd'hui, demain
 

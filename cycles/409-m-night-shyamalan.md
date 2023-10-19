@@ -1,4 +1,4 @@
-**En attendant la sortie de _Glass_, prévue pour début 2019, retour sur une filmographie singulière au cœur même du système des studios américains. Découvert en 1999 avec _Sixième sens_, M. Night Shyamalan a inventé une manière toute personnelle de composer avec les conventions de la terreur cinématographique et de les questionner. Reposant sur d'étranges et inventifs postulats, bousculant le spectateur par l'inventivité diabolique de ses histoires, il a construit une œuvre d'un romantisme très éloigné de l'ironie du divertissement hollywoodien actuel.**
+> En attendant la sortie de _Glass_, prévue pour début 2019, retour sur une filmographie singulière au cœur même du système des studios américains. Découvert en 1999 avec _Sixième sens_, M. Night Shyamalan a inventé une manière toute personnelle de composer avec les conventions de la terreur cinématographique et de les questionner. Reposant sur d'étranges et inventifs postulats, bousculant le spectateur par l'inventivité diabolique de ses histoires, il a construit une œuvre d'un romantisme très éloigné de l'ironie du divertissement hollywoodien actuel.
 
 # Contes de terreur
 

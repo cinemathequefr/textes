@@ -1,6 +1,6 @@
-# De là, de Lituanie, d'ailleurs
+> Histoire et panorama de la cinématographie lituanienne, production surprenante et mal connue, sauf jusqu'à présent deux grandes figures du cinéma moderne et contemporain : Sharunas Bartas (avant-première de _Frost_) et Jonas Mekas, tous deux présents à la Cinémathèque à l'occasion de cette rétrospective.
 
-Histoire et panorama de la cinématographie lituanienne, production surprenante et mal connue, sauf jusqu'à présent deux grandes figures du cinéma moderne et contemporain : Sharunas Bartas (avant-première de _Frost_) et Jonas Mekas, tous deux présents à la Cinémathèque à l'occasion de cette rétrospective.
+# De là, de Lituanie, d'ailleurs
 
 Au début, tout a semblé se dérouler « normalement » en Lituanie : le 3 juillet 1897, l'invention des frères Lumière se trouve à Vilnius (alors dans l'Empire russe) pour une projection. Mais la trajectoire ne sera pas du tout rectiligne, loin de là. La jeune nation lituanienne de l'entre-deux-guerres (1918-1940) ne vit pas se former une industrie, qui s'ébauchera seulement après-guerre, sous tutelle soviétique. Dans un premier temps, le « Studio de cinéma lituanien » consiste avant tout à produire, comme ailleurs en URSS stalinienne, un réalisme socialiste plus ou moins coloré localement. Il existe toutefois un cinéma lituanien bien avant la proclamation de l'indépendance, le 11 mars 1990 – le frondeur État balte étant la toute première des républiques d'Union soviétique à s'affranchir de la tutelle de Moscou.
 

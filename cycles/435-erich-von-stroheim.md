@@ -1,8 +1,8 @@
-Erich von Stroheim (1885-1957), le réalisateur le plus ambitieux et le plus extrême du cinéma hollywoodien muet : _Folies de femmes_, _Les Rapaces_, _La Symphonie nuptiale_..., autant de mises à nu des pulsions les plus démentes, autant de cris de rage lancés à la face d'un _studio system_ qui, après l'avoir enfanté, va le broyer et faire avorter une carrière qui s'annonçait exceptionnelle.
-
-« Stroheim s'est acharné à l'autopsie du cadavre, et son scalpel ne s'arrêtait à rien, il allait droit au cœur, aux centres nerveux, au cerveau : aux palais. » (Henri Langlois)
+> Erich von Stroheim (1885-1957), le réalisateur le plus ambitieux et le plus extrême du cinéma hollywoodien muet : _Folies de femmes_, _Les Rapaces_, _La Symphonie nuptiale_..., autant de mises à nu des pulsions les plus démentes, autant de cris de rage lancés à la face d'un _studio system_ qui, après l'avoir enfanté, va le broyer et faire avorter une carrière qui s'annonçait exceptionnelle.
 
 # Le Prince des nuées
+
+> « Stroheim s'est acharné à l'autopsie du cadavre, et son scalpel ne s'arrêtait à rien, il allait droit au cœur, aux centres nerveux, au cerveau : aux palais. » (Henri Langlois)
 
 Débarqué de son Autriche natale en 1909, Erich von Stroheim sera successivement maître-nageur, vendeur de lingerie, poseur de rails, balayeur de plateau, puis figurant et enfin assistant dans de grandes productions des débuts de l'ère hollywoodienne. Après sa mémorable, bien qu'éphémère, performance dans _Naissance d'une nation_ de Griffith (qui lui valut la fracture de deux côtes), il convainc le producteur Carl Laemmle de lui confier la réalisation d'un film qu'il adapte de son propre roman, _The Pinnacle_. Renonçant à être payé en tant que scénariste et réalisateur, il dirige un premier long qui finira par s'appeler, contre son gré, _Maris aveugles_ (1919).
 

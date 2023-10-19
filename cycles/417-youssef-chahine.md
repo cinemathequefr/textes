@@ -1,4 +1,4 @@
-**_Gare centrale_, _Le Moineau_, _L'Émigré_, _Le Destin_... Né à Alexandrie, Youssef Chahine a signé une œuvre généreuse, courageuse, combative, inventive, sans cesse inspirée par sa vie de cinéaste et de citoyen, nourrie du souvenir des films hollywoodiens de son enfance, en particulier les comédies musicales, ne reculant ni devant une reconstitution historique (_Saladin_, _Adieu Bonaparte_) ni devant l'évocation autobiographique (_Alexandrie pourquoi ?_, _La Mémoire_, _Alexandrie encore et toujours_).**
+> _Gare centrale_, _Le Moineau_, _L'Émigré_, _Le Destin_... Né à Alexandrie, Youssef Chahine a signé une œuvre généreuse, courageuse, combative, inventive, sans cesse inspirée par sa vie de cinéaste et de citoyen, nourrie du souvenir des films hollywoodiens de son enfance, en particulier les comédies musicales, ne reculant ni devant une reconstitution historique (_Saladin_, _Adieu Bonaparte_) ni devant l'évocation autobiographique (_Alexandrie pourquoi ?_, _La Mémoire_, _Alexandrie encore et toujours_).
 
 # Chahine dans tous ses états
 

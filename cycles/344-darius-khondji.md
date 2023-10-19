@@ -3,7 +3,7 @@ title: Le vif-argentique
 author: Bernard Payen
 ---
 
-**Amoureux de la photographie argentique et du cinémascope, brillant expérimentateur, Darius Khondji est l'un des plus grands chefs opérateurs actuels. Depuis _Le Trésor des îles Chiennes_ et les premiers films de Caro et Jeunet ou de David Fincher, son parcours cinématographique est international, comme en témoignent ses derniers films tournés sous la direction de James Gray (_The Lost City of Z_, 2017), ou Bong Joon-ho (_Okja_, 2017).**
+> Amoureux de la photographie argentique et du cinémascope, brillant expérimentateur, Darius Khondji est l'un des plus grands chefs opérateurs actuels. Depuis _Le Trésor des îles Chiennes_ et les premiers films de Caro et Jeunet ou de David Fincher, son parcours cinématographique est international, comme en témoignent ses derniers films tournés sous la direction de James Gray (_The Lost City of Z_, 2017), ou Bong Joon-ho (_Okja_, 2017).
 
 # Le vif-argentique
 

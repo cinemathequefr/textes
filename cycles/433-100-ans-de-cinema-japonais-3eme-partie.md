@@ -1,4 +1,4 @@
-Troisième et dernier volet d'une histoire du cinéma japonais : une quinzaine de films récents comprenant des avant-premières, des films réalisés aussi bien par de grands noms du cinéma japonais que par de jeunes réalisateurs.
+> Troisième et dernier volet d'une histoire du cinéma japonais : une quinzaine de films récents comprenant des avant-premières, des films réalisés aussi bien par de grands noms du cinéma japonais que par de jeunes réalisateurs.
 
 # Nouvelles trajectoires
 

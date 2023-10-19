@@ -1,6 +1,6 @@
-# Libérations sexuelles, révolutions visuelles
+> Une programmation de combat, abrasive et politique, pour remettre en pleine lumière les maudits et les bannis, ceux qui, caméra au poing, sont descendus dans l’arène filmer des sexualités trop longtemps restées dans l’ombre. Un mois de cinéma enfiévré, trente séances révoltées, à l’assaut aussi bien des préjugés que des carcans esthétiques. Embrasez qui vous voudrez !
 
-Une programmation de combat, abrasive et politique, pour remettre en pleine lumière les maudits et les bannis, ceux qui, caméra au poing, sont descendus dans l’arène filmer des sexualités trop longtemps restées dans l’ombre. Un mois de cinéma enfiévré, trente séances révoltées, à l’assaut aussi bien des préjugés que des carcans esthétiques. Embrasez qui vous voudrez !
+# Libérations sexuelles, révolutions visuelles
 
 > « Les drag queens sont de vraies révolutionnaires
 > qui baisent les codes visuels du genre. » (David Wojnarowicz)

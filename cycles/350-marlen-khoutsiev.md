@@ -3,7 +3,7 @@ title: Un baromètre poétique de l'Histoire
 author: Bernard Eisenschitz
 ---
 
-**Dix films seulement en cinquante ans, allant de la fresque (deux œuvres de plus de trois heures) à la rencontre entre deux personnages : le parcours en apparence erratique de Marlen Khoutsiev accompagne et révèle « à quoi pense » l'histoire de l'URSS et de la Russie, avec au centre _Le Faubourg d'Ilytch / J'ai vingt ans_, qui a incarné l'esprit et les espoirs du dégel de 1956.**
+> Dix films seulement en cinquante ans, allant de la fresque (deux œuvres de plus de trois heures) à la rencontre entre deux personnages : le parcours en apparence erratique de Marlen Khoutsiev accompagne et révèle « à quoi pense » l'histoire de l'URSS et de la Russie, avec au centre _Le Faubourg d'Ilytch / J'ai vingt ans_, qui a incarné l'esprit et les espoirs du dégel de 1956.
 
 # Un baromètre poétique de l'Histoire
 
