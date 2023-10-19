@@ -15,6 +15,7 @@ Si Wiseman a souvent abordé des thèmes « sociaux » ou « difficiles », il e
 Wiseman sait aussi faire un détour du côté des artistes : chez les danseurs du New York City Ballet, ou chez les comédiens et metteurs en scène de notre Comédie-Française. Car Wiseman est passionné de théâtre : il a mis en scène, il n'y a pas si longtemps, _La Dernière lettre_, d'après Vassili Grossman, avec Catherine Samie (il en a tiré une très belle version cinématographique, présentée hors compétition au festival de Cannes en 2003), et plus récemment, toujours avec la même interprète, _Oh ! les beaux jours_, de Samuel Beckett.
 
 En travaillant avec le soutien de grandes fondations (Fondation Ford, par exemple) et de la télévision publique américaine (réseau PBS et aussi parfois, BBC au Royaume-Uni ou Arte en France), en étant son propre producteur, Wiseman s'est donné les moyens de créer une œuvre qui échappe à la banalité, au formatage, à la normalisation, à la fugacité qui, outre Atlantique, comme en Europe, pèsent lourdement sur la création cinématographique et audiovisuelle.
+
 Chroniqueur attentif et sans illusion de la société contemporaine, Wiseman refuse absolument le rôle de « donneur de leçons ». « Les documentaires, écrit-il, comme les pièces de théâtre, les romans, les poèmes, appartiennent à la forme fictionnelle et n'ont aucune utilité sociale mesurable. »
 
 Philippe Pilard
